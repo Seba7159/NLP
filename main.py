@@ -12,13 +12,12 @@ myPath = "untagged/"
 onlyfiles = [f for f in listdir(myPath) if isfile(join(myPath, f))]
 
 
+# Reading the corpora
 # Declare hash map of files
 mapFiles   = {}
 mapHeaders = {}
 mapContent = {}
 
-
-# Reading the corpora
 for fileName in onlyfiles:
     # Construct file name and read the file
     filePath = myPath + fileName
@@ -38,6 +37,8 @@ for fileName in onlyfiles:
         mapContent[fileName] = ""
 
 
-# Testing if a file has been added correctly
-print("Header: \n" + mapHeaders["301.txt"])
-print("Content: \n" + mapContent["301.txt"])
+# Tag times using regex's
+import re
+stimeRegEx = "\\b((1[0-2]|0?[1-9])((:[0-5][0-9])?)(\s?)([AaPp][Mm])|(1[0-2]|0?[1-9])(:[0-5][0-9])){1}"
+testFileName = "303.txt"
+print(re.findall(stimeRegEx, mapContent[testFileName]))
