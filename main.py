@@ -56,9 +56,6 @@ def tag(position, word, fileName, tagName):
 
 # Tag times using regex's
 def tagTimes(fileName):
-    # Initialise key for hash map tags
-    mapTags[fileName] = {}
-
     # Tag start and end time from headers
     headerRegEx = "Time:(.*)"
     headerTimesTemp = re.search(headerRegEx, mapHeaders[fileName])
@@ -84,7 +81,7 @@ def tagTimes(fileName):
 
     # Check how many positions have advanced
     counter = 0
-    TIME_TAG_LEN = 15
+    TIME_TAG_LEN = len("<stime></stime>")
 
     # Add tags at start and end of time
     for m in timeRegEx.finditer(mapFiles[fileName]):
@@ -118,11 +115,62 @@ def tagSpeaker(fileName):
 
 # Method to tag the topic
 def tagTopic(fileName):
+    # Tag place from headers
+    headerRegEx = "Topic:(.*)"
+    headerTopicTemp = re.search(headerRegEx, mapHeaders[fileName])
+    print(headerTopicTemp)
+
+    # If header location is not found   TODO: find more occurences about the topic in the text + find full topic if on multiple lines 
+    if headerTopicTemp is None:
+        return
+
+    # If place is defined in header, check for words containing it
+    else:
+        # Get topic from header
+        headerTopic = headerTopicTemp.group(1).strip()
+        mapTags[fileName]['topic'] = headerTopic
+
+        # Define temporary variables for advanced positions so far
+        counter = 0
+        TOPIC_TAG_LEN = len("<topic></topic>")
+        topicRegEx = re.compile(re.escape(headerTopic.lower()))
+
+        # Add tags for the found topic in the header
+        for m in topicRegEx.finditer(mapFiles[fileName].lower()):
+            posTemp = m.start() + counter * TOPIC_TAG_LEN
+            tag(posTemp, headerTopic, fileName, 'topic')
+            counter += 1
+
+    # End method
     return
 
 
 # Method for tagging the location
 def tagLocation(fileName):
+    # Tag place from headers
+    headerRegEx = "Place:(.*)"
+    headerLocationTemp = re.search(headerRegEx, mapHeaders[fileName])
+
+    # If header location is not found   TODO: find other locations in the text
+    if headerLocationTemp is None:
+        return
+    # If place is defined in header, check for words containing it
+    else:
+        headerLocation = headerLocationTemp.group(1).strip()
+        mapTags[fileName]['location'] = headerLocation
+
+        # Define temporary variables for advanced positions so far
+        counter = 0
+        LOCATION_TAG_LEN = len("<location></location>")
+        topicRegEx = re.compile(re.escape(headerLocation.lower()))
+
+        # Add tags for the found topic in the header
+        for m in topicRegEx.finditer(mapFiles[fileName].lower()):
+            posTemp = m.start() + counter * LOCATION_TAG_LEN
+            tag(posTemp, headerLocation, fileName, 'location')
+            counter += 1
+
+    # End method
     return
 
 
@@ -132,7 +180,10 @@ if __name__ == '__main__':
     readContents()
 
     # Set the file name
-    fileName = "303.txt"
+    fileName = "301.txt"
+
+    # Initialise key for hash map tags
+    mapTags[fileName] = {}
 
     # Tag in order
     tagParagraphs(fileName)
