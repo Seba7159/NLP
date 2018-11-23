@@ -4,9 +4,10 @@
 # Part 1: Tagging information
 
 # Imports
+import re
+import nltk
 from os import listdir
 from os.path import isfile, join
-import re
 
 # Declarations of hash map for files and tag details
 mapFiles    = {}
@@ -120,7 +121,7 @@ def tagTopic(fileName):
     headerTopicTemp = re.search(headerRegEx, mapHeaders[fileName])
     print(headerTopicTemp)
 
-    # If header location is not found   TODO: find more occurences about the topic in the text + find full topic if on multiple lines 
+    # If header location is not found   TODO: find more occurences about the topic in the text + find full topic if on multiple lines
     if headerTopicTemp is None:
         return
 
@@ -176,6 +177,8 @@ def tagLocation(fileName):
 
 # Main code
 if __name__ == '__main__':
+    #nltk.download()
+
     # Read the file contents from the 'untagged' folder
     readContents()
 
