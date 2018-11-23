@@ -6,6 +6,7 @@
 # Imports
 import re
 import nltk
+import string
 from os import listdir
 from os.path import isfile, join
 
@@ -111,7 +112,30 @@ def tagParagraphs(fileName):
 
 # Method for tagging the speaker of the annoucement
 def tagSpeaker(fileName):
-    return
+    # Define 'found' boolean
+    found = False
+
+    # Tag speaker by given attributes from the whole file
+    headerSpeakerRegExs = ["who:(.*)", "speaker:(.*)", "name:(.*)"]
+    for regEx in headerSpeakerRegExs:
+        headerSpeakerTemp = re.search(regEx, mapFiles[fileName].lower())
+        if headerSpeakerTemp is None:
+            continue
+
+        # If found, cut punctuation and whitespaces
+        headerSpeaker = headerSpeakerTemp.group(1)
+        for punct in string.punctuation:
+            headerSpeaker = headerSpeaker.split(punct)[0]
+        headerSpeaker = headerSpeaker.strip()
+        
+        print(headerSpeaker)
+
+    # If still not found, try to find by words such as 'by' or 'with' then see if they are people
+
+    # If still not found, get a greedy approach such as the first name that appears in the content of file
+
+    # Worst case, speaker can't be found
+
 
 
 # Method to tag the topic
@@ -119,7 +143,6 @@ def tagTopic(fileName):
     # Tag place from headers
     headerRegEx = "Topic:(.*)"
     headerTopicTemp = re.search(headerRegEx, mapHeaders[fileName])
-    print(headerTopicTemp)
 
     # If header location is not found   TODO: find more occurences about the topic in the text + find full topic if on multiple lines
     if headerTopicTemp is None:
@@ -183,7 +206,7 @@ if __name__ == '__main__':
     readContents()
 
     # Set the file name
-    fileName = "301.txt"
+    fileName = "303.txt"
 
     # Initialise key for hash map tags
     mapTags[fileName] = {}
