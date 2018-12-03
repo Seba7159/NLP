@@ -146,6 +146,7 @@ def tagParagraphs(fileName):
     for paragraph in mapContent[fileName].split("\n\n"):
         words = nltk.word_tokenize(paragraph)
         isParagraph = False
+
         # If there is no verb in the first 5 words, it's not a paragraph
         count = 5
         for word, part in nltk.pos_tag(words):
@@ -155,23 +156,11 @@ def tagParagraphs(fileName):
             if part[0] == 'V':
                 isParagraph = True
                 break
-
-        # Define local find string method
-        def find_str(s, char):
-            index = 0
-            if char in s:
-                c = char[0]
-                for ch in s:
-                    if ch == c:
-                        if s[index:index + len(char)] == char:
-                            return index
-
-                    index += 1
-            return -1
-
+        
         # Tag paragraph if it is true
         if isParagraph == True:
-            position = 0 # TODO find position of paragraph and tag it well 
+            position = mapFiles[fileName].find(paragraph)
+            print(mapFiles[fileName].find(paragraph))
             print(position)
             tag(position, paragraph, fileName, "paragraph")
 
