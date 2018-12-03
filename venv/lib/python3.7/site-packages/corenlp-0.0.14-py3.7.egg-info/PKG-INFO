@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: corenlp
+Version: 0.0.14
+Summary: A python wrapper for the Stanford CoreNLP java library.
+Home-page: https://github.com/kedz/corenlp
+Author: Chris Kedzie
+Author-email: kedzie@cs.columbia.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

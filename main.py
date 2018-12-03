@@ -7,6 +7,10 @@
 import re
 import nltk
 import string
+
+from nltk.corpus import treebank
+from nltk import tokenize
+
 from os import listdir
 from os.path import isfile, join
 
@@ -102,11 +106,78 @@ def tagTimes(fileName):
 
 # Method for tagging sentences
 def tagSentences(fileName):
+    # Train the data
+    print("Training data..")
+    train_sents = treebank.tagged_sents()[:3000]
+    print("Data has been trained successfully. ")
+
+    # Create a local backoff tagger method
+    def backoff_tagger(train_sents, tagger_classes, backoff=None):
+        for cls in tagger_classes:
+            backoff = cls(train_sents, backoff=backoff)
+        return backoff
+
+    # Call the method so you can get the backoff tagger
+    tagger = backoff_tagger(train_sents, [nltk.UnigramTagger, nltk.BigramTagger, nltk.TrigramTagger], backoff=nltk.DefaultTagger('NN'))
+
+    # Test tagger
+    print("Evaluating tagger..")
+    test_sents = treebank.tagged_sents()[3000:]
+    print(tagger.evaluate(test_sents))
+
+    # Define escape characters
+    escapes = ''.join([chr(char) for char in range(1, 32)])
+
+    fileContentLine = "";
+    for line in mapContent[fileName].split("\n"):
+        fileContentLine += line + " ";
+    # print(fileContentLine)
+
+    sents = tokenize.sent_tokenize(fileContentLine.replace(escapes, " "))
+    # print(sents)
+
+    # End method for paragraph tagging
     return
 
 
 # Method for tagging paragraphs
 def tagParagraphs(fileName):
+    # Find paragraphs
+    for paragraph in mapContent[fileName].split("\n\n"):
+        words = nltk.word_tokenize(paragraph)
+        isParagraph = False
+        # If there is no verb in the first 5 words, it's not a paragraph
+        count = 5
+        for word, part in nltk.pos_tag(words):
+            count -= 1
+            if count <= 0:
+                break
+            if part[0] == 'V':
+                isParagraph = True
+                break
+
+        # Define local find string method
+        def find_str(s, char):
+            index = 0
+            if char in s:
+                c = char[0]
+                for ch in s:
+                    if ch == c:
+                        if s[index:index + len(char)] == char:
+                            return index
+
+                    index += 1
+            return -1
+
+        # Tag paragraph if it is true
+        if isParagraph == True:
+            position = 0 # TODO find position of paragraph and tag it well 
+            print(position)
+            tag(position, paragraph, fileName, "paragraph")
+
+    print(mapFiles[fileName])
+
+    # End method for paragraph tagging
     return
 
 
@@ -127,8 +198,6 @@ def tagSpeaker(fileName):
         for punct in string.punctuation:
             headerSpeaker = headerSpeaker.split(punct)[0]
         headerSpeaker = headerSpeaker.strip()
-        
-        print(headerSpeaker)
 
     # If still not found, try to find by words such as 'by' or 'with' then see if they are people
 
@@ -178,21 +247,20 @@ def tagLocation(fileName):
     # If header location is not found   TODO: find other locations in the text
     if headerLocationTemp is None:
         return
-    # If place is defined in header, check for words containing it
-    else:
-        headerLocation = headerLocationTemp.group(1).strip()
-        mapTags[fileName]['location'] = headerLocation
+    # If place is found in header, check for words containing it
+    headerLocation = headerLocationTemp.group(1).strip()
+    mapTags[fileName]['location'] = headerLocation
 
-        # Define temporary variables for advanced positions so far
-        counter = 0
-        LOCATION_TAG_LEN = len("<location></location>")
-        topicRegEx = re.compile(re.escape(headerLocation.lower()))
+    # Define temporary variables for advanced positions so far
+    counter = 0
+    LOCATION_TAG_LEN = len("<location></location>")
+    topicRegEx = re.compile(re.escape(headerLocation.lower()))
 
-        # Add tags for the found topic in the header
-        for m in topicRegEx.finditer(mapFiles[fileName].lower()):
-            posTemp = m.start() + counter * LOCATION_TAG_LEN
-            tag(posTemp, headerLocation, fileName, 'location')
-            counter += 1
+    # Add tags for the found topic
+    for m in topicRegEx.finditer(mapFiles[fileName].lower()):
+        posTemp = m.start() + counter * LOCATION_TAG_LEN
+        tag(posTemp, headerLocation, fileName, 'location')
+        counter += 1
 
     # End method
     return
@@ -200,7 +268,8 @@ def tagLocation(fileName):
 
 # Main code
 if __name__ == '__main__':
-    #nltk.download()
+    # Download nltk data
+    # nltk.download()
 
     # Read the file contents from the 'untagged' folder
     readContents()
@@ -220,4 +289,4 @@ if __name__ == '__main__':
     tagTimes(fileName)
 
     # Print content
-    print(mapFiles[fileName])
+    #print(mapFiles[fileName])
