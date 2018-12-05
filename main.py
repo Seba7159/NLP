@@ -59,6 +59,16 @@ def tag(position, word, fileName, tagName):
     mapFiles[fileName] = content
 
 
+# Method to find all occurences
+def find_all(a_str, sub):
+    start = 0
+    while True:
+        start = a_str.find(sub, start)
+        if start == -1: return
+        yield start
+        start += len(sub)
+
+
 # Tag times using regex's
 def tagTimes(fileName):
     # Tag start and end time from headers
@@ -186,11 +196,47 @@ def tagSpeaker(fileName):
             headerSpeaker = headerSpeaker.split(punct)[0]
         headerSpeaker = headerSpeaker.strip()
 
-    # If still not found, try to find by words such as 'by' or 'with' then see if they are people
-
     # If still not found, get a greedy approach such as the first name that appears in the content of file
+    for paragraph in mapContent[fileName].split("\n\n"):
+        words = nltk.word_tokenize(paragraph)
+        isParagraph = False
+        for word, part in nltk.pos_tag(words):
+            if part[0] == 'V':
+                isParagraph = True
+                break
+        if isParagraph == True:
+            sentences = nltk.sent_tokenize(paragraph)
+            for sent in sentences:
+                position = mapFiles[fileName].find(sent)
+                tag(position, sent, fileName, "sentence")
+                tagged_words = nltk.pos_tag(nltk.word_tokenize(sent))
+                namedEnt = nltk.ne_chunk(tagged_words)
+                # For each sentence, if a speaker is found, put it as the actual speaker and end the search 
+                for name in namedEnt:
+                    if "PERSON" in repr(name):
+                        mapTags['speaker'] = ""
+                        for n in name:
+                            mapTags['speaker'] += n[0] + " "
+                        break
+                    if 'speaker' in mapTags:
+                        break
+            if 'speaker' in mapTags:
+                break
+        if 'speaker' in mapTags:
+            break
+
+    # Strip speaker
+    mapTags['speaker'] = mapTags['speaker'].strip()
+    counter = 0
+
+    # Tag speaker now if found
+    if 'speaker' in mapTags:
+        for location in find_all(mapFiles[fileName], mapTags['speaker']):
+            tag(location + counter, mapTags['speaker'], fileName, 'speaker')
+            counter += 1 + 2 * len('<speaker>')
 
     # Worst case, speaker can't be found
+    return
 
 
 
@@ -248,24 +294,7 @@ def tagLocation(fileName):
             tag(posTemp, headerLocation, fileName, 'location')
             counter += 1
 
-    # If location was not found in the location, tag text with NER
-    for paragraph in mapContent[fileName].split("\n\n"):
-        words = nltk.word_tokenize(paragraph)
-        isParagraph = False
-        for word, part in nltk.pos_tag(words):
-            if part[0] == 'V':
-                isParagraph = True
-                break
-        if isParagraph == True:
-            sentences = nltk.sent_tokenize(paragraph)
-            for sent in sentences:
-                position = mapFiles[fileName].find(sent)
-                tag(position, sent, fileName, "sentence")
-                tagged_words = nltk.pos_tag(nltk.word_tokenize(sent))
-                namedEnt = nltk.ne_chunk(tagged_words)
-                for name in namedEnt:
-                    if "PERSON" in repr(name):
-                        print(name[1][0])
+    # If location was not found in the header, TODO: find other last locations in text
 
     # End method
     return
@@ -287,9 +316,9 @@ if __name__ == '__main__':
 
     # Tag in order
     tagParagraphsAndSentences(fileName)
-    tagSpeaker(fileName)
     tagTopic(fileName)
     tagLocation(fileName)
+    tagSpeaker(fileName)
     tagTimes(fileName)
 
     # Print content
