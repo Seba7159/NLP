@@ -20,7 +20,6 @@ mapHeaders  = {}
 mapContent  = {}
 mapTags     = {}
 
-
 # Reading the corpora
 def readContents():
     # Get name of untagged emails
@@ -147,12 +146,8 @@ def tagParagraphsAndSentences(fileName):
         words = nltk.word_tokenize(paragraph)
         isParagraph = False
 
-        # If there is no verb in the first 5 words, it's not a paragraph
-        count = 5
+        # If there is no verb, it's not a paragraph
         for word, part in nltk.pos_tag(words):
-            count -= 1
-            if count <= 0:
-                break
             if part[0] == 'V':
                 isParagraph = True
                 break
@@ -237,22 +232,40 @@ def tagLocation(fileName):
     headerLocationTemp = re.search(headerRegEx, mapHeaders[fileName])
 
     # If header location is not found   TODO: find other locations in the text
-    if headerLocationTemp is None:
-        return
-    # If place is found in header, check for words containing it
-    headerLocation = headerLocationTemp.group(1).strip()
-    mapTags[fileName]['location'] = headerLocation
+    if headerLocationTemp is not None:
+        # If place is found in header, check for words containing it
+        headerLocation = headerLocationTemp.group(1).strip()
+        mapTags[fileName]['location'] = headerLocation
 
-    # Define temporary variables for advanced positions so far
-    counter = 0
-    LOCATION_TAG_LEN = len("<location></location>")
-    topicRegEx = re.compile(re.escape(headerLocation.lower()))
+        # Define temporary variables for advanced positions so far
+        counter = 0
+        LOCATION_TAG_LEN = len("<location></location>")
+        topicRegEx = re.compile(re.escape(headerLocation.lower()))
 
-    # Add tags for the found topic
-    for m in topicRegEx.finditer(mapFiles[fileName].lower()):
-        posTemp = m.start() + counter * LOCATION_TAG_LEN
-        tag(posTemp, headerLocation, fileName, 'location')
-        counter += 1
+        # Add tags for the found location
+        for m in topicRegEx.finditer(mapFiles[fileName].lower()):
+            posTemp = m.start() + counter * LOCATION_TAG_LEN
+            tag(posTemp, headerLocation, fileName, 'location')
+            counter += 1
+
+    # If location was not found in the location, tag text with NER
+    for paragraph in mapContent[fileName].split("\n\n"):
+        words = nltk.word_tokenize(paragraph)
+        isParagraph = False
+        for word, part in nltk.pos_tag(words):
+            if part[0] == 'V':
+                isParagraph = True
+                break
+        if isParagraph == True:
+            sentences = nltk.sent_tokenize(paragraph)
+            for sent in sentences:
+                position = mapFiles[fileName].find(sent)
+                tag(position, sent, fileName, "sentence")
+                tagged_words = nltk.pos_tag(nltk.word_tokenize(sent))
+                namedEnt = nltk.ne_chunk(tagged_words)
+                for name in namedEnt:
+                    if "PERSON" in repr(name):
+                        print(name[1][0])
 
     # End method
     return
@@ -261,13 +274,13 @@ def tagLocation(fileName):
 # Main code
 if __name__ == '__main__':
     # Download nltk data
-    # nltk.download()
+    #nltk.download()
 
     # Read the file contents from the 'untagged' folder
     readContents()
 
     # Set the file name
-    fileName = "303.txt"
+    fileName = "302.txt"
 
     # Initialise key for hash map tags
     mapTags[fileName] = {}

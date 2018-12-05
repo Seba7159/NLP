@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8384d578-51a9-4981-80b3-64e2eda65dca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/NLP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NLP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -40,14 +43,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="10447" />
+          <entry key="py" value="11816" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="10447" />
+          <entry key="Python" value="11816" />
         </counts>
       </usages-collector>
     </session>
@@ -57,13 +60,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="282" column="30" selection-start-line="282" selection-start-column="30" selection-end-line="282" selection-end-column="30" />
+            <state relative-caret-position="461">
+              <caret line="267" column="37" selection-start-line="267" selection-start-column="37" selection-end-line="267" selection-end-column="37" />
               <folding>
                 <element signature="e#109#118#0" expanded="true" />
-                <marker date="1544032885676" expanded="true" signature="427:432" ph="..." />
-                <marker date="1544032885676" expanded="true" signature="1258:1611" ph="..." />
-                <marker date="1544032885676" expanded="true" signature="6317:8286" ph="..." />
+                <marker date="1544044862310" expanded="true" signature="426:431" ph="..." />
+                <marker date="1544044862310" expanded="true" signature="1257:1610" ph="..." />
+                <marker date="1544044862310" expanded="true" signature="6205:9033" ph="..." />
               </folding>
             </state>
           </provider>
@@ -77,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/untagged/301.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+            <state relative-caret-position="561">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -91,8 +94,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/untagged/302.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="153">
+              <caret line="9" column="43" selection-start-line="8" selection-end-line="9" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -145,9 +148,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="4160" />
+    <option name="x" value="3200" />
     <option name="y" value="-16" />
-    <option name="width" value="960" />
+    <option name="width" value="1920" />
     <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -196,7 +199,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv2/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -387,17 +390,17 @@
     <entry file="file://$PROJECT_DIR$/test_tagged/301.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/untagged/301.txt">
+    <entry file="file://$PROJECT_DIR$/untagged/302.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+        <state relative-caret-position="153">
+          <caret line="9" column="43" selection-start-line="8" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/untagged/302.txt">
+    <entry file="file://$PROJECT_DIR$/untagged/301.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="561">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
@@ -406,13 +409,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="282" column="30" selection-start-line="282" selection-start-column="30" selection-end-line="282" selection-end-column="30" />
+        <state relative-caret-position="461">
+          <caret line="267" column="37" selection-start-line="267" selection-start-column="37" selection-end-line="267" selection-end-column="37" />
           <folding>
             <element signature="e#109#118#0" expanded="true" />
-            <marker date="1544032885676" expanded="true" signature="427:432" ph="..." />
-            <marker date="1544032885676" expanded="true" signature="1258:1611" ph="..." />
-            <marker date="1544032885676" expanded="true" signature="6317:8286" ph="..." />
+            <marker date="1544044862310" expanded="true" signature="426:431" ph="..." />
+            <marker date="1544044862310" expanded="true" signature="1257:1610" ph="..." />
+            <marker date="1544044862310" expanded="true" signature="6205:9033" ph="..." />
           </folding>
         </state>
       </provider>
