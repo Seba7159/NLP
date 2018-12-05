@@ -180,9 +180,6 @@ def tagParagraphsAndSentences(fileName):
 
 # Method for tagging the speaker of the annoucement
 def tagSpeaker(fileName):
-    # Define 'found' boolean
-    found = False
-
     # Tag speaker by given attributes from the whole file
     headerSpeakerRegExs = ["who:(.*)", "speaker:(.*)", "name:(.*)"]
     for regEx in headerSpeakerRegExs:
@@ -194,45 +191,45 @@ def tagSpeaker(fileName):
         headerSpeaker = headerSpeakerTemp.group(1)
         for punct in string.punctuation:
             headerSpeaker = headerSpeaker.split(punct)[0]
-        headerSpeaker = headerSpeaker.strip()
+        mapTags['speaker'] = headerSpeaker.strip()
 
     # If still not found, get a greedy approach such as the first name that appears in the content of file
-    for paragraph in mapContent[fileName].split("\n\n"):
-        words = nltk.word_tokenize(paragraph)
-        isParagraph = False
-        for word, part in nltk.pos_tag(words):
-            if part[0] == 'V':
-                isParagraph = True
-                break
-        if isParagraph == True:
-            sentences = nltk.sent_tokenize(paragraph)
-            for sent in sentences:
-                position = mapFiles[fileName].find(sent)
-                tag(position, sent, fileName, "sentence")
-                tagged_words = nltk.pos_tag(nltk.word_tokenize(sent))
-                namedEnt = nltk.ne_chunk(tagged_words)
-                # For each sentence, if a speaker is found, put it as the actual speaker and end the search 
-                for name in namedEnt:
-                    if "PERSON" in repr(name):
-                        mapTags['speaker'] = ""
-                        for n in name:
-                            mapTags['speaker'] += n[0] + " "
-                        break
-                    if 'speaker' in mapTags:
-                        break
+    if 'speaker' not in mapTags:
+        for paragraph in mapContent[fileName].split("\n\n"):
+            words = nltk.word_tokenize(paragraph)
+            isParagraph = False
+            for word, part in nltk.pos_tag(words):
+                if part[0] == 'V':
+                    isParagraph = True
+                    break
+            if isParagraph == True:
+                sentences = nltk.sent_tokenize(paragraph)
+                for sent in sentences:
+                    position = mapFiles[fileName].find(sent)
+                    tag(position, sent, fileName, "sentence")
+                    tagged_words = nltk.pos_tag(nltk.word_tokenize(sent))
+                    namedEnt = nltk.ne_chunk(tagged_words)
+                    # For each sentence, if a speaker is found, put it as the actual speaker and end the search
+                    for name in namedEnt:
+                        if "PERSON" in repr(name):
+                            mapTags['speaker'] = ""
+                            for n in name:
+                                mapTags['speaker'] += n[0] + " "
+                            break
+                        if 'speaker' in mapTags:
+                            break
+                if 'speaker' in mapTags:
+                    break
             if 'speaker' in mapTags:
                 break
-        if 'speaker' in mapTags:
-            break
-
-    # Strip speaker
-    mapTags['speaker'] = mapTags['speaker'].strip()
-    counter = 0
 
     # Tag speaker now if found
     if 'speaker' in mapTags:
-        for location in find_all(mapFiles[fileName], mapTags['speaker']):
-            tag(location + counter, mapTags['speaker'], fileName, 'speaker')
+        # Strip speaker
+        mapTags['speaker'] = mapTags['speaker'].strip()
+        counter = 0
+        for location in find_all(mapFiles[fileName].lower(), mapTags['speaker'].lower()):
+            tag(location + counter, mapTags['speaker'].lower(), fileName, 'speaker')
             counter += 1 + 2 * len('<speaker>')
 
     # Worst case, speaker can't be found
@@ -246,7 +243,7 @@ def tagTopic(fileName):
     headerRegEx = "Topic:(.*)"
     headerTopicTemp = re.search(headerRegEx, mapHeaders[fileName])
 
-    # If header location is not found   TODO: find more occurences about the topic in the text + find full topic if on multiple lines
+    # If header location is not found
     if headerTopicTemp is None:
         return
 
@@ -309,7 +306,7 @@ if __name__ == '__main__':
     readContents()
 
     # Set the file name
-    fileName = "302.txt"
+    fileName = "359.txt"
 
     # Initialise key for hash map tags
     mapTags[fileName] = {}
