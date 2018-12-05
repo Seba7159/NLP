@@ -50,7 +50,7 @@ def readContents():
 # Method for tagging words
 def tag(position, word, fileName, tagName):
     # Create tag strings
-    finalTag = "<\\" + tagName + ">"
+    finalTag = "</" + tagName + ">"
     startTag = "<" + tagName + ">"
 
     # Add tag at end of word
@@ -141,7 +141,7 @@ def tagSentences(fileName):
 
 
 # Method for tagging paragraphs
-def tagParagraphs(fileName):
+def tagParagraphsAndSentences(fileName):
     # Find paragraphs
     for paragraph in mapContent[fileName].split("\n\n"):
         words = nltk.word_tokenize(paragraph)
@@ -156,15 +156,18 @@ def tagParagraphs(fileName):
             if part[0] == 'V':
                 isParagraph = True
                 break
-        
+
         # Tag paragraph if it is true
         if isParagraph == True:
             position = mapFiles[fileName].find(paragraph)
-            print(mapFiles[fileName].find(paragraph))
-            print(position)
             tag(position, paragraph, fileName, "paragraph")
 
-    print(mapFiles[fileName])
+        # Now tag sentences from each paragraph
+        if isParagraph == True:
+            sentences = nltk.sent_tokenize(paragraph)
+            for sent in sentences:
+                position = mapFiles[fileName].find(sent)
+                tag(position, sent, fileName, "sentence")
 
     # End method for paragraph tagging
     return
@@ -270,12 +273,11 @@ if __name__ == '__main__':
     mapTags[fileName] = {}
 
     # Tag in order
-    tagParagraphs(fileName)
-    tagSentences(fileName)
+    tagParagraphsAndSentences(fileName)
     tagSpeaker(fileName)
     tagTopic(fileName)
     tagLocation(fileName)
     tagTimes(fileName)
 
     # Print content
-    #print(mapFiles[fileName])
+    print(mapFiles[fileName])
