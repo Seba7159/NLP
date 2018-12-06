@@ -38,17 +38,22 @@ def find_by_tag(content, tag):
 
 # Method to get all measures like TP, FP and FN
 def get_measures(tagged, test):
-    # Define true pos, false pos and false pos
+    # Define true positive
     tp = 0
-    fp = 0
-    fn = 0
+
+    to_pop = []
 
     # Find true positives
     for tag in tagged:
         if tag in test:
             tp += 1
+            to_pop.append(tag)
+
+    for tag in to_pop:
+        if tag in tagged:
             tagged.pop(tagged.index(tag))
-            test.pop(test.index(tag))
+        if tag in test:
+          test.pop(test.index(tag))
 
     # Calculate false positives and negatives
     fp = len(test)
@@ -81,6 +86,9 @@ if __name__ == '__main__':
     total_tp = 0
     total_fp = 0
     total_fn = 0
+
+    # TODO: DELETE THIS
+    # filenames = ['301.txt']
 
     # For each file in the folders
     for file in filenames:
