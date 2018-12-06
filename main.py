@@ -49,8 +49,11 @@ def readContents():
 # Method for tagging words
 def tag(position, word, fileName, tagName):
     # Create tag strings
-    finalTag = "</" + tagName + ">"
     startTag = "<" + tagName + ">"
+    finalTag = "</" + tagName + ">"
+
+    if tagName is 'sentence' and len(word) > 0:
+        word = word[:-1]
 
     # Add tag at end of word
     content = mapFiles[fileName]
@@ -117,29 +120,27 @@ def tagTimes(fileName):
 def tagParagraphsAndSentences(fileName):
     # Find paragraphs
     for paragraph in mapContent[fileName].split("\n\n"):
-        words = nltk.word_tokenize(paragraph)
+        words = nltk.word_tokenize(paragraph.lower())
         isParagraph = False
 
         # If there is no verb or there are words like "WHEN:", it's not a paragraph
-        lastWord = "abc"
         for word, part in nltk.pos_tag(words):
             if part[0] == 'V':
                 isParagraph = True
                 break
-            if lastWord.isupper() and word is ":":
+            if word is ":":
                 break
-            lastWord = word
 
         # Tag paragraph if it is true
         if isParagraph == True:
             position = mapFiles[fileName].find(paragraph)
             tag(position, paragraph, fileName, "paragraph")
 
-        # Now tag sentences from each paragraph
-        if isParagraph == True:
+            # Now tag sentences from each paragraph
             sentences = nltk.sent_tokenize(paragraph)
             for sent in sentences:
-                position = mapFiles[fileName].find(sent)
+                sent = sent.strip()
+                position = mapFiles[fileName].lower().find(sent.lower())
                 tag(position, sent, fileName, "sentence")
 
     # End method for paragraph tagging
@@ -159,10 +160,10 @@ def tagSpeaker(fileName):
         headerSpeaker = headerSpeakerTemp.group(1)
         for punct in string.punctuation:
             headerSpeaker = headerSpeaker.split(punct)[0]
-        mapTags['speaker'] = headerSpeaker.strip()
+        mapTags[fileName]['speaker'] = headerSpeaker
 
     # If still not found, get a greedy approach such as the first name that appears in the content of file
-    if 'speaker' not in mapTags:
+    if 'speaker' not in mapTags[fileName]:
         for paragraph in mapContent[fileName].split("\n\n"):
             words = nltk.word_tokenize(paragraph)
             isParagraph = False
@@ -174,15 +175,15 @@ def tagSpeaker(fileName):
                 sentences = nltk.sent_tokenize(paragraph)
                 for sent in sentences:
                     position = mapFiles[fileName].find(sent)
-                    tag(position, sent, fileName, "sentence")
                     tagged_words = nltk.pos_tag(nltk.word_tokenize(sent))
                     namedEnt = nltk.ne_chunk(tagged_words)
+
                     # For each sentence, if a speaker is found, put it as the actual speaker and end the search
                     for name in namedEnt:
                         if "PERSON" in repr(name):
-                            mapTags['speaker'] = ""
+                            mapTags[fileName]['speaker'] = ""
                             for n in name:
-                                mapTags['speaker'] += n[0] + " "
+                                mapTags[fileName]['speaker'] += n[0] + " "
                             break
                         if 'speaker' in mapTags:
                             break
@@ -192,12 +193,12 @@ def tagSpeaker(fileName):
                 break
 
     # Tag speaker now if found
-    if 'speaker' in mapTags:
+    if 'speaker' in mapTags[fileName]:
         # Strip speaker
-        mapTags['speaker'] = mapTags['speaker'].strip()
+        mapTags[fileName]['speaker'] = mapTags[fileName]['speaker'].strip()
         counter = 0
-        for location in find_all(mapFiles[fileName].lower(), mapTags['speaker'].lower()):
-            tag(location + counter, mapTags['speaker'].lower(), fileName, 'speaker')
+        for location in find_all(mapFiles[fileName].lower(), mapTags[fileName]['speaker'].lower()):
+            tag(location + counter, mapTags[fileName]['speaker'].lower(), fileName, 'speaker')
             counter += 1 + 2 * len('<speaker>')
 
     # Worst case, speaker can't be found
@@ -242,12 +243,22 @@ def tagLocation(fileName):
     headerRegEx = "Place:(.*)"
     headerLocationTemp = re.search(headerRegEx, mapHeaders[fileName])
 
-    # If header location is not found   TODO: find other locations in the text
+    # If header location is found in header
     if headerLocationTemp is not None:
         # If place is found in header, check for words containing it
         headerLocation = headerLocationTemp.group(1).strip()
-        mapTags[fileName]['location'] = headerLocation
+        mapTags[fileName]['location'] = headerLocation.strip()
 
+    # If location was not found in the header, check for locations from previous text files
+    if headerLocationTemp is None:
+        for key in mapTags:
+            if 'location' in mapTags[key]:
+                if mapFiles[fileName].find(mapTags[key]['location']) != -1:
+                    mapTags[fileName]['location'] = mapTags[key]['location']
+                    break
+
+    # If header location is found
+    if headerLocationTemp is not None:
         # Define temporary variables for advanced positions so far
         counter = 0
         LOCATION_TAG_LEN = len("<location></location>")
@@ -256,10 +267,8 @@ def tagLocation(fileName):
         # Add tags for the found location
         for m in topicRegEx.finditer(mapFiles[fileName].lower()):
             posTemp = m.start() + counter * LOCATION_TAG_LEN
-            tag(posTemp, headerLocation, fileName, 'location')
+            tag(posTemp, mapTags[fileName]['location'], fileName, 'location')
             counter += 1
-
-    # If location was not found in the header, TODO: find other last locations in text
 
     # End method
     return
@@ -273,18 +282,21 @@ if __name__ == '__main__':
     # Read the file contents from the 'untagged' folder
     readContents()
 
-    # Set the file name
-    fileName = "303.txt"
+    # TODO: delete this after you finished tagging only for one file
+    mapTemp = {}
+    mapTemp['301.txt'] = "doesnt matter"
 
-    # Initialise key for hash map tags
-    mapTags[fileName] = {}
+    # Go through all files
+    for fileName in mapTemp: #actually mapFiles
+        # Initialise key for hash map tags
+        mapTags[fileName] = {}
 
-    # Tag in order
-    tagParagraphsAndSentences(fileName)
-    tagTopic(fileName)
-    tagLocation(fileName)
-    tagSpeaker(fileName)
-    tagTimes(fileName)
+        # Tag in order
+        tagParagraphsAndSentences(fileName)
+        tagTopic(fileName)
+        tagLocation(fileName)
+        tagSpeaker(fileName)
+        tagTimes(fileName)
 
-    # Print content
-    print(mapFiles[fileName])
+        # Print content
+        print(fileName + "\n" + mapFiles[fileName] + "\n\n")
