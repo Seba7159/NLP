@@ -19,6 +19,7 @@ mapFiles    = {}
 mapHeaders  = {}
 mapContent  = {}
 mapTags     = {}
+nameData    = []
 
 # Reading the corpora
 def readContents():
@@ -44,6 +45,14 @@ def readContents():
             mapContent[fileName] = splitFileContent[1]
         else:
             mapContent[fileName] = ""
+
+    # Put names in database
+    onlyfilesname = ['names/names.family', 'names/names.male', 'names/names.female']
+    for fileName in onlyfilesname:
+        file = open(fileName, "r")
+        content = file.read().split("\n")
+        for name in content:
+            nameData.append(name)
 
 
 # Method for tagging words
@@ -177,7 +186,7 @@ def tagSpeaker(fileName):
                     position = mapFiles[fileName].find(sent)
                     tagged_words = nltk.pos_tag(nltk.word_tokenize(sent))
                     namedEnt = nltk.ne_chunk(tagged_words)
-
+                    
                     # For each sentence, if a speaker is found, put it as the actual speaker and end the search
                     for name in namedEnt:
                         if "PERSON" in repr(name):
@@ -287,7 +296,7 @@ if __name__ == '__main__':
     mapTemp['301.txt'] = "doesnt matter"
 
     # Go through all files
-    for fileName in mapTemp: #actually mapFiles
+    for fileName in mapFiles: #actually mapFiles
         # Initialise key for hash map tags
         mapTags[fileName] = {}
 
@@ -299,4 +308,4 @@ if __name__ == '__main__':
         tagTimes(fileName)
 
         # Print content
-        print(fileName + "\n" + mapFiles[fileName] + "\n\n")
+        print(fileName + "\n" + str(mapTags[fileName]) + "\n\n")
