@@ -113,42 +113,6 @@ def tagTimes(fileName):
     return
 
 
-# Method for tagging sentences
-def tagSentences(fileName):
-    # Train the data
-    print("Training data..")
-    train_sents = treebank.tagged_sents()[:3000]
-    print("Data has been trained successfully. ")
-
-    # Create a local backoff tagger method
-    def backoff_tagger(train_sents, tagger_classes, backoff=None):
-        for cls in tagger_classes:
-            backoff = cls(train_sents, backoff=backoff)
-        return backoff
-
-    # Call the method so you can get the backoff tagger
-    tagger = backoff_tagger(train_sents, [nltk.UnigramTagger, nltk.BigramTagger, nltk.TrigramTagger], backoff=nltk.DefaultTagger('NN'))
-
-    # Test tagger
-    print("Evaluating tagger..")
-    test_sents = treebank.tagged_sents()[3000:]
-    print(tagger.evaluate(test_sents))
-
-    # Define escape characters
-    escapes = ''.join([chr(char) for char in range(1, 32)])
-
-    fileContentLine = "";
-    for line in mapContent[fileName].split("\n"):
-        fileContentLine += line + " ";
-    # print(fileContentLine)
-
-    sents = tokenize.sent_tokenize(fileContentLine.replace(escapes, " "))
-    # print(sents)
-
-    # End method for paragraph tagging
-    return
-
-
 # Method for tagging paragraphs
 def tagParagraphsAndSentences(fileName):
     # Find paragraphs
@@ -156,11 +120,15 @@ def tagParagraphsAndSentences(fileName):
         words = nltk.word_tokenize(paragraph)
         isParagraph = False
 
-        # If there is no verb, it's not a paragraph
+        # If there is no verb or there are words like "WHEN:", it's not a paragraph
+        lastWord = "abc"
         for word, part in nltk.pos_tag(words):
             if part[0] == 'V':
                 isParagraph = True
                 break
+            if lastWord.isupper() and word is ":":
+                break
+            lastWord = word
 
         # Tag paragraph if it is true
         if isParagraph == True:
@@ -306,7 +274,7 @@ if __name__ == '__main__':
     readContents()
 
     # Set the file name
-    fileName = "359.txt"
+    fileName = "303.txt"
 
     # Initialise key for hash map tags
     mapTags[fileName] = {}
