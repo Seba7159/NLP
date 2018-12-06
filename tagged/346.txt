@@ -4,7 +4,7 @@ Who:      <speaker>Josef Skrzypek</speaker>
           Machine Perception Laboratory
           University of California at Los Angeles
           Los Angeles CA, USA
-Topic:    <topic>Neural net models of lightness and color constancy.</topic>
+Topic:    Neural net models of lightness and color constancy.
 Dates:    16-Mar-92
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
 Place:    <location>Wean Hall 7220</location>
@@ -24,7 +24,7 @@ Abstract:
  Comment:	If you are interested in meeting with Josef Skrzyek 
  		please contact Patty Mackiewicz via email at patty@ius5.  
 
- Title:		<topic>Neural net models of lightness and color constancy.</topic>
+ Title:		Neural net models of lightness and color constancy.
 
 <paragraph>	<sentence>One of the key problems in vision is segmentation of images into 
 	labeled patches that represent features, surfaces and objects in the

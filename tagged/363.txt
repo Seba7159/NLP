@@ -2,7 +2,7 @@
 Type:     cmu.cs.robotics
 Who:      <speaker>Ed Nicolson</speaker>
           from UC at Berkeley
-Topic:    <topic>RI SEMINARS</topic>
+Topic:    RI SEMINARS
 Dates:    16-Apr-93
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>Adamson Wing Auditorium</location>

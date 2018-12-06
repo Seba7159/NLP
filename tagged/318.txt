@@ -1,6 +1,6 @@
 <0.13.4.95.03.24.17.me@H.GP.CS.CMU.EDU (Michael Erdmann).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>Upcoming Robotics Seminars: Apr 14 none; Apr 21 Shree Nayar.</topic>
+Topic:    Upcoming Robotics Seminars: Apr 14 none; Apr 21 Shree Nayar.
 Dates:    21-Apr-95
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 Host:     Katsushi Ikeuchi, x8-6349

@@ -268,7 +268,7 @@ def tagTopic(fileName):
         # Add tags for the found topic in the header
         for m in topicRegEx.finditer(mapFiles[fileName].lower()):
             posTemp = m.start() + counter * TOPIC_TAG_LEN
-            tag(posTemp, headerTopic, fileName, 'topic')
+            #tag(posTemp, headerTopic, fileName, 'topic')
             counter += 1
 
     # End method
@@ -322,7 +322,7 @@ if __name__ == '__main__':
 
     # TODO: delete this after you finished tagging only for one file
     mapTemp = {}
-    mapTemp['390.txt'] = "doesnt matter"
+    mapTemp['316.txt'] = ""
 
     # Go through all files
     for fileName in mapFiles: #actually mapFiles
@@ -330,7 +330,6 @@ if __name__ == '__main__':
         mapTags[fileName] = {}
 
         # Tag in order
-        print(fileName)
         tagParagraphsAndSentences(fileName)
         tagTopic(fileName)
         tagLocation(fileName)
@@ -338,7 +337,7 @@ if __name__ == '__main__':
         tagTimes(fileName)
 
         # Print content in program
-        #print(fileName + "\n" + str(mapTags[fileName]) + "\n\n")
+        #print(fileName + "\n" + str(mapFiles[fileName]) + "\n\n")
 
         # Print content to the tagged/ directory
         file = open("tagged/" + fileName, "w")

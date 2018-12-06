@@ -1,7 +1,7 @@
 <0.20.5.93.15.51.47.sbk+@cs.cmu.edu (Sing Bing Kang).0>
 Type:     cmu.cs.robotics
 Who:      <speaker>Peter Eggleston</speaker>, Amerinex Artificial Intelligence, Inc.
-Topic:    <topic>Talk on object segmentation techniques and constraint based feature indexing</topic>
+Topic:    Talk on object segmentation techniques and constraint based feature indexing
 Dates:    25-May-93
 Time:     <stime>3:00 PM</stime>
 Place:    <location>WeH4623</location>

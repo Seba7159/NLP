@@ -1,7 +1,7 @@
 <0.31.3.95.11.59.25.plp+@HOSTESS.GRAPHICS.CS.CMU.EDU (Phyllis Pomerantz).0>
 Type:     Joint AI/HCI Seminar
 Who:      <speaker>Harold Cohen</speaker> / UC at San Diego
-Topic:    <topic>AARON: In Living Color</topic>
+Topic:    AARON: In Living Color
 Dates:    18-Apr-95
 Time:     <stime>3:30 PM</stime>
 Place:    <location>5409 Wean Hall</location>
@@ -12,14 +12,14 @@ Abstract:
 
  Type:     Joint AI/HCI Seminar
  Who:      <speaker>Harold Cohen</speaker> / UC at San Diego
- Topic:    <topic>AARON: In Living Color</topic>
+ Topic:    AARON: In Living Color
  Dates:    18-Apr-95
  Time:     <stime>3:30 p.m</stime>.
  Place:    <location>5409 Wean Hall</location>
  Duration: 1 1/2 hours
  Host:     Herbert Simon
 
- <topic>AARON: In Living Color</topic>.
+ AARON: In Living Color.
 
 <paragraph><sentence>During the past four years, work on the AARON program has been directed
 primarily to giving it the ability to color its own drawings, and most

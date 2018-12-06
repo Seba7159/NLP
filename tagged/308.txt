@@ -1,6 +1,6 @@
 <1.7.2.91.11.04.33.Jeffrey.Schlimmer@A.GP.CS.CMU.EDU.0>
 Type:     cmu.cs.robotics
-Topic:    <topic>SCS AI Seminar Next Tuesday</topic>
+Topic:    SCS AI Seminar Next Tuesday
 Dates:    12-Feb-91
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 PostedBy: Jeffrey.Schlimmer on 7-Feb-91 at 11:04 from A.GP.CS.CMU.EDU

@@ -1,6 +1,6 @@
 <0.6.2.93.16.41.44.garth+@NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson).0>
 Type:     cmu.cs.scs
-Topic:    <topic>WWC: Picturetel seminar: Patterson, Feb 10, 7-<etime>8:30 pm</etime>, 4623 WeH</topic>
+Topic:    WWC: Picturetel seminar: Patterson, Feb 10, 7-<etime>8:30 pm</etime>, 4623 WeH
 Dates:    10-Feb-93
 Time:     <stime>7:00</stime> - <etime>8:30 PM</etime>
 PostedBy: garth+ on 6-Feb-93 at 16:41 from NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson)

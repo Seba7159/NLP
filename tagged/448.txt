@@ -1,6 +1,6 @@
 <0.22.9.94.08.52.36.mp3r+@MARGE.ADM.CS.CMU.EDU (Margaret Profeta).0>
 Type:     cmu.cs.scs
-Topic:    <topic>REMINDER - <speaker>KATZ</speaker> TALK</topic>
+Topic:    REMINDER - <speaker>KATZ</speaker> TALK
 Dates:    22-Sep-94
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Host:     M. Satyanarayanan

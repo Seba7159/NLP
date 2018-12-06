@@ -3,7 +3,7 @@ Type:     cmu.cs.robotics
 Who:      <speaker>Dan Huttenlocher</speaker>
           Computer Science Department, Cornell University
           and Xerox Palo Alto Research Center
-Topic:    <topic>Using Two-Dimensional Image Matching to Interpret the Three-Dimensional World</topic>
+Topic:    Using Two-Dimensional Image Matching to Interpret the Three-Dimensional World
 Dates:    11-Nov-94
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -23,7 +23,7 @@ Abstract:
          Computer Science Department, Cornell University
          and Xerox Palo Alto Research Center
 
- TITLE:  <topic>Using Two-Dimensional Image Matching to Interpret the Three-Dimensional World</topic>
+ TITLE:  Using Two-Dimensional Image Matching to Interpret the Three-Dimensional World
 
 <paragraph><sentence>We are investigating the extent to which two-dimensional representations
 are applicable to tasks that involve interacting with the three-dimensional

@@ -1,6 +1,6 @@
 <0.18.10.91.16.27.22.slr+@H.GP.CS.CMU.EDU (Sandra Rocco).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>RI Symposium</topic>
+Topic:    RI Symposium
 Dates:    9-Nov-91
 Time:     <stime>8:30 AM</stime> - <etime>6:30 PM</etime>
 PostedBy: slr+ on 18-Oct-91 at 16:27 from H.GP.CS.CMU.EDU (Sandra Rocco)

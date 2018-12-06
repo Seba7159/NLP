@@ -1,6 +1,6 @@
 <0.7.2.95.09.55.31.daz+@AMM.ADM.CS.CMU.EDU (Dorothy A Zaborowski).0>
 Type:     cmu.cs.scs
-Topic:    <topic>THEORY SEMINAR</topic>
+Topic:    THEORY SEMINAR
 Dates:    10-Feb-95
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 Host:     Avrim Blum

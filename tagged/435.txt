@@ -1,7 +1,7 @@
 <0.18.2.94.16.54.50.plp+@PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz).0>
 Type:     AI Seminar
 Who:      <speaker>Eugene Charniak</speaker>
-Topic:    <topic>Improved Statistical Language Models from Syntactic Parsing</topic>
+Topic:    Improved Statistical Language Models from Syntactic Parsing
 Dates:    22-Feb-94
 Time:     <stime>3:30 PM</stime>
 Place:    <location>5409 Wean Hall</location>
@@ -12,13 +12,13 @@ Abstract:
 
  Type:     AI Seminar
  Who:      <speaker>Eugene Charniak</speaker>
- Topic:    <topic>Improved Statistical Language Models from Syntactic Parsing</topic>
+ Topic:    Improved Statistical Language Models from Syntactic Parsing
  Dates:    22-Feb-94
  Time:     <stime>3:30 p.m</stime>.
  Place:    <location>5409 Wean Hall</location>
  Host:     Danny Sleator
 
-<paragraph><sentence><topic>Improved Statistical Language Models from Syntactic Parsing</topic>
+<paragraph><sentence>Improved Statistical Language Models from Syntactic Parsing
 <speaker>Eugene Charniak</speaker>
 Brown University</sentence></paragraph>
 

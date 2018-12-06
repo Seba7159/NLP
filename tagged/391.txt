@@ -1,6 +1,6 @@
 <0.12.9.91.21.02.16.xu+@IUS4.IUS.CS.CMU.EDU (Yangsheng Xu).0>
 Type:     cmu.cs.scs
-Topic:    <topic>Space Robotics Seminar</topic>
+Topic:    Space Robotics Seminar
 Dates:    17-Oct-91
 Time:     <stime>1:30</stime> - <etime>2:30 PM</etime>
 Place:    <location>Wean Hall  5205</location>

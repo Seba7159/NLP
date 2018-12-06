@@ -1,6 +1,6 @@
 <0.12.11.92.11.09.13.aw@CS.CMU.EDU (<speaker>Andy Witkin</speaker>).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>reminder: Elisha Sacks talk TODAY</topic>
+Topic:    reminder: Elisha Sacks talk TODAY
 Dates:    12-Nov-92
 Time:     <stime>3:00</stime>
 Host:     <speaker>Andy Witkin</speaker>

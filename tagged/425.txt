@@ -1,13 +1,13 @@
 <0.25.10.91.08.32.13.avac+@AVA.ADM.CS.CMU.EDU (Ava Cruse).0>
 Type:     cmu.cs.scs
-Topic:    <topic>PS Seminar</topic>
+Topic:    PS Seminar
 Dates:    4-Nov-91
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Host:     David Garlan
 PostedBy: avac+ on 25-Oct-91 at 08:32 from AVA.ADM.CS.CMU.EDU (Ava Cruse)
 Abstract: 
 
-                                <topic>PS SEMINAR</topic>
+                                PS SEMINAR
 
                           Monday, November 4, 1991
                                <stime>3:30PM</stime>-<etime>5:00PM</etime>

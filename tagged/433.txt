@@ -1,6 +1,6 @@
 <0.11.2.94.10.11.32.bag+@BARBARA.ADM.CS.CMU.EDU (Barbara Grandillo).4>
 Type:     cmu.cs.scs
-Topic:    <topic>CS/PSC SEMINARS/SPRING 94</topic>
+Topic:    CS/PSC SEMINARS/SPRING 94
 Dates:    25-Mar-94
 Time:     <stime>4:00 PM</stime>
 PostedBy: bag+ on 11-Feb-94 at 10:11 from BARBARA.ADM.CS.CMU.EDU (Barbara Grandillo)

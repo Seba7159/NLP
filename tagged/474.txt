@@ -1,6 +1,6 @@
 <0.06.4.92.23.10.54.trg+@N3.SP.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    <topic>CS Seminar 4/10: Leiserson of MIT/TMC @ <stime>4:00 p.m</stime>., WeH 5403</topic>
+Topic:    CS Seminar 4/10: Leiserson of MIT/TMC @ <stime>4:00 p.m</stime>., WeH 5403
 Dates:    10-Apr-92
 Time:     <stime>4:00 PM</stime>
 PostedBy: trg+ on 06-Apr-92 at 23:10 from N3.SP.CS.CMU.EDU (Thomas Gross)

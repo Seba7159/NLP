@@ -2,7 +2,7 @@
 Type:     cmu.cs.robotics
 Who:      <speaker>Russell H. Taylor</speaker>
           IBM T. J. Watson Research Center
-Topic:    <topic>Medical Robotics: A Step Toward Computer Integrated Medicine</topic>
+Topic:    Medical Robotics: A Step Toward Computer Integrated Medicine
 Dates:    22-Mar-91
 Time:     <stime>3:30 PM</stime>
 Place:    <location>Baker Hall, Adamson Wing</location>
@@ -13,7 +13,7 @@ Abstract:
 
       Speaker:  <speaker>Russell H. Taylor</speaker>
                 IBM T. J. Watson Research Center
-        Title:  <topic>Medical Robotics: A Step Toward Computer Integrated Medicine</topic>
+        Title:  Medical Robotics: A Step Toward Computer Integrated Medicine
          Date:  March 22, 1991
          Time:  <stime>3:30 p.m</stime>. until 4:30 p.m.
      Location:  <location>Baker Hall, Adamson Wing</location>

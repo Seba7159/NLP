@@ -1,6 +1,6 @@
 <0.11.10.91.11.58.40.trg+@IUS3.IUS.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    <topic>PSC Seminar today @ <stime>4:00</stime>: Tera Comp.</topic>
+Topic:    PSC Seminar today @ <stime>4:00</stime>: Tera Comp.
 Dates:    11-Oct-91
 Time:     <stime>4:00</stime>
 PostedBy: trg+ on 11-Oct-91 at 11:58 from IUS3.IUS.CS.CMU.EDU (Thomas Gross)

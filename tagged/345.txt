@@ -2,7 +2,7 @@
 Type:     cmu.cs.robotics
 Who:      <speaker>Richard W. Longman</speaker>, 
           Professor of Mechanical Engineering, Columbia University
-Topic:    <topic>Learning Control for Improved Performance in</topic> 
+Topic:    Learning Control for Improved Performance in 
           Repetitive Robot Operations
 Dates:    6-Mar-92
 Time:     <stime>3:30 PM</stime>
@@ -22,7 +22,7 @@ RI SEMINAR
  SPEAKER:	<speaker>Richard W. Longman</speaker>, 
  	Professor of Mechanical Engineering, Columbia University
 
- TITLE:	<topic>Learning Control for Improved Performance in</topic> 
+ TITLE:	Learning Control for Improved Performance in 
  	Repetitive Robot Operations
 
 <paragraph><sentence>Learning control refers to control systems that can learn from previous 

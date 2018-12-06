@@ -1,7 +1,7 @@
 <0.19.10.92.13.54.54.tmeadows@resumix.portal.com (Tim Meadows).0>
 Type:     cmu.cs.scs
 Who:      <speaker>Asst. Professor Harold L. Alexander</speaker>
-Topic:    <topic>Research in Teleoperated and Cooperative Control</topic> 
+Topic:    Research in Teleoperated and Cooperative Control 
           of Free-Flying Space Robots
 Dates:    23-Oct-92
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
@@ -19,7 +19,7 @@ Abstract:
 
  SPEAKER:	<speaker>Asst. Professor Harold L. Alexander</speaker>
 
- TITLE:	<topic>Research in Teleoperated and Cooperative Control</topic> 
+ TITLE:	Research in Teleoperated and Cooperative Control 
  	of Free-Flying Space Robots
 
 <paragraph><sentence>The MIT Laboratory for Space Teleoperation and Robotics (LSTAR) is involved in the study of free-flying space robotic vehicles for performing extravehicular assembly, servicing, and repair</sentence>.  <sentence>LSTAR's experimental activities include both neutral-buoyancy and virtual-environment experiments that target the human-robot teleoperator interface, as well as cooperative, automatic control systems that work to aid the human operator</sentence>.</paragraph>

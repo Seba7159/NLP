@@ -3,7 +3,7 @@ Type:     cmu.cs.robotics
 Who:      <speaker>Jeff Schneider</speaker>
           Research Associate
           Robotics Institute
-Topic:    <topic>Robot Skill Learning Through Intelligent Experimentation</topic>
+Topic:    Robot Skill Learning Through Intelligent Experimentation
 Dates:    24-Feb-95
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -21,7 +21,7 @@ Abstract:
  	  Research Associate
            Robotics Institute
 
- TITLE:	  <topic>Robot Skill Learning Through Intelligent Experimentation</topic>
+ TITLE:	  Robot Skill Learning Through Intelligent Experimentation
 
 <paragraph><sentence>In robot skill learning the robot must obtain data for training by
 executing expensive practice trials and recording their results</sentence>.

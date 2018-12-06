@@ -1,6 +1,6 @@
 <1.09.9.91.10.46.25.jean+@A.GP.CS.CMU.EDU (Jean Harpley).0>
 Type:     cmu.cs.scs
-Topic:    <topic>IC Talks rescheduled</topic>
+Topic:    IC Talks rescheduled
 Dates:    5-Sep-91
 Time:     <stime>9:00</stime> - <etime>10:20</etime>
 PostedBy: jean+ on 09-Sep-91 at 10:46 from A.GP.CS.CMU.EDU (Jean Harpley)

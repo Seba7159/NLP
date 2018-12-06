@@ -3,7 +3,7 @@ Type:     cmu.cs.scs
 Who:      <speaker>Dr.Ted Adelson</speaker>-Associate Professor of Vision Science-
           Media Laboratory and the Dept. of Brain and Cognitive
           Science - MIT
-Topic:    <topic>Elemental measurements in vision.</topic>
+Topic:    Elemental measurements in vision.
 Dates:    18-Sep-92
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>Baker Hall - Adamson Wing</location>
@@ -21,7 +21,7 @@ RI SEMINAR
      	Media Laboratory and the Dept. of Brain and Cognitive
  	Science - MIT
 
- TITLE:	<topic>Elemental measurements in vision.</topic>
+ TITLE:	Elemental measurements in vision.
 
  ABSTRACT:	Posted Earlier
 

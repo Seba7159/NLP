@@ -1,6 +1,6 @@
 <0.20.9.92.14.34.24.trg+@N3.SP.CS.CMU.EDU (Thomas Gross).1>
 Type:     cmu.cs.scs
-Topic:    <topic>PSC/CS Seminar: additonal speakers</topic>
+Topic:    PSC/CS Seminar: additonal speakers
 Dates:    9-Oct-92
 Time:     <stime>4:00 PM</stime>
 PostedBy: trg+ on 20-Sep-92 at 14:34 from N3.SP.CS.CMU.EDU (Thomas Gross)

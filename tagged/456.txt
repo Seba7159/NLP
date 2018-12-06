@@ -1,6 +1,6 @@
 <0.16.1.95.11.46.22.copetas+@GANDALF.CS.CMU.EDU (Catherine Copetas).0>
 Type:     cmu.cs.scs
-Topic:    <topic>APPLE COMPUTER TALK</topic>
+Topic:    APPLE COMPUTER TALK
 Dates:    26-Jan-95
 Time:     <stime>12:00</stime> - <etime>1:30 PM</etime>
 PostedBy: copetas+ on 16-Jan-95 at 11:46 from GANDALF.CS.CMU.EDU (Catherine Copetas)

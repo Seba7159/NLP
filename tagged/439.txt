@@ -1,7 +1,7 @@
 <1.6.4.94.10.41.14.plp+@PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz).0>
 Type:     AI Seminar
 Who:      <speaker>Melvin Montemerlo</speaker> / NASA HQ
-Topic:    <topic>NASA's Artificial Intelligence Program</topic>
+Topic:    NASA's Artificial Intelligence Program
 Dates:    12-Apr-94
 Time:     <stime>3:30 PM</stime>
 Place:    <location>5409 Wean Hall</location>
@@ -12,14 +12,14 @@ Abstract:
 
  Type:     AI Seminar
  Who:      <speaker>Melvin Montemerlo</speaker> / NASA HQ
- Topic:    <topic>NASA's Artificial Intelligence Program</topic>
+ Topic:    NASA's Artificial Intelligence Program
  Dates:    12-Apr-94
  Time:     <stime>3:30 p.m</stime>.
  Place:    <location>5409 Wean Hall</location>
  Duration: 1 1/2 hours
  Host:     Raul Valdes-Perez
 
-		<topic>NASA's Artificial Intelligence Program</topic>:
+		NASA's Artificial Intelligence Program:
 	       Future Directions and the University Role
 
 			<speaker>Melvin Montemerlo</speaker>

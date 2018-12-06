@@ -1,6 +1,6 @@
 <0.22.11.91.01.03.58.me@H.GP.CS.CMU.EDU (Michael Erdmann).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>Robotics Seminar, Jeff Kerr, Friday Nov 22, <stime>3:30</stime>, <location>Adamson Wing, Baker Hall</location></topic>
+Topic:    Robotics Seminar, Jeff Kerr, Friday Nov 22, <stime>3:30</stime>, <location>Adamson Wing, Baker Hall</location>
 Dates:    22-Nov-91
 Time:     <stime>3:30</stime>
 Place:    <location>Adamson Wing, Baker Hall</location>

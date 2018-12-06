@@ -1,7 +1,7 @@
 <0.26.1.93.13.23.26.maa+@ISL1.RI.CMU.EDU (Michelle Agie).0>
 Type:     cmu.cs.robotics
 Who:      <speaker>Daniela Rus</speaker>, Cornell University
-Topic:    <topic>FINE MOTION PLANNING FOR DEXTEROUS MANIPULATION</topic>
+Topic:    FINE MOTION PLANNING FOR DEXTEROUS MANIPULATION
 Dates:    29-Jan-93
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -19,7 +19,7 @@ Abstract:
 
  SPEAKER:  <speaker>Daniela Rus</speaker>, Cornell University
 
- TITLE:    <topic>FINE MOTION PLANNING FOR DEXTEROUS MANIPULATION</topic>
+ TITLE:    FINE MOTION PLANNING FOR DEXTEROUS MANIPULATION
 
 <paragraph>         <sentence>*Those wishing to meet and talk with <speaker>Daniela Rus</speaker> can schedule
           an appointment with Phyliss Pomerantz, by calling 7897 or sending

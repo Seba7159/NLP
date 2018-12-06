@@ -1,6 +1,6 @@
 <0.28.4.95.10.47.08.mz01+@andrew.cmu.edu.4>
 Type:     cmu.cs.robotics.students
-Topic:    <topic>Univ. Teaching Ctr. summer seminars</topic>
+Topic:    Univ. Teaching Ctr. summer seminars
 Dates:    21-Jun-95
 Time:     <stime>2:00</stime> - <etime>3:30 PM</etime>
 PostedBy: Marcella Zaragoza on 28-Apr-95 at 10:47 from andrew.cmu.edu

@@ -1,6 +1,6 @@
 <0.14.6.95.14.10.06.cae+@CAE.ADM.CS.CMU.EDU (Colleen A Everett).0>
 Type:     cmu.cs.scs
-Topic:    <topic>TALK - Jeff Trinkle, Texas A&M Univ</topic>
+Topic:    TALK - Jeff Trinkle, Texas A&M Univ
 Dates:    16-Jun-95
 Time:     <stime>3:00 PM</stime>
 PostedBy: cae+ on 14-Jun-95 at 14:10 from CAE.ADM.CS.CMU.EDU (Colleen A Everett)

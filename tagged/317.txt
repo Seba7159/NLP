@@ -1,6 +1,6 @@
 <1.7.4.95.15.54.38.me@H.GP.CS.CMU.EDU (Michael Erdmann).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>TODAY *ROOM CHANGE*  Anita Flynn's Talk (Faculty Candidate): Smith 125.</topic>
+Topic:    TODAY *ROOM CHANGE*  Anita Flynn's Talk (Faculty Candidate): Smith 125.
 Dates:    7-Apr-95
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 PostedBy: me on 7-Apr-95 at 15:54 from H.GP.CS.CMU.EDU (Michael Erdmann)

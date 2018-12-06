@@ -1,6 +1,6 @@
 <0.30.1.92.13.39.38.marian+@MARIAN.ADM.CS.CMU.EDU (<speaker>Marian D'Amico</speaker>).0>
 Type:     cmu.cs.scs
-Topic:    <topic>LOGIC COLLOQUIUM</topic>
+Topic:    LOGIC COLLOQUIUM
 Dates:    6-Feb-92
 Time:     <stime>3:30</stime>
 Host:     Stephen D. Brookes
@@ -8,7 +8,7 @@ PostedBy: marian+ on 30-Jan-92 at 13:39 from MARIAN.ADM.CS.CMU.EDU (<speaker>Mar
 Abstract: 
 
 <paragraph><sentence>*************************************************************************
-			  <topic>Logic Colloquium</topic>
+			  Logic Colloquium
 		        Thursday February 6
 			   <stime>3:30</stime> Wean 5409
 *************************************************************************

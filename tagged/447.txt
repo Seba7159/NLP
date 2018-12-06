@@ -1,6 +1,6 @@
 <0.20.9.94.15.29.08.prs+@N2.SP.CS.CMU.EDU (peter steenkiste).0>
 Type:     cmu.cs.scs
-Topic:    <topic>9/23 CS/PSC Seminar</topic>
+Topic:    9/23 CS/PSC Seminar
 Dates:    23-Sep-94
 Time:     <stime>4:00 PM</stime>
 Place:    <location>Wean Hall 5409</location>

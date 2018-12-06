@@ -1,6 +1,6 @@
 <0.24.11.92.09.15.16.stankus+@STANKUS.ADM.CS.CMU.EDU (Terri Stankus).0>
 Type:     cmu.cs.scs
-Topic:    <topic>Distinguished Lecture December 2</topic>
+Topic:    Distinguished Lecture December 2
 Dates:    2-Dec-92
 Time:     <stime>3:30 PM</stime>
 PostedBy: stankus+ on 24-Nov-92 at 09:15 from STANKUS.ADM.CS.CMU.EDU (Terri Stankus)

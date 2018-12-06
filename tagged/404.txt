@@ -1,6 +1,6 @@
 <0.8.3.93.16.15.15.trg+@N3.SP.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    <topic>PSC/CS Seminar 3/12 <stime>4:00</stime> WeH 5202 S. Frank of KSR Inc.</topic>
+Topic:    PSC/CS Seminar 3/12 <stime>4:00</stime> WeH 5202 S. Frank of KSR Inc.
 Dates:    12-Mar-93
 Time:     <stime>4:00</stime>
 PostedBy: trg+ on 8-Mar-93 at 16:15 from N3.SP.CS.CMU.EDU (Thomas Gross)

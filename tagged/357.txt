@@ -1,7 +1,7 @@
 <0.13.11.92.09.00.29.tmeadows@resumix.portal.com (Tim Meadows).0>
 Type:     cmu.cs.robotics
 Who:      <speaker>Charles R. Price</speaker> - NASA, Johnson Space Center
-Topic:    <topic>Space Robotics Activities at the Johnson Space Center</topic>
+Topic:    Space Robotics Activities at the Johnson Space Center
 Dates:    13-Nov-92
 Time:     <stime>3:30 PM</stime>
 Place:    <location>Baker Hall Adamson Wing</location>
@@ -18,7 +18,7 @@ RI SEMINAR
 
  SPEAKER:		<speaker>Charles R. Price</speaker> - NASA, Johnson Space Center
 
- TITLE:		<topic>Space Robotics Activities at the Johnson Space Center</topic>
+ TITLE:		Space Robotics Activities at the Johnson Space Center
 
  Abstract:		Previously Posted
 

@@ -14,6 +14,7 @@ filenames = []
 # Method to read the file names
 def readFileNames():
     filenames = [f for f in listdir("tagged/") if isfile(join("tagged/", f))]
+    return filenames
 
 
 # Find words by the given tag in the content
@@ -60,13 +61,26 @@ def get_measures(tagged, test):
 # Main code
 if __name__ == '__main__':
     # Read the file names
-    readFileNames()
+    filenames = readFileNames()
 
     # TEMPORARY
-    filenames = ['303.txt']
+    # filenames = ['303.txt']
 
     # Tags we have
-    tags = ["stime", "etime", "location", "speaker", "topic", "paragraph", "sentence"]
+    tags = ["stime", "etime", "location", "speaker", "paragraph", "sentence"]
+
+    # Define total tp, fp and fn for all tags
+    mapTagEval = {}
+    for tag in tags:
+        mapTagEval[tag] = {}
+        mapTagEval[tag]['tp'] = 0
+        mapTagEval[tag]['fp'] = 0
+        mapTagEval[tag]['fn'] = 0
+
+    # Define global true and false positives and negatives
+    total_tp = 0
+    total_fp = 0
+    total_fn = 0
 
     # For each file in the folders
     for file in filenames:
@@ -78,10 +92,6 @@ if __name__ == '__main__':
         taggedContent   = open(taggedFilePath, "r").read()
         test_taggedContent = open(test_taggedFilePath, "r").read()
 
-        # For each tag, calculate true and false positives or negatives
-        total_tp = 0
-        total_fp = 0
-        total_fn = 0
         for tag in tags:
             # Get the tagged content
             taggedTag   = find_by_tag(taggedContent, tag)
@@ -93,6 +103,45 @@ if __name__ == '__main__':
             total_fp += fp
             total_fn += fn
 
+            # Calculate all by tag
+            mapTagEval[tag]['tp'] += tp
+            mapTagEval[tag]['fp'] += fp
+            mapTagEval[tag]['fn'] += fn
+
+    # Define accuracy, precision, recall and f1 measure
+    accuracy = 0
+    precision = 0
+    recall = 0
+    f1 = 0
+
+    # Calculate accuracy
+    if (total_tp + total_fp + total_fn) == 0:
+        accuracy = 100
+    else:
+        accuracy = total_tp / (total_tp + total_fp + total_fn) * 100
+
+    # Calculate precision
+    if (total_tp + total_fp) == 0:
+        precision = 100
+    else:
+        precision = total_tp / (total_tp + total_fp) * 100
+
+    # Calculate recall
+    if (total_tp + total_fn) == 0:
+        recall = 100
+    else:
+        recall = total_tp / (total_tp + total_fn) * 100
+
+    # Calculate the f1 measure
+    if (precision + recall) == 0:
+        f1 = 100
+    else:
+        f1 = 2 * (precision * recall) / (precision + recall)
+
+    print(accuracy, precision, recall, f1)
+
+    # For all tags
+    for tag in tags:
         # Define accuracy, precision, recall and f1 measure
         accuracy = 0
         precision = 0
@@ -100,22 +149,22 @@ if __name__ == '__main__':
         f1 = 0
 
         # Calculate accuracy
-        if (total_tp + total_fp + total_fn) == 0:
+        if (mapTagEval[tag]['tp'] + mapTagEval[tag]['fp'] + mapTagEval[tag]['fn']) == 0:
             accuracy = 100
         else:
-            accuracy = total_tp / (total_tp + total_fp + total_fn)
+            accuracy = mapTagEval[tag]['tp'] / (mapTagEval[tag]['tp'] + mapTagEval[tag]['fp'] + mapTagEval[tag]['fn']) * 100
 
         # Calculate precision
-        if (total_tp + total_fp) == 0:
+        if (mapTagEval[tag]['tp'] + mapTagEval[tag]['fp']) == 0:
             precision = 100
         else:
-            precision = total_tp / (total_tp + total_fp)
+            precision = mapTagEval[tag]['tp'] / (mapTagEval[tag]['tp'] + mapTagEval[tag]['fp']) * 100
 
         # Calculate recall
-        if (total_tp + total_fn) == 0:
+        if (mapTagEval[tag]['tp'] + mapTagEval[tag]['fn']) == 0:
             recall = 100
         else:
-            recall = total_tp / (total_tp + total_fn)
+            recall = mapTagEval[tag]['tp'] / (mapTagEval[tag]['tp'] + mapTagEval[tag]['fn']) * 100
 
         # Calculate the f1 measure
         if (precision + recall) == 0:
@@ -123,4 +172,4 @@ if __name__ == '__main__':
         else:
             f1 = 2 * (precision * recall) / (precision + recall)
 
-        print(accuracy, precision, recall, f1)
+        print(tag, accuracy, precision, recall, f1)

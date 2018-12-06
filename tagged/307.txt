@@ -1,7 +1,7 @@
 <0.5.2.91.11.13.00.L.R.Adkins-Shellie@B.GP.CS.CMU.EDU.0>
 Type:     cmu.cs.robotics
 Who:      <speaker>Reid Simmons</speaker>, School of Computer Science, CMU
-Topic:    <topic>An Autonomous Walking Robot for Planetary Exploration</topic>
+Topic:    An Autonomous Walking Robot for Planetary Exploration
 Dates:    8-Feb-91
 Time:     <stime>3:30 PM</stime>
 Place:    <location>Baker Hall, Adamson Wing</location>
@@ -11,7 +11,7 @@ Abstract:
 
 
  Speaker:  <speaker>Reid Simmons</speaker>, School of Computer Science, CMU
- Title:    <topic>An Autonomous Walking Robot for Planetary Exploration</topic>
+ Title:    An Autonomous Walking Robot for Planetary Exploration
  Date:     Friday, February 8, 1991
  Time:     <stime>3:30 p.m</stime>. until 4:30 p.m.
  Location: <location>Baker Hall, Adamson Wing</location>

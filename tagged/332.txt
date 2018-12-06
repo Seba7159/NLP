@@ -1,6 +1,6 @@
 <0.09.10.91.10.02.38.jean+@A.GP.CS.CMU.EDU (Jean Harpley).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>DONATH TALK MOVED</topic>
+Topic:    DONATH TALK MOVED
 Dates:    10-Oct-91
 Time:     <stime>1:30</stime> - <etime>3:00 PM</etime>
 PostedBy: jean+ on 09-Oct-91 at 10:02 from A.GP.CS.CMU.EDU (Jean Harpley)

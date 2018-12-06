@@ -1,7 +1,7 @@
 <0.22.10.93.16.40.18.plp+@PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz).0>
 Type:     AI Seminar
 Who:      <speaker>Herbert Simon</speaker>
-Topic:    <topic>The EPAM Model of Experts' Discrimination and Learning:</topic> 
+Topic:    The EPAM Model of Experts' Discrimination and Learning: 
           Implications for AI
 Dates:    26-Oct-93
 Time:     <stime>3:30 PM</stime>
@@ -11,13 +11,13 @@ Abstract:
 
  Type:     AI Seminar
  Who:      <speaker>Herbert Simon</speaker>
- Topic:    <topic>The EPAM Model of Experts' Discrimination and Learning:</topic> 
+ Topic:    The EPAM Model of Experts' Discrimination and Learning: 
            Implications for AI
  Dates:    26-Oct-93
  Time:     <stime>3:30 p.m</stime>.
  Place:    <location>5409 Wean Hall</location>
 
-<topic>The EPAM Model of Experts' Discrimination and Learning:</topic> Implications for AI
+The EPAM Model of Experts' Discrimination and Learning: Implications for AI
 by <speaker>Herbert Simon</speaker>
 
 <paragraph><sentence>EPAM is a program (the first version was Ed Feigenbaum's thesis) that

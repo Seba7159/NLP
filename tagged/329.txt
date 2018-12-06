@@ -1,7 +1,7 @@
 <0.18.9.91.12.12.32.maa+@ISL1.RI.CMU.EDU (Michelle Agie).0>
 Type:     cmu.cs.robotics
 Who:      <speaker>D. Navinchandra</speaker>
-Topic:    <topic>Product Design for Environmental Compatibility</topic>
+Topic:    Product Design for Environmental Compatibility
 Dates:    20-Sep-91
 Time:     <stime>2:00 PM</stime> - <etime>3:00 PM</etime>
 Place:    <location>3313 Doherty Hall</location>
@@ -17,7 +17,7 @@ Abstract:
 
  Place: <location>3313 Doherty Hall</location>
 
- TITLE:  <topic>Product Design for Environmental Compatibility</topic>
+ TITLE:  Product Design for Environmental Compatibility
 
 <paragraph><sentence>There is a growing interest in making products environmentally more
 compatible</sentence>.  <sentence>While there is a need to make products and processes less toxic,

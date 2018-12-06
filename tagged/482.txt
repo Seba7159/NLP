@@ -1,6 +1,6 @@
 <0.02.6.92.12.52.25.copetas+@GANDALF.CS.CMU.EDU (Catherine Copetas).0>
 Type:     cmu.cs.scs
-Topic:    <topic>SONY TALK: Dr. Seiichi <speaker>Watanabe</speaker></topic>
+Topic:    SONY TALK: Dr. Seiichi <speaker>Watanabe</speaker>
 Dates:    5-Jun-92
 Time:     <stime>2:30 PM</stime>
 PostedBy: copetas+ on 02-Jun-92 at 12:52 from GANDALF.CS.CMU.EDU (Catherine Copetas)

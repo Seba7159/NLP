@@ -3,7 +3,7 @@ Type:     cmu.cs.robotics
 Who:      <speaker>Simon Penny</speaker>
           Associate Professor of Art and Robotics
           Carnegie Mellon University
-Topic:    <topic>Autonomous Interactive Artwork</topic>  
+Topic:    Autonomous Interactive Artwork  
 Dates:    31-Mar-95
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -21,7 +21,7 @@ Abstract:
  	  Associate Professor of Art and Robotics
  	  Carnegie Mellon University
 
- TITLE:	  <topic>Autonomous Interactive Artwork</topic>  
+ TITLE:	  Autonomous Interactive Artwork  
 
 <paragraph><sentence>In my first formal opportunity to introduce myself and my enterprise to
 faculty and students in robotics, I will outline my interests and goals

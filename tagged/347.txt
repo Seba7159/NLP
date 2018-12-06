@@ -1,12 +1,12 @@
 <0.20.3.92.09.11.02.rgw+@IUS4.IUS.CS.CMU.EDU (Reg Willson).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>Computer vision and geometric measurement</topic>
+Topic:    Computer vision and geometric measurement
 Dates:    20-Mar-92
 Time:     <stime>3:30</stime> - <etime>4:30</etime>
 PostedBy: rgw+ on 20-Mar-92 at 09:11 from IUS4.IUS.CS.CMU.EDU (Reg Willson)
 Abstract: 
 
- Title:			<topic>Computer vision and geometric measurement</topic>
+ Title:			Computer vision and geometric measurement
 
  Visitor/Speaker:	<speaker>Dr. Kam W. Wong</speaker>
  			Professor of Civil Engineering

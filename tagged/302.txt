@@ -1,6 +1,6 @@
 <0.27.10.94.12.41.00.muir+@CS.CMU.EDU (Patrick Muir).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>Antal Bejczy Lecture Nov. 11</topic>
+Topic:    Antal Bejczy Lecture Nov. 11
 Dates:    11-Nov-94
 Time:     <stime>1:30</stime>
 PostedBy: muir+ on 27-Oct-94 at 12:41 from CS.CMU.EDU (Patrick Muir)

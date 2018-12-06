@@ -1,6 +1,6 @@
 <0.29.4.92.00.39.29.mjs+@G.GP.CS.CMU.EDU (Mark Stehlik).1>
 Type:     cmu.cs.scs
-Topic:    <topic>Undergrad Research Presentations</topic>
+Topic:    Undergrad Research Presentations
 Dates:    4-May-92
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 PostedBy: mjs+ on 29-Apr-92 at 00:39 from G.GP.CS.CMU.EDU (Mark Stehlik)

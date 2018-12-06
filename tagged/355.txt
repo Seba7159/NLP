@@ -4,7 +4,7 @@ Who:      <speaker>Professor Franz Leberl</speaker>
           Department of Photogrammetry and Computer Graphics
           Technical University Graz
           Austria
-Topic:    <topic>Radargrammetric Processing of Magellan Images of the Planet Venus</topic>
+Topic:    Radargrammetric Processing of Magellan Images of the Planet Venus
 Dates:    10-Nov-92
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
 Place:    <location>Wean Hall 4625</location>
@@ -21,6 +21,6 @@ Special Seminar in Digital Mapping and Computer Vision
  Date:    Tuesday, November 10
  Time:    <stime>3:30</stime> - <etime>5:00 pm</etime>
  Place:   <location>Wean Hall 4625</location>
- Title:   <topic>Radargrammetric Processing of Magellan Images of the Planet Venus</topic>
+ Title:   Radargrammetric Processing of Magellan Images of the Planet Venus
 
 <paragraph><sentence>See previous post for full abstract</sentence>.</paragraph>

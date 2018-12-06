@@ -1,6 +1,6 @@
 <0.24.4.91.09.12.02.Jeffrey.Schlimmer@A.GP.CS.CMU.EDU.0>
 Type:     cmu.cs.robotics
-Topic:    <topic>AI Seminar This Friday</topic>
+Topic:    AI Seminar This Friday
 Dates:    26-Apr-91
 Time:     <stime>2:00</stime> - <etime>3:30</etime>
 PostedBy: Jeffrey.Schlimmer on 24-Apr-91 at 09:12 from A.GP.CS.CMU.EDU

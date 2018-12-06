@@ -1,6 +1,6 @@
 <0.19.10.93.11.57.59.trg+@N3.SP.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    <topic>CS/PSC Seminar 10/22 @ <stime>4:00 p.m</stime> WeH 5409 A. Nowatzyk of Sun</topic>
+Topic:    CS/PSC Seminar 10/22 @ <stime>4:00 p.m</stime> WeH 5409 A. Nowatzyk of Sun
 Dates:    22-Oct-93
 Time:     <stime>4:00 PM</stime>
 PostedBy: trg+ on 19-Oct-93 at 11:57 from N3.SP.CS.CMU.EDU (Thomas Gross)

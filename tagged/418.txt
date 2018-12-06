@@ -1,7 +1,7 @@
 <0.<sentence>4</sentence>.1<sentence>1</sentence>.93.11.29.13.plp+@PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz).0>
 Type:     AI Seminar
 Who:      <speaker>Clark Glymour</speaker> (CMU Philosophy)
-Topic:    <topic>Automated Casual Inference: Recent Work and Open Problems</topic>
+Topic:    Automated Casual Inference: Recent Work and Open Problems
 Dates:    9-Nov-93
 Time:     <stime>3:30 PM</stime>
 Place:    <location>5409 Wean Hall</location>
@@ -11,7 +11,7 @@ Abstract:
 
  Type:     AI Seminar
  Who:      <speaker>Clark Glymour</speaker> (CMU Philosophy)
- Topic:    <topic>Automated Casual Inference: Recent Work and Open Problems</topic>
+ Topic:    Automated Casual Inference: Recent Work and Open Problems
  Dates:    9-Nov-93
  Time:     <stime>3:30 p.m</stime>.
  Place:    <location>5409 Wean Hall</location>

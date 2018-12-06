@@ -1,7 +1,7 @@
 <0.28.1.93.13.09.45.marian+@MARIAN.ADM.CS.CMU.EDU (Marian D'Amico).0>
 Type:     LOGIC COLLOQUIUM
 Who:      <speaker>Gian Aldo Antonelli</speaker>, Univ. of Pittsburgh
-Topic:    <topic>A Revision-Theoretic Analysis of the Arithmetical Hierarchy</topic>
+Topic:    A Revision-Theoretic Analysis of the Arithmetical Hierarchy
 Dates:    4-Feb-93
 Time:     <stime>3:30 PM</stime>
 Place:    <location>WEH 5409</location>
@@ -12,7 +12,7 @@ Abstract:
 
  Type:     LOGIC COLLOQUIUM
  Who:      <speaker>Gian Aldo Antonelli</speaker>, Univ. of Pittsburgh
- Topic:    <topic>A Revision-Theoretic Analysis of the Arithmetical Hierarchy</topic>
+ Topic:    A Revision-Theoretic Analysis of the Arithmetical Hierarchy
  Dates:    4-Feb-93
  Time:     <stime>3:30 PM</stime>
  Place:    <location>WEH 5409</location>

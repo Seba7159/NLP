@@ -1,6 +1,6 @@
 <0.18.2.94.09.58.49.trg+@N3.SP.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    <topic>CS/PSC Seminar today @ <stime>4:00</stime> G. Miller WeH 5409</topic>
+Topic:    CS/PSC Seminar today @ <stime>4:00</stime> G. Miller WeH 5409
 Dates:    18-Feb-94
 Time:     <stime>4:00</stime>
 PostedBy: trg+ on 18-Feb-94 at 09:58 from N3.SP.CS.CMU.EDU (Thomas Gross)

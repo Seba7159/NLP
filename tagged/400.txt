@@ -1,6 +1,6 @@
 <0.15.2.93.09.40.01.garth+@NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson).0>
 Type:     cmu.cs.scs
-Topic:    <topic>WWC video seminar: Feb 17 <stime>7:15</stime>-<etime>8:15 pm</etime> 4623 WeH Christos H. Papadimitriou</topic>
+Topic:    WWC video seminar: Feb 17 <stime>7:15</stime>-<etime>8:15 pm</etime> 4623 WeH Christos H. Papadimitriou
 Dates:    17-Feb-93
 Time:     <stime>7:15</stime> - <etime>8:15 PM</etime>
 PostedBy: garth+ on 15-Feb-93 at 09:40 from NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson)

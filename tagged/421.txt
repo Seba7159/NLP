@@ -1,6 +1,6 @@
 <0.1.12.93.00.02.30.marcos@gs100.sp.cs.cmu.edu (Marco J Schumacher).0>
 Type:     cmu.cs.scs
-Topic:    <topic>MSE End-of-Semester Presentation</topic>
+Topic:    MSE End-of-Semester Presentation
 Dates:    3-Dec-93
 Time:     <stime>11:00 AM</stime> - <etime>12:00 PM</etime>
 PostedBy: marcos on 1-Dec-93 at 00:02 from gs100.sp.cs.cmu.edu (Marco J Schumacher)

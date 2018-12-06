@@ -1,6 +1,6 @@
 <0.09.4.92.11.29.39.plp+@PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>Reminder: Manocha Talk today</topic>
+Topic:    Reminder: Manocha Talk today
 Dates:    9-Apr-92
 Time:     <stime>3:30 PM</stime>
 PostedBy: plp+ on 09-Apr-92 at 11:29 from PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz)

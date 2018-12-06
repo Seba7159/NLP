@@ -1,6 +1,6 @@
 <0.11.8.92.12.54.36.wah+@MAPS.CS.CMU.EDU (Wilson Harvey).0>
 Type:     cmu.cs.scs
-Topic:    <topic>Talk: "DTM from SPOT and Aerial Images"</topic>
+Topic:    Talk: "DTM from SPOT and Aerial Images"
 Dates:    11-Aug-92
 Time:     <stime>2:00 PM</stime>
 PostedBy: wah+ on 11-Aug-92 at 12:54 from MAPS.CS.CMU.EDU (Wilson Harvey)

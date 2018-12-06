@@ -1,7 +1,7 @@
 <0.29.10.91.10.59.01.marian+@MARIAN.ADM.CS.CMU.EDU (Marian D'Amico).0>
 Type:     cmu.cs.scs
 Who:      <speaker>Wayne Snyder</speaker>
-Topic:    <topic>Basic Paramodulation and Basic Strict Superposition</topic>
+Topic:    Basic Paramodulation and Basic Strict Superposition
 Dates:    7-Nov-91
 Time:     <stime>3:30 PM</stime>
 Place:    <location>WeH 5409</location>
@@ -11,7 +11,7 @@ Abstract:
 
 
  SPEAKER:  <speaker>Wayne Snyder</speaker>
- TITLE:    <topic>Basic Paramodulation and Basic Strict Superposition</topic>
+ TITLE:    Basic Paramodulation and Basic Strict Superposition
  DATE:     Thursday, November 7, 1991
  TIME:     <stime>3:30PM</stime>
  PLACE:    <location>WeH 5409</location>

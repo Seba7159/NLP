@@ -1,6 +1,6 @@
 <0.29.9.94.10.36.59.prs+@N2.SP.CS.CMU.EDU (peter steenkiste).0>
 Type:     cmu.cs.scs
-Topic:    <topic>PSC/CS Seminar 9/30: Dennis Gannon</topic>
+Topic:    PSC/CS Seminar 9/30: Dennis Gannon
 Dates:    30-Sep-94
 Time:     <stime>4:00 PM</stime>
 Place:    <location>SEI Auditorium</location>

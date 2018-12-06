@@ -1,6 +1,6 @@
 <0.16.9.94.14.14.59.prs+@N2.SP.CS.CMU.EDU (peter steenkiste).11>
 Type:     cmu.cs.scs
-Topic:    <topic>Calendar joint CS-PSC seminar series</topic>
+Topic:    Calendar joint CS-PSC seminar series
 Dates:    9-Dec-94
 Time:     <stime>4:00 PM</stime>
 PostedBy: prs+ on 16-Sep-94 at 14:14 from N2.SP.CS.CMU.EDU (peter steenkiste)

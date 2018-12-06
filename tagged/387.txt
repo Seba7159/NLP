@@ -1,12 +1,12 @@
 <0.18.11.92.09.44.33.teruko+@MUNICH.MT.CS.CMU.EDU (Teruko Mitamura).0>
 Type:     cmu.cs.scs
-Topic:    <topic>CMT Research Seminar</topic>
+Topic:    CMT Research Seminar
 Dates:    24-Nov-92
 Time:     <stime>4:00 PM</stime>
 PostedBy: teruko+ on 18-Nov-92 at 09:44 from MUNICH.MT.CS.CMU.EDU (Teruko Mitamura)
 Abstract: 
 
-			   <topic>CMT RESEARCH SEMINAR</topic>
+			   CMT RESEARCH SEMINAR
 
 	      Hierarchical Lexical Structure and Mapping
 		       in Machine Translation:

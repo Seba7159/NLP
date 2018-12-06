@@ -1,6 +1,6 @@
 <0.26.9.94.11.56.23.prs+@N2.SP.CS.CMU.EDU (peter steenkiste).0>
 Type:     cmu.cs.scs
-Topic:    <topic>CS/PSC/PS seminar Steve McGeady on 10/17</topic>
+Topic:    CS/PSC/PS seminar Steve McGeady on 10/17
 Dates:    17-Oct-94
 Time:     <stime>3:30 PM</stime>
 Place:    <location>Wean Hall 5409</location>

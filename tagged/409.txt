@@ -1,6 +1,6 @@
 <0.7.9.93.17.52.25.garth+@NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson).0>
 Type:     cmu.cs.scs
-Topic:    <topic>Short talk on Data Breakpoints</topic>
+Topic:    Short talk on Data Breakpoints
 Dates:    8-Sep-93
 Time:     <stime>11:50</stime>
 PostedBy: garth+ on 7-Sep-93 at 17:52 from NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson)

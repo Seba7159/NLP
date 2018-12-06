@@ -1,6 +1,6 @@
 <0.6.10.92.13.24.07.tmeadows@resumix.portal.com (Tim Meadows).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>Antarctic Exploration Robotics</topic>
+Topic:    Antarctic Exploration Robotics
 Dates:    9-Oct-92
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
 Place:    <location>Baker Hall Adamson Wing</location>
@@ -19,7 +19,7 @@ RI SEMINAR
  		Principal Scientist and Director, 
  		The Field Robotics Center- CMU
 
- TITLE:		<topic>Antarctic Exploration Robotics</topic>
+ TITLE:		Antarctic Exploration Robotics
 
 <paragraph><sentence>CMU's DANTE robot will soon explore an active volcano in Antarctica</sentence>. 
 <sentence>DANTE is a remote geologist and a harbinger of polar and planetary robots</sentence>. 

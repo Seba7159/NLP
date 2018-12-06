@@ -1,7 +1,7 @@
 <0.11.10.94.09.16.27.rebec+@GNOME.CS.CMU.EDU (Rebecca Clark).0>
 Type:     cmu.cs.scs
 Who:      <speaker>Robert Cavalier</speaker> (CMU Ethics Center)
-Topic:    <topic>Redesigning the Classroom: Teaching and Technology</topic>
+Topic:    Redesigning the Classroom: Teaching and Technology
           in Higher Education
 Dates:    11-Oct-94
 Time:     <stime>4:30</stime> - <etime>5:30 PM</etime>
@@ -18,7 +18,7 @@ SPECIAL MULTIMEDIA SEMINAR
  Host: Dana Scott (SCS, x8-3881 or Rebecca Clark x8-6737).
 
  SPEAKER:  <speaker>Robert Cavalier</speaker> (CMU Ethics Center)
- TOPIC: <topic>Redesigning the Classroom: Teaching and Technology</topic>
+ TOPIC: Redesigning the Classroom: Teaching and Technology
  	in Higher Education
 
  ABSTRACT: Not since the introduction of chalkboards in the 1800s has

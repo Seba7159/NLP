@@ -1,6 +1,6 @@
 <0.17.9.93.12.11.20.alf+@N3.SP.CS.CMU.EDU (Allan Fisher).8>
 Type:     cmu.cs.scs
-Topic:    <topic>reminder: grad student teaching seminars</topic>
+Topic:    reminder: grad student teaching seminars
 Dates:    5-Oct-93
 Time:     <stime>2:00</stime> - <etime>5:00 PM</etime>
 PostedBy: alf+ on 17-Sep-93 at 12:11 from N3.SP.CS.CMU.EDU (Allan Fisher)

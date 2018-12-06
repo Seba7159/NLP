@@ -1,12 +1,12 @@
 <0.22.3.93.11.51.27.feline+@ISL1.RI.CMU.EDU (Carol S Boshears).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>Seminar</topic>
+Topic:    Seminar
 Dates:    30-Mar-93
 Time:     <stime>12:00</stime> - <etime>1:00</etime>
 PostedBy: feline+ on 22-Mar-93 at 11:51 from ISL1.RI.CMU.EDU (Carol S Boshears)
 Abstract: 
 
-<paragraph><sentence>CIMDS <topic>Seminar</topic> - <speaker>Steve</speaker> Chien, JPL, 3/30</sentence>. <sentence><stime>12:00</stime>-<etime>1:00</etime>, Doherty Hall ??</sentence>
+<paragraph><sentence>CIMDS Seminar - <speaker>Steve</speaker> Chien, JPL, 3/30</sentence>. <sentence><stime>12:00</stime>-<etime>1:00</etime>, Doherty Hall ??</sentence>
 	<sentence>Learning Control Knowledge for Scheduling</sentence></paragraph>
 
 			<speaker>Steve</speaker> Chien

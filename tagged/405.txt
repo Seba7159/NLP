@@ -1,7 +1,7 @@
 <0.3.3.93.18.12.14.dbj+@cs.cmu.edu (Dave Johnson).0>
 Type:     PS Seminar
 Who:      <speaker>Amy Zwarico</speaker>, Johns Hopkins University
-Topic:    <topic>"Testing Preorders for Reactive Real-Time Processes"</topic>
+Topic:    "Testing Preorders for Reactive Real-Time Processes"
 Dates:    8-Mar-93
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>Wean Hall 5409</location>
@@ -12,7 +12,7 @@ Abstract:
 
  Type:     PS Seminar
  Who:      <speaker>Amy Zwarico</speaker>, Johns Hopkins University
- Topic:    <topic>"Testing Preorders for Reactive Real-Time Processes"</topic>
+ Topic:    "Testing Preorders for Reactive Real-Time Processes"
  Dates:    8-Mar-93
  Time:     <stime>3:30 pm</stime> - <etime>5:00 pm</etime>
  Place:    <location>Wean Hall 5409</location>

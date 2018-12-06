@@ -1,6 +1,6 @@
 <0.09.9.91.11.46.08.pkh+@TEZUKA.REST.RI.CMU.EDU (Ping Kang Hsiung).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>apE visualization software talk this Tue.</topic>
+Topic:    apE visualization software talk this Tue.
 Dates:    10-Sep-91
 Time:     <stime>3:30 PM</stime>
 PostedBy: pkh+ on 09-Sep-91 at 11:46 from TEZUKA.REST.RI.CMU.EDU (Ping Kang Hsiung)

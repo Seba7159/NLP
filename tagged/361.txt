@@ -1,7 +1,7 @@
 <0.18.2.93.19.32.03.ph+@cs.cmu.edu (Paul Heckbert).0>
 Type:     cmu.cs.robotics
 Who:      <speaker>Jarek Rossignac</speaker>, IBM T.J. Watson Research Center
-Topic:    <topic>BEZIER-MINKOWSKI METAMORPHOSIS & INTERACTIVE GEOMETRIC MODELING</topic>
+Topic:    BEZIER-MINKOWSKI METAMORPHOSIS & INTERACTIVE GEOMETRIC MODELING
           A two-part presentation
 Dates:    23-Feb-93
 Time:     <stime>3:30</stime> - <etime>4:30</etime>
@@ -11,7 +11,7 @@ Abstract:
 
 			  GRAPHICS SEMINAR
 
- title:	 <topic>BEZIER-MINKOWSKI METAMORPHOSIS & INTERACTIVE GEOMETRIC MODELING</topic>
+ title:	 BEZIER-MINKOWSKI METAMORPHOSIS & INTERACTIVE GEOMETRIC MODELING
  	 A two-part presentation
 
  speaker: <speaker>Jarek Rossignac</speaker>, IBM T.J. Watson Research Center

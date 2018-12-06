@@ -1,6 +1,6 @@
 <0.24.1.94.19.57.40.jkr@IUS5.IUS.CS.CMU.EDU.0>
 Type:     cmu.misc.environmental-health-and-safety
-Topic:    <topic>EPP TALK: Household Demand for Garbage and Recycling Collection</topic>
+Topic:    EPP TALK: Household Demand for Garbage and Recycling Collection
 Dates:    27-Jan-94
 Time:     <stime>4:30 PM</stime>
 PostedBy: Julio Ken Rosenblatt on 24-Jan-94 at 19:57 from IUS5.IUS.CS.CMU.EDU

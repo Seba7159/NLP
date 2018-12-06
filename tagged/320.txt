@@ -2,7 +2,7 @@
 Type:     cmu.cs.robotics
 Who:      <speaker>Dr. Kishan Baheti</speaker>
           National Science Foundation
-Topic:    <topic>Control and Manufacturing Research and Education Programs</topic>
+Topic:    Control and Manufacturing Research and Education Programs
           at the National Science Foundation
 Dates:    5-May-95
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
@@ -25,7 +25,7 @@ on a first-come/first-serve basis</sentence>.</paragraph>
  SPEAKER:  <speaker>Dr. Kishan Baheti</speaker>
  	  National Science Foundation
 
- TITLE:	  <topic>Control and Manufacturing Research and Education Programs</topic>
+ TITLE:	  Control and Manufacturing Research and Education Programs
  	  at the National Science Foundation
 
 <paragraph><sentence>Manufacturing is a highly integrative discipline and

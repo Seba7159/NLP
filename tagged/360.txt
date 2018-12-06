@@ -2,7 +2,7 @@
 Type:     cmu.cs.robotics
 Who:      <speaker>KLAUS FISCHER</speaker>
           German Research Institute for AI, Saarbruecken
-Topic:    <topic>SOLVING SCHEDULING PROBLEMS WITH THE HELP OF MULTI-AGENT SYSTEMS</topic>
+Topic:    SOLVING SCHEDULING PROBLEMS WITH THE HELP OF MULTI-AGENT SYSTEMS
 Dates:    19-Feb-93
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -21,7 +21,7 @@ Abstract:
  SPEAKER: <speaker>KLAUS FISCHER</speaker>
           German Research Institute for AI, Saarbruecken
 
- TITLE: <topic>SOLVING SCHEDULING PROBLEMS WITH THE HELP OF MULTI-AGENT SYSTEMS</topic>
+ TITLE: SOLVING SCHEDULING PROBLEMS WITH THE HELP OF MULTI-AGENT SYSTEMS
 
 <paragraph><sentence>The talk presents work which was done in Research Project 331
 Information Processing in Autonomous Mobile Robot Systems at

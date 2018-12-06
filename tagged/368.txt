@@ -1,6 +1,6 @@
 <0.6.4.95.20.03.41.os22+@andrew.cmu.edu (Oliver <speaker>Schulte</speaker>).0>
 Type:     cmu.cs.robotics.students
-Topic:    <topic>Financial Aid Seminar this Thursday</topic>
+Topic:    Financial Aid Seminar this Thursday
 Dates:    6-Apr-95
 Time:     <stime>4:30</stime> - <etime>6:30 PM</etime>
 Place:    <location>Adamson Wing, Baker Hall</location>

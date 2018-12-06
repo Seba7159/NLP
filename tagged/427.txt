@@ -3,7 +3,7 @@ Type:     cmu.cs.scs
 Who:      <speaker>Alonzo Kelly</speaker>
           The Robotics Institute
           Carnegie Mellon University
-Topic:    <topic>Systems Design of An Off Road Autonomous Navigator</topic>
+Topic:    Systems Design of An Off Road Autonomous Navigator
 Dates:    28-Jan-94
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -23,7 +23,7 @@ Abstract:
           The Robotics Institute
           Carnegie Mellon University
 
- TITLE:   <topic>Systems Design of An Off Road Autonomous Navigator</topic>
+ TITLE:   Systems Design of An Off Road Autonomous Navigator
 
 <paragraph><sentence>This talk will overview the results to date for my PhD thesis in the area
 of autonomous cross country navigation</sentence>. <sentence>The work investigates aspects of 

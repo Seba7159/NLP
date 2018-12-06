@@ -1,6 +1,6 @@
 <0.16.10.92.13.51.17.copetas+@GANDALF.CS.CMU.EDU (Catherine Copetas).0>
 Type:     cmu.cs.scs
-Topic:    <topic>1ST ANNUAL SCS HOMECOMING LECTURE</topic>
+Topic:    1ST ANNUAL SCS HOMECOMING LECTURE
 Dates:    16-Oct-92
 Time:     <stime>3:00 PM</stime>
 PostedBy: copetas+ on 16-Oct-92 at 13:51 from GANDALF.CS.CMU.EDU (Catherine Copetas)

@@ -1,6 +1,6 @@
 <0.22.3.94.08.58.01.kk00+@andrew.cmu.edu.0>
 Type:     cmu.cs.scs
-Topic:    <topic>March 23 HCI Seminar</topic>
+Topic:    March 23 HCI Seminar
 Dates:    23-Mar-94
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
 Host:     Phil Miller

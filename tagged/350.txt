@@ -2,7 +2,7 @@
 Type:     cmu.cs.robotics
 Who:      <speaker>DR. Yuan F. Zheng</speaker> - Dept. Electrical Engineering
           Ohio State University
-Topic:    <topic>RI SEMINAR CORRECTION</topic>
+Topic:    RI SEMINAR CORRECTION
 Dates:    4-Sep-92
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
 Place:    <location>DOHERTY HALL 2315 (NOTE ROOM)</location>

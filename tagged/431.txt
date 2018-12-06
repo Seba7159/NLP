@@ -2,7 +2,7 @@
 Type:     cmu.cs.scs
 Who:      <speaker>Guy L. Steele</speaker>, Jr.
           Thinking Machines Corporation
-Topic:    <topic>High Performance Fortran</topic>
+Topic:    High Performance Fortran
 Dates:    11-Feb-94
 Time:     <stime>4:00 PM</stime>
 Place:    <location>3rd Floor Conference Room</location>
@@ -14,7 +14,7 @@ Abstract:
  SPEAKER:  <speaker>Guy L. Steele</speaker>, Jr.
            Thinking Machines Corporation
 
- TOPIC:    <topic>High Performance Fortran</topic>
+ TOPIC:    High Performance Fortran
 
  DATE:     Friday, February 11, 1994
 

@@ -1,6 +1,6 @@
 <0.25.10.91.00.33.09.me@H.GP.CS.CMU.EDU (Michael Erdmann).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>Robotics Seminar, Prof. Jean-Claude Latombe, Friday Oct 25, <stime>3:45</stime>, <location>Doherty Hall 1112</location></topic>
+Topic:    Robotics Seminar, Prof. Jean-Claude Latombe, Friday Oct 25, <stime>3:45</stime>, <location>Doherty Hall 1112</location>
 Dates:    25-Oct-91
 Time:     <stime>3:45</stime>
 Place:    <location>Doherty Hall 1112</location>

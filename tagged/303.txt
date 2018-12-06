@@ -3,7 +3,7 @@ Type:     cmu.cs.robotics
 Who:      <speaker>Tony Stentz</speaker>
           The Robotics Institute
           Carnegie Mellon University
-Topic:    <topic>The D* Algorithm for Real-Time Path Replanning</topic>
+Topic:    The D* Algorithm for Real-Time Path Replanning
 Dates:    4-Nov-94
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -23,7 +23,7 @@ Abstract:
  	 The Robotics Institute
           Carnegie Mellon University
 
- TITLE:  <topic>The D* Algorithm for Real-Time Path Replanning</topic>
+ TITLE:  The D* Algorithm for Real-Time Path Replanning
 
 <paragraph><sentence>The task of planning trajectories for a mobile robot has received
 considerable attention in the research literature</sentence>.  <sentence>Algorithms exist

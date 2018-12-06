@@ -3,7 +3,7 @@ Type:     cmu.cs.robotics
 Who:      <speaker>Professor Hirofumi Miura</speaker>,
           Mechanical Engineering Department & Information  Engineering Course,
           The University of Tokyo
-Topic:    <topic>Dexterity and Intelligence in Robotic Systems</topic>
+Topic:    Dexterity and Intelligence in Robotic Systems
 Dates:    5-Apr-91
 Time:     <stime>3:30 PM</stime>
 Place:    <location>Baker Hall, Adamson Wing</location>
@@ -15,7 +15,7 @@ Abstract:
  Speaker:  <speaker>Professor Hirofumi Miura</speaker>,
            Mechanical Engineering Department & Information  Engineering Course,
            The University of Tokyo
- Title:    <topic>Dexterity and Intelligence in Robotic Systems</topic>
+ Title:    Dexterity and Intelligence in Robotic Systems
  Date:     April 5, 1991
  Time:     <stime>3:30 p.m</stime>. until 4:30 p.m.
  Location: <location>Baker Hall, Adamson Wing</location>

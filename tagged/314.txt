@@ -1,7 +1,7 @@
 <0.1.3.95.09.55.01.plp+@HOSTESS.GRAPHICS.CS.CMU.EDU (Phyllis Pomerantz).0>
 Type:     AI Seminar
 Who:      <speaker>Oren Etzioni</speaker> / University of Washington
-Topic:    <topic>Learning to Understand Information on the Internet.</topic>
+Topic:    Learning to Understand Information on the Internet.
 Dates:    7-Mar-95
 Time:     <stime>3:30 PM</stime>
 Place:    <location>5409 Wean Hall</location>
@@ -12,14 +12,14 @@ Abstract:
 
  Type:     AI Seminar
  Who:      <speaker>Oren Etzioni</speaker> / University of Washington
- Topic:    <topic>Learning to Understand Information on the Internet.</topic>
+ Topic:    Learning to Understand Information on the Internet.
  Dates:    7-Mar-95
  Time:     <stime>3:30 p.m</stime>.
  Place:    <location>5409 Wean Hall</location>
  Duration: 1 1/2 hours
  Host:     Raul Valdes-Perez
 
- Title: <topic>Learning to Understand Information on the Internet.</topic>
+ Title: Learning to Understand Information on the Internet.
 
 <paragraph><sentence>The explosive growth in the number and diversity of information
 sources on the Internet is rapidly outstripping our ability to find

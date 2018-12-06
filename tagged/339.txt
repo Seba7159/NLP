@@ -1,6 +1,6 @@
 <0.05.11.91.12.34.04.jean+@A.GP.CS.CMU.EDU (Jean Harpley).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>Goldfarb Seminar</topic>
+Topic:    Goldfarb Seminar
 Dates:    18-Nov-91
 Time:     <stime>4:00 PM</stime>
 Host:     Tom Mitchell                 Appointments: Jean Harpley, x3802, Jean@cs

@@ -3,7 +3,7 @@ Type:     cmu.cs.scs
 Who:      <speaker>Professor N.G. de Bruijn</speaker> 
           Eindhoven University of Technology,
           Eindhoven, The Netherlands
-Topic:    <topic>"Mathematical Theory of Quasicrystals"</topic>
+Topic:    "Mathematical Theory of Quasicrystals"
 Dates:    21-Nov-9
 Time:     <stime>10:30 AM</stime>
 Place:    <location>5409 Wean Hall</location>
@@ -25,4 +25,4 @@ Abstract:
 
  Place:	  <location>5409 Wean Hall</location>
 
- Topic:   <topic>"Mathematical Theory of Quasicrystals"</topic>
+ Topic:   "Mathematical Theory of Quasicrystals"

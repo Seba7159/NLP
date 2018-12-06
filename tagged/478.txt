@@ -3,7 +3,7 @@ Type:     cmu.cs.scs
 Who:      <speaker>Leslie Lamport</speaker>
           Digital Equipment Corporation
           Systems Research Center
-Topic:    <topic>The Temporal Logic of Actions</topic>
+Topic:    The Temporal Logic of Actions
 Dates:    28-Apr-92
 Time:     <stime>3:30 PM</stime>
 Place:    <location>Wean Hall 4623</location>
@@ -20,7 +20,7 @@ Abstract:
  Date:     Tuesday, April 28
  Time:     <stime>3:30 pm</stime>
  Place:    <location>Wean Hall 4623</location>
- Topic:    <topic>The Temporal Logic of Actions</topic>
+ Topic:    The Temporal Logic of Actions
 
 <paragraph><sentence>Traditional verification employs a programming language for writing the 
 program, and a logic for expressing its properties</sentence>.  <sentence>When verifying 
@@ -33,7 +33,7 @@ properties and programs then vanishes, and specifications can be written
 as simple programs</sentence>.  <sentence>Proving that one program implements another is no 
 different from proving that a program satisfies a property</sentence>.</paragraph>
 
-<paragraph><sentence><topic>The temporal logic of actions</topic> is the right logic</sentence>.  <sentence>It provides a tool that 
+<paragraph><sentence>The temporal logic of actions is the right logic</sentence>.  <sentence>It provides a tool that 
 can help us cope with the complexity of verifying real concurrent algorithms</sentence>.</paragraph>
 
 <paragraph><sentence>No previous fondess for logic is assumed</sentence>.</paragraph>

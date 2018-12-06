@@ -1,6 +1,6 @@
 <0.11.1.93.08.51.56.mp3r+@J.GP.CS.CMU.EDU (Margaret Profeta).0>
 Type:     cmu.cs.scs
-Topic:    <topic>POP SEMINAR</topic>
+Topic:    POP SEMINAR
 Dates:    15-Dec-92
 Time:     <stime>3:00</stime> - <etime>4:00 PM</etime>
 PostedBy: mp3r+ on 11-Jan-93 at 08:51 from J.GP.CS.CMU.EDU (Margaret Profeta)
@@ -8,7 +8,7 @@ Abstract:
 
         *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -       
 
-                                   <topic>POP SEMINAR</topic>
+                                   POP SEMINAR
                               Friday, Dec 15, 1992
                                 <stime>3:00</stime> - <etime>4:00 p.m</etime>.
                                     WeH 8220

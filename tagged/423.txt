@@ -1,7 +1,7 @@
 <0.13.12.93.12.01.28.tania+@CS.CMU.EDU (Tania E Marrero).0>
 Type:     cmu.cs.scs
 Who:      <speaker>Maxine Eskenazi</speaker> - LIMSI/CNRS - ORSAY, FRANCE
-Topic:    <topic>Speech Seminar</topic>
+Topic:    Speech Seminar
 Dates:    20-Dec-93
 Time:     <stime>1:30</stime> - <etime>3:30</etime>
 PostedBy: tania+ on 13-Dec-93 at 12:01 from CS.CMU.EDU (Tania E Marrero)

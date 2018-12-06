@@ -3,7 +3,7 @@ Type:     cmu.cs.robotics
 Who:      <speaker>Mel Siegel</speaker>
           Senior Research Scientist
           Robotics Institute
-Topic:    <topic>3D-TV (and Workstations)</topic>
+Topic:    3D-TV (and Workstations)
 Dates:    3-Feb-95
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -21,7 +21,7 @@ Abstract:
  	  Senior Research Scientist
            Robotics Institute
 
- TITLE:	  <topic>3D-TV (and Workstations)</topic>
+ TITLE:	  3D-TV (and Workstations)
 
 <paragraph><sentence>High definition, high speed displays integrated with fast digitization,
 image storage, and image processing now permit us to implement several

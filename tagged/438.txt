@@ -1,6 +1,6 @@
 <0.05.11.91.22.10.01.danner+@ERNST.MACH.CS.CMU.EDU (Daniel Stodolsky).0>
 Type:     cmu.cs.scs
-Topic:    <topic>Mach Internals Seminar: Physical Memory Management</topic>
+Topic:    Mach Internals Seminar: Physical Memory Management
 Dates:    7-Nov-91
 Time:     <stime>1:00</stime>
 PostedBy: danner+ on 05-Nov-91 at 22:10 from ERNST.MACH.CS.CMU.EDU (Daniel Stodolsky)

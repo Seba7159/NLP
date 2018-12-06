@@ -1,6 +1,6 @@
 <0.03.12.91.15.47.45.sleator+@SPADE.PC.CS.CMU.EDU (Daniel Sleator).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>Robotics Seminar (Driscoll)</topic>
+Topic:    Robotics Seminar (Driscoll)
 Dates:    6-Dec-91
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 PostedBy: sleator+ on 03-Dec-91 at 15:47 from SPADE.PC.CS.CMU.EDU (Daniel Sleator)

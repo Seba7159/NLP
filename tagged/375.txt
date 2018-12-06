@@ -3,7 +3,7 @@ Type:     cmu.cs.scs
 Who:      <speaker>Dr.Ted Adelson</speaker>-Associate Professor of Vision Science-
           Media Laboratory and the Dept. of Brain and Cognitive
           Science - MIT
-Topic:    <topic>Elemental measurements in vision.</topic>
+Topic:    Elemental measurements in vision.
 Dates:    18-Sep-92
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>Baker Hall - Adamson Wing</location>
@@ -22,7 +22,7 @@ RI SEMINAR
      	Media Laboratory and the Dept. of Brain and Cognitive
  	Science - MIT
 
- TITLE:	<topic>Elemental measurements in vision.</topic>
+ TITLE:	Elemental measurements in vision.
 
 <paragraph><sentence>What are the "elements" of early vision?</sentence> <sentence>I will discuss a unifying framework under which the basic visual measurements can be derived in a consistent manner</sentence>.  <sentence>First we must consider the structure of the
 light in which a visual organism is immersed; this may be formalized with the "plenoptic function," which is related to Gibson's concept of the optic array</sentence>.  <sentence>Derivative operators on this function produce measurements of form, motion, color, flicker, disparity, and so on</sentence>. <sentence>We can derive a kind of periodic table of early vision</sentence>.</paragraph>

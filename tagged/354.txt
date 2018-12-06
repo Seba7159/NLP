@@ -1,6 +1,6 @@
 <0.6.11.92.14.13.54.aw@CS.CMU.EDU (<speaker>Andy Witkin</speaker>).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>Graphics Seminar, Thu Nov 12, Kinematics</topic>
+Topic:    Graphics Seminar, Thu Nov 12, Kinematics
 Dates:    12-Nov-92
 Time:     <stime>3:00</stime>
 Host:     <speaker>Andy Witkin</speaker>

@@ -1,6 +1,6 @@
 <0.29.10.92.20.16.56.copetas+@GANDALF.CS.CMU.EDU (Catherine Copetas).0>
 Type:     cmu.cs.scs
-Topic:    <topic>THE FUTURE OF COMPUTING-Lecture</topic>
+Topic:    THE FUTURE OF COMPUTING-Lecture
 Dates:    2-Nov-92
 Time:     <stime>3:30 PM</stime>
 PostedBy: copetas+ on 29-Oct-92 at 20:16 from GANDALF.CS.CMU.EDU (Catherine Copetas)

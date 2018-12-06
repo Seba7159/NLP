@@ -1,6 +1,6 @@
 <0.15.11.91.09.50.46.dmm+@MAPS.CS.CMU.EDU (Dave McKeown).0>
 Type:     cmu.cs.robotics
-Topic:    <topic>VISION Seminar TODAY</topic>
+Topic:    VISION Seminar TODAY
 Dates:    15-Nov-91
 Time:     <stime>2:00 PM</stime> - <etime>3:00 PM</etime>
 Host:     Dave McKeown,  dmm@cs.cmu.edu

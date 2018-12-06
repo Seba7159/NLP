@@ -1,6 +1,6 @@
 <0.9.8.94.11.21.34.mz01+@andrew.cmu.edu.0>
 Type:     cmu.cs.robotics.students
-Topic:    <topic>TA seminars, UTC Grad support F94</topic>
+Topic:    TA seminars, UTC Grad support F94
 Dates:    26-Aug-94
 Time:     <stime>9:00</stime> - <etime>10:15 AM</etime>
 PostedBy: Marcella Zaragoza on 9-Aug-94 at 11:21 from andrew.cmu.edu

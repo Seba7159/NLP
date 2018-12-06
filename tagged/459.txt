@@ -1,6 +1,6 @@
 <0.23.2.95.13.52.20.prs+@N2.SP.CS.CMU.EDU (peter steenkiste).0>
 Type:     cmu.cs.scs
-Topic:    <topic>PSC/CS Seminar 2/24: Risto Miikkulainen</topic>
+Topic:    PSC/CS Seminar 2/24: Risto Miikkulainen
 Dates:    24-Feb-95
 Time:     <stime>4:00 PM</stime>
 Place:    <location>Pittsburgh Supercomputing <speaker>Center</speaker></location>

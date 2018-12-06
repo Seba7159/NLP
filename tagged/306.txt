@@ -1,7 +1,7 @@
 <0.6.12.94.16.19.21.plp+@HOSTESS.GRAPHICS.CS.CMU.EDU (Phyllis Pomerantz).0>
 Type:     Special CS Seminar
 Who:      <speaker>Jerome Feldman</speaker>, ICSI and UC Berkeley
-Topic:    <topic>pSather 1.0 - A Simpler Second System</topic>
+Topic:    pSather 1.0 - A Simpler Second System
 Dates:    7-Dec-94
 Time:     <stime>1:00 PM</stime>
 Place:    <location>4615A Wean Hall</location>
@@ -12,14 +12,14 @@ Abstract:
 
  Type:     Special CS Seminar
  Who:      <speaker>Jerome Feldman</speaker>, ICSI and UC Berkeley
- Topic:    <topic>pSather 1.0 - A Simpler Second System</topic>
+ Topic:    pSather 1.0 - A Simpler Second System
  Dates:    7-Dec-94
  Time:     <stime>1 p.m</stime>.
  Place:    <location>4615A Wean Hall</location>
  Duration: 1 1/2 hours
  Host:     Jon A Webb 
 
-               <topic>pSather 1.0 - A Simpler Second System</topic>
+               pSather 1.0 - A Simpler Second System
 
                         <speaker>Jerome Feldman</speaker>
          International Computer Science Institute and UC Berkeley

@@ -1,6 +1,6 @@
 <0.10.1.95.16.54.14.mz01+@andrew.cmu.edu.1>
 Type:     cmu.cs.robotics.students
-Topic:    <topic>S95 Graduate Seminar Schedule</topic>
+Topic:    S95 Graduate Seminar Schedule
 Dates:    1-Feb-95
 Time:     <stime>4:15</stime> - <etime>6:15 PM</etime>
 PostedBy: Marcella Zaragoza on 10-Jan-95 at 16:54 from andrew.cmu.edu

@@ -1,12 +1,12 @@
 <0.29.1.92.12.52.29.avac+@AVA.ADM.CS.CMU.EDU (Ava Cruse).0>
 Type:     cmu.cs.scs
-Topic:    <topic>PS SEMINAR</topic>
+Topic:    PS SEMINAR
 Dates:    3-Feb-92
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 PostedBy: avac+ on 29-Jan-92 at 12:52 from AVA.ADM.CS.CMU.EDU (Ava Cruse)
 Abstract: 
 
-                                 <topic>PS SEMINAR</topic>
+                                 PS SEMINAR
                              Monday, February 3, 1992
                                  <stime>3:30pm</stime>-<etime>5:00pm</etime>
                                 Wean Hall 5409

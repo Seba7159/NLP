@@ -4,7 +4,7 @@ Who:      <speaker>Prof. Klaus Sutner</speaker>
           Computer Science Department
           Stevens Institute of Technology
           Hoboken, NJ 07030
-Topic:    <topic>"Teaching Automata Theory by Computer"</topic>
+Topic:    "Teaching Automata Theory by Computer"
 Dates:    12-Nov-93
 Time:     <stime>12:00 PM</stime>
 Place:    <location>WeH 4623</location>
@@ -18,7 +18,7 @@ Abstract:
          Stevens Institute of Technology
          Hoboken, NJ 07030
          E-Mail: sutner@aiki.stevens-tech.edu
- Topic:  <topic>"Teaching Automata Theory by Computer"</topic>
+ Topic:  "Teaching Automata Theory by Computer"
  Date:   12-Nov-93
  Time:   <stime>12:00 pm</stime>
  Place:  <location>WeH 4623</location>

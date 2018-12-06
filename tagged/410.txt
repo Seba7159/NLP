@@ -3,7 +3,7 @@ Type:     cmu.cs.scs
 Who:      <speaker>Ron P. Loui</speaker>
           Deptartment of Computer Science
           Washington University, St. Louis
-Topic:    <topic>Special AI Seminar</topic>
+Topic:    Special AI Seminar
 Dates:    21-Sep-93
 Time:     <stime>3:30 PM</stime>
 Host:     Bob Carpenter 

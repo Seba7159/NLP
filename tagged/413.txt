@@ -1,6 +1,6 @@
 <0.5.10.93.07.55.59.stankus+@STANKUS.ADM.CS.CMU.EDU (Terri Stankus).0>
 Type:     cmu.cs.scs
-Topic:    <topic>SCS Distinguished Lecture Oct. 7</topic>
+Topic:    SCS Distinguished Lecture Oct. 7
 Dates:    7-Oct-93
 Time:     <stime>4:00 PM</stime>
 PostedBy: stankus+ on 5-Oct-93 at 07:55 from STANKUS.ADM.CS.CMU.EDU (Terri Stankus)

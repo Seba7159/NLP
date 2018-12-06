@@ -1,6 +1,6 @@
 <0.10.2.94.15.17.41.kk00+@andrew.cmu.edu.0>
 Type:     cmu.cs.scs
-Topic:    <topic>HCI Seminar Feb 16</topic>
+Topic:    HCI Seminar Feb 16
 Dates:    16-Feb-94
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 PostedBy: Kathleen P. Kowalski on 10-Feb-94 at 15:17 from andrew.cmu.edu

@@ -3,14 +3,14 @@ Type:     cmu.cs.scs
 Who:      <speaker>Joel S. Birnbaum</speaker>, Ph.D
           Senior Vice President of Research and Development
           Director, Hewlett-Packard Laboratories
-Topic:    <topic>A FREE OBJECT TECHNOLOGY TELECAST/SEMINAR</topic>
+Topic:    A FREE OBJECT TECHNOLOGY TELECAST/SEMINAR
 Dates:    11-May-94
 Time:     <stime>11:00</stime> - <etime>5:00</etime>
 PostedBy: copetas+ on 10-May-94 at 12:48 from GANDALF.CS.CMU.EDU (Catherine Copetas)
 Abstract: 
 
    HEWLETT-PACKARD PRESENTS:
-   "<topic>A FREE OBJECT TECHNOLOGY TELECAST/SEMINAR</topic>"
+   "A FREE OBJECT TECHNOLOGY TELECAST/SEMINAR"
 
 <paragraph>   <sentence>Cyert Hall Room 100 - WEDNESDAY, MAY 11, 1994
                          <stime>11:00</stime>-<etime>5:00</etime> EST

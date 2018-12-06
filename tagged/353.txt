@@ -3,7 +3,7 @@ Type:     cmu.cs.robotics
 Who:      <speaker>Gregory D. Hager</speaker> - 
           Department of Computer Science
           Yale University
-Topic:    <topic>Techniques for Task-Directed Sensor Data</topic> 
+Topic:    Techniques for Task-Directed Sensor Data 
           Fusion and Sensor Planning
 Dates:    16-Oct-92
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
@@ -22,7 +22,7 @@ RI SEMINAR
  		Department of Computer Science
  	 	Yale University
 
- TITLE:		<topic>Techniques for Task-Directed Sensor Data</topic> 
+ TITLE:		Techniques for Task-Directed Sensor Data 
  		Fusion and Sensor Planning
 
 <paragraph><sentence>The growing popularity of flexible, high-bandwidth sensing in robotic systems has posed many new problems for the control of sensors and sensor information processing</sentence>.  <sentence>My approach to these problems assumes that the objective of sensing is to minimize effort while maximizing the likelihood of a good or correct decision</sentence>.  <sentence>In general, any further quantification of the latter depends heavily on the specifics of a given robot task, so I refer to this approach as ``task-directed'' sensing</sentence>.</paragraph>

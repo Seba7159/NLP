@@ -1,6 +1,6 @@
 <0.28.11.94.13.10.16.mp3r+@J.GP.CS.CMU.EDU (Margaret Profeta).0>
 Type:     cmu.cs.scs
-Topic:    <topic>POP TALK</topic>
+Topic:    POP TALK
 Dates:    2-Dec-94
 Time:     <stime>3:00 PM</stime> - <etime>4:30 PM</etime>
 PostedBy: mp3r+ on 28-Nov-94 at 13:10 from J.GP.CS.CMU.EDU (Margaret Profeta)

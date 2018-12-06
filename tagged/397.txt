@@ -1,6 +1,6 @@
 <1.9.2.93.14.31.50.garth+@NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson).1>
 Type:     cmu.cs.scs
-Topic:    <topic>Change!!: Wed WWC <speaker>PictureTel</speaker> Seminar</topic>
+Topic:    Change!!: Wed WWC <speaker>PictureTel</speaker> Seminar
 Dates:    20-Jan-93
 Time:     <stime>7:00 PM</stime> - <etime>8:30 PM</etime>
 PostedBy: garth+ on 9-Feb-93 at 14:31 from NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson)

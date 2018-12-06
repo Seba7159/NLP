@@ -1,7 +1,7 @@
 <0.20.10.93.15.35.02.plp+@PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz).0>
 Type:     AI Seminar
 Who:      <speaker>Rich Korf</speaker> (UCLA)
-Topic:    <topic>Best-First Minimax Search</topic>
+Topic:    Best-First Minimax Search
 Dates:    21-Oct-93
 Time:     <stime>3:30 PM</stime>
 Place:    <location>4623 Wean Hall</location>
@@ -11,7 +11,7 @@ Abstract:
 
  Type:     AI Seminar
  Who:      <speaker>Rich Korf</speaker> (UCLA)
- Topic:    <topic>Best-First Minimax Search</topic>
+ Topic:    Best-First Minimax Search
  Dates:    21-Oct-93
  Time:     <stime>3:30 p.m</stime>.(Note unusual day and room: Thursday - 4623 WeH)
  Place:    <location>4623 Wean Hall</location>

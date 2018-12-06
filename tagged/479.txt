@@ -3,7 +3,7 @@ Type:     cmu.cs.scs
 Who:      <speaker>Leslie Lamport</speaker>
           Digital Equipment Corporation
           Systems Research Center
-Topic:    <topic>The Temporal Logic of Actions</topic>
+Topic:    The Temporal Logic of Actions
 Dates:    28-Apr-92
 Time:     <stime>3:30 PM</stime>
 Place:    <location>Wean Hall 4623</location>
@@ -22,4 +22,4 @@ Abstract:
  Date:     Tuesday, April 28
  Time:     <stime>3:30 pm</stime>
  Place:    <location>Wean Hall 4623</location>
- Topic:    <topic>The Temporal Logic of Actions</topic>
+ Topic:    The Temporal Logic of Actions

@@ -3,7 +3,7 @@ Type:     cmu.cs.scs
 Who:      <speaker>Karsten M. Decker</speaker>, 
           Director of Research and Development
           Swiss Scientific Computing Center
-Topic:    <topic>Parallel Computing at the Swiss Scientific</topic>
+Topic:    Parallel Computing at the Swiss Scientific
           Computing Center (CSCS)
 Dates:    21-Apr-94
 Time:     <stime>2:30 PM</stime>
@@ -19,7 +19,7 @@ Abstract:
                    Director of Research and Development
                    Swiss Scientific Computing Center
 
-         Topic:    <topic>Parallel Computing at the Swiss Scientific</topic>
+         Topic:    Parallel Computing at the Swiss Scientific
                    Computing Center (CSCS)
 
          Date:     Thursday, April 21, 1994 (NOTE SPECIAL DATE)

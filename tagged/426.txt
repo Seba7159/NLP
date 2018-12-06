@@ -1,6 +1,6 @@
 <0.21.1.94.18.58.29.dandb+@andrew.cmu.edu.0>
 Type:     cmu.cs.scs
-Topic:    <topic>HCI Seminar 1/26</topic>
+Topic:    HCI Seminar 1/26
 Dates:    26-Jan-94
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 PostedBy: Dean Rubine on 21-Jan-94 at 18:58 from andrew.cmu.edu

@@ -1,7 +1,7 @@
 <1.02.10.91.11.44.49.maa+@ISL1.RI.CMU.EDU (Michelle Agie).0>
 Type:     cmu.cs.robotics
 Who:      <speaker>Milind Tambe</speaker>
-Topic:    <topic>CIMDS SEMINAR</topic>
+Topic:    CIMDS SEMINAR
 Dates:    4-Oct-91
 Time:     <stime>12:00 PM</stime> - <etime>1:00 PM</etime>
 Place:    <location>3313 Doherty (Large Conf Room)</location>

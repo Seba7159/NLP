@@ -1,6 +1,6 @@
 <0.3.11.92.13.07.08.ph+@cs.cmu.edu (Paul Heckbert).0>
 Type:     cmu.cs.scs
-Topic:    <topic>GRAPHICS SEMINAR: Nov. 11, "Computer Graphics Snacks"</topic>
+Topic:    GRAPHICS SEMINAR: Nov. 11, "Computer Graphics Snacks"
 Dates:    11-Nov-92
 Time:     <stime>2:40</stime>
 Host:     Paul Heckbert, ph@cs.cmu.edu, 268-7899

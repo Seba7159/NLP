@@ -1,6 +1,6 @@
 <0.9.10.92.09.14.42.tmeadows@resumix.portal.com (Tim Meadows).0>
 Type:     cmu.cs.scs
-Topic:    <topic>Antarctic Exploration Robotics</topic>
+Topic:    Antarctic Exploration Robotics
 Dates:    9-Oct-92
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
 Place:    <location>Baker Hall Adamson Wing</location>
@@ -18,7 +18,7 @@ RI SEMINAR
  		Principal Scientist and Director, 
  		The Field Robotics Center- CMU
 
- TITLE:		<topic>Antarctic Exploration Robotics</topic>
+ TITLE:		Antarctic Exploration Robotics
 
  Abstract:		Posted Earlier
 

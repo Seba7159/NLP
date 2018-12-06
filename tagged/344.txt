@@ -1,6 +1,6 @@
 <0.11.2.92.16.00.08.tmeadows@frc2.frc.ri.cmu.edu (Tim Meadows).1>
 Type:     cmu.cs.robotics
-Topic:    <topic>Theory Seminar, Feb. 14, 1992</topic>
+Topic:    Theory Seminar, Feb. 14, 1992
 Dates:    14-Feb-92
 Time:     <stime>3:30 PM</stime>
 PostedBy: tmeadows on 11-Feb-92 at 16:00 from frc2.frc.ri.cmu.edu (Tim Meadows)

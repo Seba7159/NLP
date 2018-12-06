@@ -1,6 +1,6 @@
 <0.14.3.91.08.48.14.Jeffrey.Schlimmer@A.GP.CS.CMU.EDU.0>
 Type:     cmu.cs.robotics
-Topic:    <topic>AI Seminar Next Tuesday</topic>
+Topic:    AI Seminar Next Tuesday
 Dates:    19-Mar-91
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 Host:     Dave Touretzky                      Appointments: Cary.Lund@cs, x3853

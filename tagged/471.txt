@@ -1,6 +1,6 @@
 <0.20.2.92.11.16.31.trg+@N2.SP.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    <topic>PSC/CS Seminar: 2/28 <stime>4:00</stime> @ SEI</topic> 
+Topic:    PSC/CS Seminar: 2/28 <stime>4:00</stime> @ SEI 
 Dates:    28-Feb-92
 Time:     <stime>4:00</stime>
 PostedBy: trg+ on 20-Feb-92 at 11:16 from N2.SP.CS.CMU.EDU (Thomas Gross)

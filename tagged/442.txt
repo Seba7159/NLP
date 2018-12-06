@@ -1,6 +1,6 @@
 <0.13.9.94.10.54.00.prs+@N2.SP.CS.CMU.EDU (peter steenkiste).0>
 Type:     cmu.cs.scs
-Topic:    <topic>Computer Systems Seminar 9/16</topic>
+Topic:    Computer Systems Seminar 9/16
 Dates:    16-Sep-94
 Time:     <stime>4:00 PM</stime>
 Place:    <location>Mellon Institute Building</location>

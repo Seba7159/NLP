@@ -1,6 +1,6 @@
 <0.07.5.92.11.30.02.cary+@CARY.ADM.CS.CMU.EDU (Cary Lund).0>
 Type:     cmu.cs.scs
-Topic:    <topic>Special Seminar, Monday May 11</topic>
+Topic:    Special Seminar, Monday May 11
 Dates:    11-May-92
 Time:     <stime>10:30 AM</stime> - <etime>11:00 AM</etime>
 PostedBy: cary+ on 07-May-92 at 11:30 from CARY.ADM.CS.CMU.EDU (Cary Lund)

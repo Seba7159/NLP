@@ -1,7 +1,7 @@
 <0.02.12.91.13.54.29.marian+@MARIAN.ADM.CS.CMU.EDU (Marian D'Amico).0>
 Type:     cmu.cs.scs
 Who:      <speaker>Tim Griffin</speaker>, AT&T Bell Laboratories
-Topic:    <topic>Logical Interpretations and Computational Simulations</topic>
+Topic:    Logical Interpretations and Computational Simulations
 Dates:    5-Dec-91
 Time:     <stime>3:30 PM</stime>
 Place:    <location>WeH 5409</location>
@@ -9,7 +9,7 @@ PostedBy: marian+ on 02-Dec-91 at 13:54 from MARIAN.ADM.CS.CMU.EDU (Marian D'Ami
 Abstract: 
 
  SPEAKER:  <speaker>Tim Griffin</speaker>, AT&T Bell Laboratories
- TOPIC:    <topic>Logical Interpretations and Computational Simulations</topic>
+ TOPIC:    Logical Interpretations and Computational Simulations
  DATE:     Thursday, December 5, 1991
  TIME:     <stime>3:30 PM</stime>
  PLACE:    <location>WeH 5409</location>
@@ -20,7 +20,7 @@ Abstract:
 			<stime>3:30</stime> Wean 5409
 ************************************************************************
 
-<paragraph>	<sentence><topic>Logical Interpretations and Computational Simulations</topic>
+<paragraph>	<sentence>Logical Interpretations and Computational Simulations
 			   <speaker>Tim Griffin</speaker>
       		      AT&T Bell Laboratories</sentence></paragraph>
 

@@ -3,7 +3,7 @@ Type:     cmu.cs.robotics
 Who:      <speaker>John Bares</speaker>
           The Robotics Institute
           Carnegie Mellon University
-Topic:    <topic>Dante II and Beyond: Exploration Robots</topic>
+Topic:    Dante II and Beyond: Exploration Robots
 Dates:    18-Nov-94
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Place:    <location>ADAMSON WING Auditorium in Baker Hall</location>
@@ -23,7 +23,7 @@ Abstract:
           The Robotics Institute
           Carnegie Mellon University
 
- TITLE:  <topic>Dante II and Beyond: Exploration Robots</topic>
+ TITLE:  Dante II and Beyond: Exploration Robots
 
 <paragraph><sentence>In the summer of 1994, Dante II successfully descended into the crater
 of an active Alaskan volcano using a combination of walking and

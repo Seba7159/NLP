@@ -2,7 +2,7 @@
 Type:     cmu.cs.scs
 Who:      <speaker>Rajive Bagrodia</speaker>
           Computer Science Dept., UCLA
-Topic:    <topic>Iterative Design of Efficient Parallel Programs</topic>
+Topic:    Iterative Design of Efficient Parallel Programs
 Dates:    18-Sep-92
 Time:     <stime>2:30 PM</stime>
 Place:    <location>Wean Hall 4605</location>
@@ -13,7 +13,7 @@ Abstract:
  SPEAKER:  <speaker>Rajive Bagrodia</speaker>
            Computer Science Dept., UCLA
 
- TOPIC:    <topic>Iterative Design of Efficient Parallel Programs</topic>
+ TOPIC:    Iterative Design of Efficient Parallel Programs
 
  DATE:     Friday, September 18, 1992
 

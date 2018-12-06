@@ -2,7 +2,7 @@
 Type:     cmu.cs.scs
 Who:      <speaker>Eric Krotkov and Reid Simmons</speaker>
           Carnegie Mellon University
-Topic:    <topic>Autonomous Walking for the Ambler Planetary</topic>
+Topic:    Autonomous Walking for the Ambler Planetary
           Exploration Robot
 Dates:    20-Nov-92
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
@@ -21,7 +21,7 @@ RI SEMINAR
  SPEAKERS: 	 	<speaker>Eric Krotkov and Reid Simmons</speaker>
  		Carnegie Mellon University
 
- TITLE:		<topic>Autonomous Walking for the Ambler Planetary</topic>
+ TITLE:		Autonomous Walking for the Ambler Planetary
  		Exploration Robot
 
  ABSTRACT:		Previously Posted

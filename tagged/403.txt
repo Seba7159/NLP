@@ -1,6 +1,6 @@
 <0.5.3.93.09.59.09.stankus+@STANKUS.ADM.CS.CMU.EDU (Terri Stankus).0>
 Type:     cmu.cs.scs
-Topic:    <topic>March 17 Distinguished Lecture</topic>
+Topic:    March 17 Distinguished Lecture
 Dates:    17-Mar-93
 Time:     <stime>3:30 PM</stime>
 PostedBy: stankus+ on 5-Mar-93 at 09:59 from STANKUS.ADM.CS.CMU.EDU (Terri Stankus)

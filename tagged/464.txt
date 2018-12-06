@@ -1,7 +1,7 @@
 <0.05.12.91.12.29.42.lydia+@PROOF.ERGO.CS.CMU.EDU (Lydia Defilippo).0>
 Type:     cmu.cs.scs
 Who:      <speaker>Gerard Allwein</speaker>
-Topic:    <topic>Kripke Models for Linear Logic</topic>
+Topic:    Kripke Models for Linear Logic
 Dates:    13-Dec-91
 Time:     <stime>3:00 PM</stime>
 Place:    <location>817 Cathedral of Learning</location>
@@ -15,7 +15,7 @@ Abstract:
  Time:    <stime>3:00 pm</stime>
  Place:   <location>817 Cathedral of Learning</location>
  Speaker: <speaker>Gerard Allwein</speaker>
- Topic:   <topic>Kripke Models for Linear Logic</topic>
+ Topic:   Kripke Models for Linear Logic
 
 <paragraph><sentence>I will present a Kripke model for Girard's Linear Logic (without
 exponentials) in a conservative fashion where the logical functors

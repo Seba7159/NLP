@@ -1,7 +1,7 @@
 <0.14.4.92.15.06.07.petel+@STICKY.MESS.CS.CMU.EDU (Peter Lee).0>
 Type:     cmu.cs.scs
 Who:      <speaker>Eliot Moss</speaker>, UMass
-Topic:    <topic>Special PS Seminar 4/26</topic>
+Topic:    Special PS Seminar 4/26
 Dates:    16-Apr-92
 Time:     <stime>2:00 PM</stime>
 Place:    <location>WeH 4623</location>

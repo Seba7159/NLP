@@ -1,6 +1,6 @@
 <0.1.3.93.18.36.34.trg+@N3.SP.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    <topic>PSC/CS Seminar 3/5 <stime>4:00</stime> R. Ewing on Reservoir Simulation</topic>
+Topic:    PSC/CS Seminar 3/5 <stime>4:00</stime> R. Ewing on Reservoir Simulation
 Dates:    5-Mar-93
 Time:     <stime>4:00</stime>
 PostedBy: trg+ on 1-Mar-93 at 18:36 from N3.SP.CS.CMU.EDU (Thomas Gross)

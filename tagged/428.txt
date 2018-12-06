@@ -1,6 +1,6 @@
 <0.28.10.91.23.00.10.trg+@IUS3.IUS.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    <topic>PSC/CS Seminar 11/1 <stime>4:00</stime> WeH 5403: J. Smith of <speaker>Cray Research</speaker></topic>
+Topic:    PSC/CS Seminar 11/1 <stime>4:00</stime> WeH 5403: J. Smith of <speaker>Cray Research</speaker>
 Dates:    1-Nov-91
 Time:     <stime>4:00</stime>
 PostedBy: trg+ on 28-Oct-91 at 23:00 from IUS3.IUS.CS.CMU.EDU (Thomas Gross)

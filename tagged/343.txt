@@ -1,7 +1,7 @@
 <0.05.12.91.21.00.13.me@H.GP.CS.CMU.EDU (Michael Erdmann).0>
 Type:     Robotics Seminar
 Who:      <speaker>James Driscoll</speaker>
-Topic:    <sentence><topic>There is more to life than the FFT</topic></sentence>
+Topic:    <sentence>There is more to life than the FFT</sentence>
 Dates:    6-Dec-91
 Time:     <stime>3:30</stime>
 Place:    <location>Adamson Wing, Baker Hall</location>
@@ -22,14 +22,14 @@ Abstract:
 
  Type:     Robotics Seminar
  Who:      <speaker>James Driscoll</speaker>
- Topic:    <topic>There is more to life than the FFT</topic>
+ Topic:    There is more to life than the FFT
  Dates:    6-Dec-91
  Time:     <stime>3:30pm</stime>
  Place:    <location>Adamson Wing, Baker Hall</location>
  Duration: 1.5 hours
  Host:     Sleator
 
-<paragraph>                  <topic>There is more to life than the FFT</topic></paragraph>
+<paragraph>                  There is more to life than the FFT</paragraph>
 
 <paragraph>                            <sentence><speaker>James Driscoll</speaker>
                                Dartmouth

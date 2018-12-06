@@ -2,7 +2,7 @@
 Type:     cmu.cs.scs
 Who:      <speaker>DR. Navin Chandra</speaker> - Research Scientist - 
           Robotics Institute - CMU
-Topic:    <topic>Green Engineering: Rethinking Engineering Design And</topic>  
+Topic:    Green Engineering: Rethinking Engineering Design And  
           Manufacturing From The Environmental Perspective.
 Dates:    11-Sep-92
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
@@ -20,7 +20,7 @@ RI SEMINAR
  SPEAKER: 	<speaker>DR. Navin Chandra</speaker> - Research Scientist - 
  	Robotics Institute - CMU
 
- Title: 	<topic>Green Engineering: Rethinking Engineering Design And</topic>  
+ Title: 	Green Engineering: Rethinking Engineering Design And  
  	Manufacturing From The Environmental Perspective.
 
 <paragraph><sentence>Green Engineering is an approach to product and process design that

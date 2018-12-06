@@ -2,7 +2,7 @@
 Type:     cmu.cs.robotics
 Who:      <speaker>Jeff Koechling</speaker>, Sibley School of Mechanical and Aerospace 
           Engineering, Cornell University
-Topic:    <topic>Control Strategies for Intermittent Dynamic Tasks</topic>
+Topic:    Control Strategies for Intermittent Dynamic Tasks
 Dates:    26-Apr-91
 Time:     <stime>3:30 PM</stime>
 Place:    <location>Baker Hall, Adamson Wing</location>
@@ -13,7 +13,7 @@ Abstract:
 
  Speaker:  <speaker>Jeff Koechling</speaker>, Sibley School of Mechanical and Aerospace 
            Engineering, Cornell University
- Title:    <topic>Control Strategies for Intermittent Dynamic Tasks</topic>
+ Title:    Control Strategies for Intermittent Dynamic Tasks
  Date:	  April 26, 1991
  Time:     <stime>3:30 p.m</stime>. until 4:30 p.m.
  Location: <location>Baker Hall, Adamson Wing</location>
