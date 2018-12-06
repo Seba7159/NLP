@@ -23,7 +23,7 @@ learning is evolving into a collection of related disciplines:
 inductive concept acquisition, analytic learning in problem
 solving (e.g</sentence>. <sentence>analogy, explanation-based learning), learning
 theory (e.g</sentence>. <sentence>PAC learning), genetic algorithms, connectionist learning,
-hybrid systems, and so on</sentence>. <sentence><speaker>Standard</speaker> experimental techniques are
+hybrid systems, and so on</sentence>. <sentence>Standard experimental techniques are
 being developed, and publication is more rigorous</sentence>.  <sentence>The central
 question for many machine learning researches is how can the
 field mature into an accepted scientific discipline and still

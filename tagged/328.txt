@@ -6,7 +6,7 @@ Time:     <stime>3:30 PM</stime>
 PostedBy: pkh+ on 09-Sep-91 at 11:46 from TEZUKA.REST.RI.CMU.EDU (Ping Kang Hsiung)
 Abstract: 
 
-<paragraph><sentence>On Tuesday Sept. 10, <speaker>Michelle Messenger</speaker>, the project coordinator for the
+<paragraph><sentence>On Tuesday Sept. 10, Michelle Messenger, the project coordinator for the
 visualization software apE, will give a short slide presentation (~20 min)
 in WeH 4623 at <stime>3:30PM</stime></sentence>. <sentence>All is invited to attend</sentence>.
 <sentence>Briefly, apE is one of the dominating packages in scientific visualization</sentence>.

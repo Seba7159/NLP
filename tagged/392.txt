@@ -42,7 +42,7 @@ Abstract:
         language "BAWL" (similar to "Orwell")</sentence>.</paragraph>
 
 <paragraph>        <sentence>Professor Bondorf will be here Thursday and Friday</sentence>.  <sentence>If you would
-        like an appointment to speak with him, please call <speaker>Marge</speaker> at x5025
+        like an appointment to speak with him, please call Marge at x5025
         or email profeta@cs</sentence>.</paragraph>
 
         *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -       

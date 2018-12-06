@@ -29,9 +29,9 @@ to address the algorithmic/software questions for biomolecule dynamics</sentence
 <sentence>Emphasis will be laid upon the description of two strategies we have
 experimented with for molecular dynamics on parallel architecture machine</sentence>.
 <sentence>First, I will describe the implementation of a molecular dynamics kernel for
-studies of solutions of small molecules on the CM-2, <speaker>Cray</speaker> and CM-5</sentence>.  <sentence>Next, I
+studies of solutions of small molecules on the CM-2, Cray and CM-5</sentence>.  <sentence>Next, I
 will describe preliminary work on utilizing a tightly coupled heterogeneous
-computing environment (the <speaker>Cray</speaker> YMP and CM-2 connected via a HiPPI) to carry
+computing environment (the Cray YMP and CM-2 connected via a HiPPI) to carry
 out calculations on solvated protein and peptide molecules</sentence>.  <sentence>I will
 summarize with a discussion of the future prospects for using MPP
 architectures with peak computational rates in the teraflop range for

@@ -49,5 +49,5 @@ Abstract:
 
       Note: Joint work with Sergio Rajsbaum, MIT.
 
-<paragraph>     <sentence>If you would like to talk with <speaker>Professor Herlihy</speaker>, please  contact
+<paragraph>     <sentence>If you would like to talk with Professor Herlihy, please  contact
      Marge at 85025 or mp3r@cs for available times</sentence>.</paragraph>

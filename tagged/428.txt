@@ -1,6 +1,6 @@
 <0.28.10.91.23.00.10.trg+@IUS3.IUS.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    PSC/CS Seminar 11/1 <stime>4:00</stime> WeH 5403: J. Smith of <speaker>Cray Research</speaker>
+Topic:    PSC/CS Seminar 11/1 <stime>4:00</stime> WeH 5403: J. Smith of Cray Research
 Dates:    1-Nov-91
 Time:     <stime>4:00</stime>
 PostedBy: trg+ on 28-Oct-91 at 23:00 from IUS3.IUS.CS.CMU.EDU (Thomas Gross)
@@ -13,7 +13,7 @@ Abstract:
                Supercomputer  Interconnection Networks
 
 <paragraph>                          <sentence>J. E. Smith
-                       <speaker>Cray Research</speaker>, Inc.
+                       Cray Research, Inc.
                      Chippewa Falls, WI 54729</sentence></paragraph>
 
 <paragraph>     <sentence>Multistage interconnection networks (MINs) form the backbone
@@ -29,7 +29,7 @@ Abstract:
 Jim Smith was formerly with the University of Wisconsin where he developed
 the concept of the "Decoupled Access/Execute Architectures"</sentence>.  <sentence>He then went
 on to build such a machine, the ZS-1, for the Astronautics Corp. of America</sentence>.
-<sentence>After Seymour Cray left to form Cray Computer, he joined <speaker>Cray Research</speaker> as
+<sentence>After Seymour Cray left to form Cray Computer, he joined Cray Research as
 computer architect</sentence>.  <sentence>The abstract may sound a little dry, but I think the
 talk will not disappoint you, especially if you wonder what is happening in
 this part of the supercomputer world [I don't want to say more; Cray

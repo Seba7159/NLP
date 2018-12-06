@@ -1,6 +1,6 @@
 <0.02.6.92.12.52.25.copetas+@GANDALF.CS.CMU.EDU (Catherine Copetas).0>
 Type:     cmu.cs.scs
-Topic:    SONY TALK: Dr. Seiichi <speaker>Watanabe</speaker>
+Topic:    SONY TALK: Dr. Seiichi Watanabe
 Dates:    5-Jun-92
 Time:     <stime>2:30 PM</stime>
 PostedBy: copetas+ on 02-Jun-92 at 12:52 from GANDALF.CS.CMU.EDU (Catherine Copetas)
@@ -9,7 +9,7 @@ Abstract:
 SPECIAL CIT SEMINAR:	Friday, June 5
 			Scaife Hall 124
 			<stime>2:30 pm</stime>
-	  	      Dr. Seiichi <speaker>Watanabe</speaker>
+	  	      Dr. Seiichi Watanabe
 	         Sony Corporation Research Center
 
   	   "An Overview of Recent Research Developments
@@ -23,9 +23,9 @@ SPECIAL CIT SEMINAR:	Friday, June 5
 	*A novel laser annealing process for functional polysilicon
 	 devices</sentence></paragraph>
 
-<paragraph><sentence>Dr. <speaker>Watanabe</speaker> is a Member of Sony Corporation's Board of Directors and
+<paragraph><sentence>Dr. Watanabe is a Member of Sony Corporation's Board of Directors and
 is the Director of the Sony Research Center in Tokyo</sentence>.  <sentence>He has been with
-Sony since 1967</sentence>.  <sentence>Dr. <speaker>Watanabe</speaker> received his bachelors, masters, and
+Sony since 1967</sentence>.  <sentence>Dr. Watanabe received his bachelors, masters, and
 doctoral degrees in engineering from the University of Tokyo</sentence>.  <sentence>His 
 primary area of interest is high frequency semiconductor devices</sentence>.  <sentence>He
 recently published a book entitled "Seminconductor Devices for Electronic

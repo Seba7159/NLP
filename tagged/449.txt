@@ -36,7 +36,7 @@ delivered a 1000-fold increase in computing power over the last 15 years,
 and Intel's Media Delivery Lab now charting a course to integrate the
 personal computer with the rapidly-increasing communication bandwidth now
 being made available to enable new applications in the office and at home</sentence>.
-<sentence><speaker>Mr.</speaker> McGready will outline the history of the shift in the computer industry,
+<sentence>Mr. McGready will outline the history of the shift in the computer industry,
 analyze the ongoing and impending shifts in the communications industry, and
 highlight Architecture Labs and Intel's Media Delivery Lab</sentence>.</paragraph>
 

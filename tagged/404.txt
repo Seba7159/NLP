@@ -10,7 +10,7 @@ Abstract:
    KSR1: High Performance and Ease of Programming,
           No Longer an Oxymoron
 
-<paragraph>		 <sentence><speaker>Steve Frank</speaker>
+<paragraph>		 <sentence>Steve Frank
           Kendall Square Research</sentence></paragraph>
 
    Friday, March 12, 1993, <stime>4:00 p.m</stime>., WeH 5205
@@ -42,4 +42,4 @@ with a discussion of experiences porting customer specific and third party
 applications</sentence>.</paragraph>
 
 <paragraph><sentence>----
-If you are interested in talking to <speaker>Steve Frank</speaker>, please send mail to bag@cs</sentence>.</paragraph>
+If you are interested in talking to Steve Frank, please send mail to bag@cs</sentence>.</paragraph>

@@ -1,10 +1,10 @@
-<0.30.1.92.13.39.38.marian+@MARIAN.ADM.CS.CMU.EDU (<speaker>Marian D'Amico</speaker>).0>
+<0.30.1.92.13.39.38.marian+@MARIAN.ADM.CS.CMU.EDU (Marian D'Amico).0>
 Type:     cmu.cs.scs
 Topic:    LOGIC COLLOQUIUM
 Dates:    6-Feb-92
 Time:     <stime>3:30</stime>
 Host:     Stephen D. Brookes
-PostedBy: marian+ on 30-Jan-92 at 13:39 from MARIAN.ADM.CS.CMU.EDU (<speaker>Marian D'Amico</speaker>)
+PostedBy: marian+ on 30-Jan-92 at 13:39 from MARIAN.ADM.CS.CMU.EDU (Marian D'Amico)
 Abstract: 
 
 <paragraph><sentence>*************************************************************************
@@ -36,4 +36,4 @@ probabilistic models</sentence>.</paragraph>
 -------------------------
  Host:  Stephen D. Brookes
 
-<paragraph><sentence>Appointments can be made through <speaker>Marian D'Amico</speaker>, marian@cs, x7665</sentence>.</paragraph>
+<paragraph><sentence>Appointments can be made through Marian D'Amico, marian@cs, x7665</sentence>.</paragraph>

@@ -76,5 +76,5 @@ multimedia mail</sentence>.</paragraph>
 
  Host:  David Garlan
 
-<paragraph><sentence>If you are interested in speaking with <speaker>Nathaniel Borenstein</speaker> while is here
+<paragraph><sentence>If you are interested in speaking with Nathaniel Borenstein while is here
 Monday, please send mail to Ava Cruse at avac@b.cs.cmu.edu</sentence></paragraph>

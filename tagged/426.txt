@@ -11,7 +11,7 @@ Wednesday, January 26
 WeH 5409
           The Role of Visual Fidelity in Instructional Simulations
 
-                               Michael <speaker>Christel</speaker>
+                               Michael Christel
                                mac@sei.cmu.edu
 
 <paragraph><sentence>The Software Engineering Institute made use of digital video in developing an
@@ -45,7 +45,7 @@ the results of the formal experiment concerning visual fidelity in interfaces</s
 which digital video offers, and a set of guidelines will be proposed based
 upon this research</sentence>.</paragraph>
 
-                          Michael <speaker>Christel</speaker>
+                          Michael Christel
 
                          Member of the Technical Staff
                          Software Engineering Institute
@@ -55,19 +55,19 @@ upon this research</sentence>.</paragraph>
                                 FAX: 412-268-5758
                                  mac@sei.cmu.edu
 
-<paragraph><sentence>Michael <speaker>Christel</speaker> has been a member of the technical staff at the Software
+<paragraph><sentence>Michael Christel has been a member of the technical staff at the Software
 Engineering Institute for the past six years</sentence>.  <sentence>From 1987 to 1990 he worked on
 the Advanced Learning Technologies (ALT) Project at the SEI, creating a
 digital video code inspection course</sentence>.  <sentence>He has since worked on projects
 exploring the use of multimedia for requirements elicitation, and improving
 the utility of large multimedia databases for both software engineering tools
-and training</sentence>.  <sentence><speaker>Christel</speaker> has authored numerous papers on the ALT Project,
+and training</sentence>.  <sentence>Christel has authored numerous papers on the ALT Project,
 multimedia, and software engineering, including articles on the use of digital</sentence></paragraph>
 
 <paragraph><sentence>video and rule bases for training simulations, and the implementation of
 virtual reality systems on personal computers</sentence>.  <sentence>He has given a number of
 invited talks on digital video, multimedia for software engineering
-instruction, and multimedia interface issues</sentence>.  <sentence><speaker>Christel</speaker> received his Ph.D.
+instruction, and multimedia interface issues</sentence>.  <sentence>Christel received his Ph.D.
 from the Georgia Institute of Technology in the area of human computer
 interaction, focusing on practical implications for the development of
 multimedia interfaces for educational applications</sentence>.</paragraph>

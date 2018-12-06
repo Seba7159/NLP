@@ -1,12 +1,12 @@
-<0.6.11.92.14.13.54.aw@CS.CMU.EDU (<speaker>Andy Witkin</speaker>).0>
+<0.6.11.92.14.13.54.aw@CS.CMU.EDU (Andy Witkin).0>
 Type:     cmu.cs.robotics
 Topic:    Graphics Seminar, Thu Nov 12, Kinematics
 Dates:    12-Nov-92
 Time:     <stime>3:00</stime>
-Host:     <speaker>Andy Witkin</speaker>
+Host:     Andy Witkin
           To schedule a meeting, email
           Phyllis.Pomerantz@cs.cmu.edu or call her at 268-7897.
-PostedBy: aw on 6-Nov-92 at 14:13 from CS.CMU.EDU (<speaker>Andy Witkin</speaker>)
+PostedBy: aw on 6-Nov-92 at 14:13 from CS.CMU.EDU (Andy Witkin)
 Abstract: 
 
 			   GRAPHICS SEMINAR
@@ -46,6 +46,6 @@ dynamical simulation</sentence>.  <sentence>It generates a compact, symbolic beh
 description and a realistic, three-dimensional animation</sentence>.  <sentence>It can also
 generate the space of behaviors for all possible input motions</sentence>.</paragraph>
 
- Host: <speaker>Andy Witkin</speaker>
+ Host: Andy Witkin
  To schedule a meeting, email
  Phyllis.Pomerantz@cs.cmu.edu or call her at 268-7897.

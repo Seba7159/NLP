@@ -1,6 +1,6 @@
 <0.5.10.93.15.30.25.trg+@N3.SP.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    PSC/CS Seminar 10/8 <stime>4:00 pm</stime> WeH 5409: <speaker>Marc Snir</speaker> of IBM
+Topic:    PSC/CS Seminar 10/8 <stime>4:00 pm</stime> WeH 5409: Marc Snir of IBM
 Dates:    8-Oct-93
 Time:     <stime>4:00 PM</stime>
 PostedBy: trg+ on 5-Oct-93 at 15:30 from N3.SP.CS.CMU.EDU (Thomas Gross)
@@ -10,7 +10,7 @@ Abstract:
 
 <paragraph>	<sentence>Scalable Parallel Computing Meets Mainstream Computing</sentence> </paragraph>
 
-			 <speaker>Marc Snir</speaker> 
+			 Marc Snir 
 		   IBM T. J. Watson Lab.
 
 <paragraph>	<sentence>Friday,  Oct 8, Wean Hall 5409, <stime>4:00 p.m</stime></sentence>.</paragraph>
@@ -33,5 +33,5 @@ speculate on the likely evolution of systems that attend to preserve
 standard uniprocessor interfaces, while supporting efficient scalable
 parallel computing</sentence>.  </paragraph>
 
- NOTE: If you want to meet with <speaker>Marc Snir</speaker>, send a message to Barbara
+ NOTE: If you want to meet with Marc Snir, send a message to Barbara
  Grandillo (bag@cs).

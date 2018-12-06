@@ -1,6 +1,6 @@
 <0.22.9.94.08.52.36.mp3r+@MARGE.ADM.CS.CMU.EDU (Margaret Profeta).0>
 Type:     cmu.cs.scs
-Topic:    REMINDER - <speaker>KATZ</speaker> TALK
+Topic:    REMINDER - KATZ TALK
 Dates:    22-Sep-94
 Time:     <stime>3:30 PM</stime> - <etime>5:00 PM</etime>
 Host:     M. Satyanarayanan
@@ -9,9 +9,9 @@ Abstract:
 
                             SPECIAL SCS SEMINAR
 
-<paragraph>                     <sentence>PROFESSOR <speaker>KATZ</speaker> GOES TO WASHINGTON</sentence></paragraph>
+<paragraph>                     <sentence>PROFESSOR KATZ GOES TO WASHINGTON</sentence></paragraph>
 
-                           Professor Randy <speaker>Katz</speaker>
+                           Professor Randy Katz
                          ARPA-CSTO and UC Berkeley
 
 <paragraph>                       <sentence>Thursday, September 22, 1994</sentence></paragraph>
@@ -38,7 +38,7 @@ Abstract:
 
                                  Biography
 
-<paragraph>         <sentence>Randy  Howard  <speaker>Katz</speaker>  was born in Brooklyn, NY in 1955</sentence>. <sentence>He
+<paragraph>         <sentence>Randy  Howard  Katz  was born in Brooklyn, NY in 1955</sentence>. <sentence>He
          received an A.B</sentence>. <sentence>degree from Cornell University in  1976,
          and  the  M.S</sentence>.  <sentence>and Ph.D.  degrees from the University of
          California, Berkeley in 1978 and 1980  respectively,  all
@@ -49,7 +49,7 @@ Abstract:
          at the University of Wisconsin-Madison in 1981</sentence>.  <sentence>In 1983,
          he  returned  to  Berkeley,  where  he  was  promoted  to
          Associate Profesor with tenure in 1985 and Full Professor
-         in 1989</sentence>. <sentence>Professor <speaker>Katz</speaker> was a National Science Foundation
+         in 1989</sentence>. <sentence>Professor Katz was a National Science Foundation
          Presidential  Young  Investigator from 1984-1989 and held
          an IBM Faculty Development Award in 1984-1985</sentence>.</paragraph>
 

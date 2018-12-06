@@ -48,4 +48,4 @@ International Journal of General Systems and the ORSA Journal on Computing</sent
 Association</sentence>.</paragraph>
 
 ---------------------------------------------------------------------------
- Hosts: <speaker>Mark</speaker> Fox/Jeanluc Koning       Appointments: Jeanluc.Koning@ri, x7598
+ Hosts: Mark Fox/Jeanluc Koning       Appointments: Jeanluc.Koning@ri, x7598

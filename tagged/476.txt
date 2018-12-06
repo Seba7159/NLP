@@ -1,6 +1,6 @@
 <0.13.4.92.13.47.03.cary+@CARY.ADM.CS.CMU.EDU (Cary Lund).0>
 Type:     cmu.cs.scs
-Topic:    <speaker>David Wile</speaker> to give talk, Thursday April 16
+Topic:    David Wile to give talk, Thursday April 16
 Dates:    16-Apr-92
 Time:     <stime>1:00 PM</stime>
 Host:     David Garlan
@@ -14,7 +14,7 @@ Abstract:
                         <sentence>4623 Wean Hall
      "INTEGRATING SYNTAXES AND THEIR ASSOCIATED SEMANTICS"</sentence></paragraph>
 
-                          <speaker>David Wile</speaker>
+                          David Wile
                               ISI
 
 <paragraph><sentence>Current  programming  languages  are  monoliths: they generally
@@ -33,6 +33,6 @@ expressions, statements, and procedures</sentence>.
 <sentence>---------------------------------------------------------------
  Host: David Garlan</sentence></paragraph>
 
-<paragraph><sentence>If  you  are interested in speaking with <speaker>David Wile</speaker> while he is
+<paragraph><sentence>If  you  are interested in speaking with David Wile while he is
 here on Thursday April 16th, please send e-mail to Cary Lund at
 cary@cs</sentence>.</paragraph>

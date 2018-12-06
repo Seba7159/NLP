@@ -10,7 +10,7 @@ Abstract:<paragraph>
 
 Programmable Applications for Scientists and Artists
 
-<speaker>Mike Eisenberg</speaker>
+Mike Eisenberg
 Department of Computer Science and Institute of Cognitive Science
 University of Colorado, Boulder
 
@@ -33,7 +33,7 @@ computational physics</sentence>.</paragraph>
 
  Host:  Phil Miller
 
-<paragraph><sentence>To schedule an appointment with <speaker>Mike Eisenberg</speaker> please contact Rebecca
+<paragraph><sentence>To schedule an appointment with Mike Eisenberg please contact Rebecca
 Clark at x8-6737</sentence>.</paragraph>
 
 <paragraph><sentence>Please see /afs/cs/user/dandb/hciseminar.txt for a list of upcoming HCI

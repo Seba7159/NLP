@@ -21,14 +21,14 @@ Abstract:
    --  allows  me  to  tell  some  candid stories about it</sentence>. <sentence>In 1983, the ITC
    started and grew to about 30 people</sentence>. <sentence>Eight were IBMers, ten  or  so  were
    newly  minted  Ph.D.s  from  our  very  own  department</sentence>. <sentence>We built Andrew,
-   partially in the model of Spice and the Alto  <speaker>system</speaker></sentence>.  <sentence>It  achieved  some
+   partially in the model of Spice and the Alto  system</sentence>.  <sentence>It  achieved  some
    real  successes  but  didn't accomplish all that we'd hoped</sentence>.  <sentence>Much of the
    problem was intrinsic to the way the world is, compared to how we thought
    it   was</sentence>.   <sentence>I   often  meet  people  who  still  have  some  of  my  1982
    misperceptions</sentence>.</paragraph>
 
 <paragraph>   <sentence>I will reconsider some of the early,  crucial  decisions  of  the  Andrew
-   project  related  to  wiring,  protocols, workstations, file <speaker>system</speaker>s, and
+   project  related  to  wiring,  protocols, workstations, file systems, and
    software</sentence>. <sentence>I'll assess the impact of Andrew on education and discuss  what
    IBM  and  CMU  ultimately  got  out  of  it</sentence>.  <sentence>I will argue that UNIX, the
    Macintosh, and Electronic Mail will not survive to the next century</sentence>.</paragraph>
@@ -38,7 +38,7 @@ Abstract:
 
       1. Slowness Kills.
 
-<paragraph>      2. <sentence>Big, integrated <speaker>system</speaker>s lose</sentence>.</paragraph>
+<paragraph>      2. <sentence>Big, integrated systems lose</sentence>.</paragraph>
 
       3. Virtual << Real.
 
@@ -50,4 +50,4 @@ Abstract:
 
 <paragraph>      7. <sentence>Industrial funding is difficult</sentence>.</paragraph>
 
-<paragraph>      8. <sentence>2nd <speaker>System</speaker> < 1st <speaker>System</speaker> < 3rd <speaker>System</speaker></sentence>.</paragraph>
+<paragraph>      8. <sentence>2nd System < 1st System < 3rd System</sentence>.</paragraph>

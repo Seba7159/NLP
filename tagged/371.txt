@@ -29,7 +29,7 @@ instructions</sentence>. *** </paragraph>
 The six seminars below count toward the Documentation of Teaching
 Development Program</sentence>.  </paragraph>
 
-<paragraph><sentence>Creating <speaker>Clear</speaker> and Engaging Assignments 
+<paragraph><sentence>Creating Clear and Engaging Assignments 
         Wednesday, June 21, <stime>2:00</stime> - <etime>3:30 PM</etime>, Carnegie Conference Room,
 Warner Hal
 l 
@@ -38,6 +38,6 @@ among others, to provide low-risk learning or practice opportunities
 before exams, to evaluate students' mastery of lecture or textbook
 material, to enhance in-class learning with complementary material, and
 to engage students in exploratory or creative activities</sentence>.  <sentence>We will
-describe the criteria for <speaker>clear</speaker> and appropriate assignments as well as
+describe the criteria for clear and appropriate assignments as well as
 pool participants' examples to generate ideas to make assignments as
 engaging as possible</sentence>.  </paragraph>

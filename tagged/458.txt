@@ -40,4 +40,4 @@ Abstract:
      with pen-and-paper examples</sentence>.</paragraph>
 
       Note:   We welcome Morten to our department.  He will be visiting
-      with <speaker>Peter Lee</speaker> for six months.
+      with Peter Lee for six months.

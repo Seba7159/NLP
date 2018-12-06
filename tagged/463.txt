@@ -10,5 +10,5 @@ Abstract:<paragraph>
 <paragraph><sentence>The talk by Jonathan Minden is at <stime>4pm</stime> this Friday, Dec. 6
 in 448 Mellon Institute</sentence>.  <sentence>The Mellon Institute is the massive
 building with the tall columns on 5th Avenue;  it houses
-<speaker>Biology</speaker>, Chemistry, Pgh Supercomputing Center, etc</sentence>.
+Biology, Chemistry, Pgh Supercomputing Center, etc</sentence>.
 Raul</paragraph>

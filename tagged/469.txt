@@ -33,4 +33,4 @@ specific attention to our immediate plans, the most difficult problems
 in front of us, and our long range vision for a hint-based prefetching
 file system interface</sentence>.</paragraph>
 
-<paragraph><sentence>This is joint work with R. Hugo <speaker>Patterson</speaker></sentence>.</paragraph>
+<paragraph><sentence>This is joint work with R. Hugo Patterson</sentence>.</paragraph>

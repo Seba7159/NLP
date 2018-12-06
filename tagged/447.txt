@@ -58,4 +58,4 @@ Mark Hill, James Larus, and David Wood</sentence>.</paragraph>
 <paragraph><sentence>Refreshments served at 3:45</sentence></paragraph>
 
 <paragraph><sentence>The speaker will be here all day Friday</sentence>.  <sentence>Please contact 
-<speaker>Barbara Sandling</speaker> (sandling@cs) if you want to talk to him</sentence>.</paragraph>
+Barbara Sandling (sandling@cs) if you want to talk to him</sentence>.</paragraph>

@@ -22,7 +22,7 @@ and would like to chat with Jeff feel free to drop by</sentence>.  <sentence>---
 	  Technology Transfer in Robotics: A Worm's Eye View
 
 			      Jeff Kerr
-			 <speaker>Zebra Robotics</speaker>, Inc.
+			 Zebra Robotics, Inc.
 			Palo Alto, California
 
 <paragraph><sentence>Ten years ago, while robotics was viewed as the next industry to follow the
@@ -32,7 +32,7 @@ robotics making its way into the mainstream engineering curriculum of many
 universities and with hundreds of research groups emerging around the world,
 the robotics industry itself is proving itself to be one of the great
 commercial disappointments of the last decade, with growth at a snails pace
-and with innovative technological advances extremely rare</sentence>.  <sentence><speaker>Zebra Robotics</speaker>,
+and with innovative technological advances extremely rare</sentence>.  <sentence>Zebra Robotics,
 for the past five years, has been attempting to commercialize force control
 capabilities for robots</sentence>. <sentence>I will be discussing some of my experiences in
 trying to effect technology transfer and what I see might be some of the

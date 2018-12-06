@@ -1,10 +1,10 @@
-<0.6.4.95.20.03.41.os22+@andrew.cmu.edu (Oliver <speaker>Schulte</speaker>).0>
+<0.6.4.95.20.03.41.os22+@andrew.cmu.edu (Oliver Schulte).0>
 Type:     cmu.cs.robotics.students
 Topic:    Financial Aid Seminar this Thursday
 Dates:    6-Apr-95
 Time:     <stime>4:30</stime> - <etime>6:30 PM</etime>
 Place:    <location>Adamson Wing, Baker Hall</location>
-PostedBy: os22+ on 6-Apr-95 at 20:03 from andrew.cmu.edu (Oliver <speaker>Schulte</speaker>)
+PostedBy: os22+ on 6-Apr-95 at 20:03 from andrew.cmu.edu (Oliver Schulte)
 Abstract: 
 
 
@@ -26,7 +26,7 @@ GSO reps: Please distribute this announcement in your department.
 Oliver
 
 <paragraph><sentence>-----------------------------------------------------------------------------
-Oliver <speaker>Schulte</speaker>  os22@andrew.cmu.edu          GSO Liasion Officer
+Oliver Schulte  os22@andrew.cmu.edu          GSO Liasion Officer
 Logic and Computation Program		     "A is better off if B is better 
 Carnegie Mellon University, Pittsburgh, PA   off" - v. Foerster</sentence></paragraph>
 

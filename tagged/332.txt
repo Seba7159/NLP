@@ -7,5 +7,5 @@ PostedBy: jean+ on 09-Oct-91 at 10:02 from A.GP.CS.CMU.EDU (Jean Harpley)
 Abstract: 
 
 The time and place for the Max Donath talk, "Scarecrow: Behavioral Control of
-<speaker>Mobile Robots</speaker> Based on Reflexive Models", has been moved to <stime>1:30</stime> to <etime>3:00 PM</etime>
+Mobile Robots Based on Reflexive Models", has been moved to <stime>1:30</stime> to <etime>3:00 PM</etime>
 in Wean 4623.  The date is unchanged, tomorrow, 10/10/91.

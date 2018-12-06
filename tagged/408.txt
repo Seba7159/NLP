@@ -38,6 +38,6 @@ entrance and we can walk over together.)</sentence></paragraph>
 	  and the company's status and long-range plans</sentence>.</paragraph>
 
 <paragraph><sentence>-----
-<speaker>Burton Smith</speaker> is the president of Tera Inc</sentence>.   <sentence>Previously, he was the chief
+Burton Smith is the president of Tera Inc</sentence>.   <sentence>Previously, he was the chief
 architect of the HEP computer, a "barrel processor" introduced in the mid
 80's</sentence>.</paragraph>

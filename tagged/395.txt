@@ -28,7 +28,7 @@ science theory in particular) will take advantage of this opportunity
 to contribute to and accelerate the success of massive parallelism</sentence>. </paragraph>
 
 <paragraph><sentence>This talk will first relay my (possibly controversial) observations:
-1: We really can get to 1 TeraFLOPS(Million MFLOPS)!</sentence> <sentence>And <speaker>Soon</speaker>!</sentence>
+1: We really can get to 1 TeraFLOPS(Million MFLOPS)!</sentence> <sentence>And Soon!</sentence>
 <sentence>2: Computer science has an obligation as well as an opportunity in MPP</sentence>.
 <sentence>3: MPP hardware organizations are converging, and early guesses at MPP 
 	issues were wrong</sentence>.

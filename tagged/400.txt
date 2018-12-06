@@ -17,7 +17,7 @@ Abstract:
 
 <paragraph>                        <sentence><stime>7:15</stime> - <etime>8:15 pm</etime>
                         4623 Wean Hall
-                  (via <speaker>Picturetel</speaker> from UCSD)
+                  (via Picturetel from UCSD)
                 moderated locally by Garth Gibson</sentence></paragraph>
 
  ABSTRACT:  We often make decisions on the basis of very restricted
@@ -43,7 +43,7 @@ of a multiple university distinguished speakers series</sentence>.  <sentence>Th
 so far, are Berkeley, Stanford, Washington, UCLA, UC San Diego, UC Santa
 Barbara, and us</sentence>.</paragraph>
 
-<paragraph><sentence>The technology is <speaker>Picturetel</speaker> based with conference bridging by AT&T</sentence>.  <sentence>There
+<paragraph><sentence>The technology is Picturetel based with conference bridging by AT&T</sentence>.  <sentence>There
 will be multiple monitors at each site;  cameras at every site are voice
 activated to force the display to show that site, so that the distributed
 audience can have camera time to ask questions</sentence>.</paragraph>

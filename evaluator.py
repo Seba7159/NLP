@@ -146,7 +146,10 @@ if __name__ == '__main__':
     else:
         f1 = 2 * (precision * recall) / (precision + recall)
 
-    print(accuracy, precision, recall, f1)
+    #print(("") % ("TOTAL", accuracy, precision, recall, f1))
+    print("TAG                   Accuracy    Precision   Recall      F1 measure")
+    tag = "total"
+    print(tag + (10 - len(tag)) * ' ' + "             {a:.2f}%      {p:.2f}%      {r:.2f}%      {f:.2f}%".format(a=accuracy, p=precision, r=recall, f=f1))
 
     # For all tags
     for tag in tags:
@@ -180,4 +183,4 @@ if __name__ == '__main__':
         else:
             f1 = 2 * (precision * recall) / (precision + recall)
 
-        print(tag, accuracy, precision, recall, f1)
+        print(tag + (10 - len(tag)) * ' ' + "             {a:.2f}%      {p:.2f}%      {r:.2f}%      {f:.2f}%".format(a=accuracy, p=precision, r=recall, f=f1))

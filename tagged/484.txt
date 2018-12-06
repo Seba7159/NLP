@@ -20,7 +20,7 @@ Tse-Sung Wu  writes:
               Household Demand for Garbage and Recycling Collection
                     with the Start of a Price per Bag</sentence></paragraph>
 
-<paragraph>                        <sentence>**All are invited to att<speaker>end</speaker>**</sentence></paragraph>
+<paragraph>                        <sentence>**All are invited to attend**</sentence></paragraph>
 
 <paragraph><sentence>This paper estimates household reaction to the implemenation of a
 volume-based pricing program for the collecion of residential garbage</sentence>. 
@@ -62,4 +62,4 @@ February 24: TBA
 <paragraph><sentence>___________
 Please direct all inquiries to Tse-Sung (tw1u) or Charlie (cl3e)</sentence></paragraph>
 
-<paragraph><sentence>---------------- <speaker>End</speaker> Forwarded Message ----------------</sentence></paragraph>
+<paragraph><sentence>---------------- End Forwarded Message ----------------</sentence></paragraph>
