@@ -61,7 +61,12 @@ def tag(position, word, fileName, tagName):
     startTag = "<" + tagName + ">"
     finalTag = "</" + tagName + ">"
 
-    if tagName is 'sentence' and len(word) > 0:
+    # Tag sentence before the dot
+    if tagName is 'sentence' and len(word) > 0 and word[len(word)-1] is '.':
+        word = word[:-1]
+
+    # Tag paragraph before a '\n' character
+    if tagName is 'paragraph' and len(word) > 0 and word[len(word)-1] is '\n':
         word = word[:-1]
 
     # Add tag at end of word
@@ -73,12 +78,31 @@ def tag(position, word, fileName, tagName):
 
 # Method to find all occurences
 def find_all(a_str, sub):
+    if len(sub) is 0:
+        return
     start = 0
     while True:
         start = a_str.find(sub, start)
         if start == -1: return
         yield start
         start += len(sub)
+
+
+# Normalise time
+def normalise_time(time):
+    ampm = ['a', 'A', 'p', 'P']
+    # ampmPart = ""
+    restTime = time.strip()
+    for c in ampm:
+        if c in time:
+            # ampmPart = time[time.find(c):].replace(string.punctuation, "").lower()
+            restTime = time[:time.find(c)].strip()
+    if ":" in restTime:
+        getHM = restTime.split(":")
+        return (getHM[0], getHM[1])
+    else:
+        return (restTime, "00")
+
 
 
 # Tag times using regex's
@@ -104,7 +128,7 @@ def tagTimes(fileName):
         mapTags[fileName]['etime'] = "PARAMETER_EMPTY"
 
     # Find times in content
-    timeRegEx = re.compile("\\b((1[0-2]|0?[1-9])((:[0-5][0-9])?)(\s?)([AaPp][Mm])|(1[0-2]|0?[1-9])(:[0-5][0-9])){1}")
+    timeRegEx = re.compile("\\b((1[0-2]|0?[1-9])((:[0-5][0-9])?)(\s?)([AaPp](\.?)[Mm])|(1[0-2]|0?[1-9])(:[0-5][0-9])){1}")
 
     # Check how many positions have advanced
     counter = 0
@@ -114,10 +138,10 @@ def tagTimes(fileName):
     for m in timeRegEx.finditer(mapFiles[fileName]):
         position = m.start() + counter * TIME_TAG_LEN
         wordToTag = m.group().strip()
-        if wordToTag.lower()   == mapTags[fileName]['stime'].lower():
+        if normalise_time(wordToTag.lower())   == normalise_time(mapTags[fileName]['stime'].lower()):
             tag(position, wordToTag, fileName, 'stime')
             counter += 1
-        elif wordToTag.lower() == mapTags[fileName]['etime'].lower():
+        elif normalise_time(wordToTag.lower())   == normalise_time(mapTags[fileName]['etime'].lower()):
             tag(position, wordToTag, fileName, 'etime')
             counter += 1
 
@@ -168,8 +192,13 @@ def tagSpeaker(fileName):
         # If found, cut punctuation and whitespaces
         headerSpeaker = headerSpeakerTemp.group(1)
         for punct in string.punctuation:
-            headerSpeaker = headerSpeaker.split(punct)[0]
-        mapTags[fileName]['speaker'] = headerSpeaker
+            if punct is not '.':
+                headerSpeaker = headerSpeaker.split(punct)[0]
+        if headerSpeaker is '':
+            continue
+        else:
+            mapTags[fileName]['speaker'] = headerSpeaker
+            break
 
     # If still not found, get a greedy approach such as the first name that appears in the content of file
     if 'speaker' not in mapTags[fileName]:
@@ -186,7 +215,7 @@ def tagSpeaker(fileName):
                     position = mapFiles[fileName].find(sent)
                     tagged_words = nltk.pos_tag(nltk.word_tokenize(sent))
                     namedEnt = nltk.ne_chunk(tagged_words)
-                    
+
                     # For each sentence, if a speaker is found, put it as the actual speaker and end the search
                     for name in namedEnt:
                         if "PERSON" in repr(name):
@@ -293,7 +322,7 @@ if __name__ == '__main__':
 
     # TODO: delete this after you finished tagging only for one file
     mapTemp = {}
-    mapTemp['301.txt'] = "doesnt matter"
+    mapTemp['390.txt'] = "doesnt matter"
 
     # Go through all files
     for fileName in mapFiles: #actually mapFiles
@@ -301,11 +330,19 @@ if __name__ == '__main__':
         mapTags[fileName] = {}
 
         # Tag in order
+        print(fileName)
         tagParagraphsAndSentences(fileName)
         tagTopic(fileName)
         tagLocation(fileName)
         tagSpeaker(fileName)
         tagTimes(fileName)
 
-        # Print content
-        print(fileName + "\n" + str(mapTags[fileName]) + "\n\n")
+        # Print content in program
+        #print(fileName + "\n" + str(mapTags[fileName]) + "\n\n")
+
+        # Print content to the tagged/ directory
+        file = open("tagged/" + fileName, "w")
+        file.write(mapFiles[fileName])
+
+    # End program
+    exit(0)
