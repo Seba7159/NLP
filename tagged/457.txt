@@ -19,7 +19,7 @@ Abstract:
 graphs is a fundamental graph problem with many applications</sentence>.  <sentence>The
 fastest known algorithms run in $O(min(mn,n^{2.38})$ time, where $n$
 is the number of nodes and $m$ the number of edges in the graph</sentence>.  <sentence>It
-is often the case that the aim is to compute the size of the
+is often the <speaker>case</speaker> that the aim is to compute the size of the
 transitive closure and the number of nodes reachable from certain
 nodes rather than computing them explicitly</sentence>.  <sentence>Examples of potential
 applications are database query optimization or optimizing

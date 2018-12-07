@@ -1,4 +1,4 @@
-<0.20.4.94.15.46.20.bag+@BARBAR</sentence>A.ADM.CS.CMU.EDU (Barbara Grandillo).0>
+<0.20.4.94.15.46.20.bag+@BARBARA.ADM.CS.CMU.EDU (Barbara Grandillo).0>
 Type:     cmu.cs.scs
 Who:      <speaker>Karsten M. Decker</speaker>, 
           Director of Research and Development
@@ -13,7 +13,7 @@ PostedBy: bag+ on 20-Apr-94 at 15:46 from BARBARA.ADM.CS.CMU.EDU (Barbara Grandi
 Abstract: 
 
 <paragraph>
-              SPECIAL COMPUTER SYSTEMS SEMINA</paragraph>R
+              <sentence>SPECIAL COMPUTER SYSTEMS SEMINAR</sentence></paragraph>
 
          Speaker:  <speaker>Karsten M. Decker</speaker>, 
                    Director of Research and Development
@@ -53,4 +53,4 @@ high-performance computing, and consultation of academic institutions
 and industrial and commercial companies</sentence>.</paragraph>
 
  Host:  Thomas Gross
-<sentence>
+

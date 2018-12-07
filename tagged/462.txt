@@ -1,4 +1,4 @@
-<0.15.5.95.09.40.16.mc8b+@andrew</sentence>.cmu.edu.0>
+<0.15.5.95.09.40.16.mc8b+@andrew.cmu.edu.0>
 Type:     cmu.cs.scs
 Topic:    Special ECE Seminar May 19
 Dates:    19-May-95
@@ -9,7 +9,7 @@ Abstract:
 
 <paragraph>
 <sentence>There will be a special seminar this Friday, May 19, given by J. Eric Bracken, 
-an ECE faculty candidate</sentence>.  Please see the announcement below</paragraph>.
+an ECE faculty candidate</sentence>.  <sentence>Please see the announcement below</sentence>.</paragraph>
 
 *******************************************************************************
 
@@ -58,4 +58,4 @@ based upon this idea</sentence>.</paragraph>
 
 *******************************************************************************
 ***
-<sentence>
+

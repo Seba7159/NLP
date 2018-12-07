@@ -15,7 +15,7 @@ Abstract:
               Similix --- A Partial Evaluator for a Scheme Subset:
                             Overview and Applications
 
-<paragraph>                                 <sentence>Anders Bondorf
+<paragraph>                                 <sentence><speaker>Anders Bondorf</speaker>
                                 DIKU, Copenhagen</sentence></paragraph>
 
 <paragraph>        <sentence>In   this   talk  we  present  Similix,  a  publically  available

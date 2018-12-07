@@ -3,7 +3,7 @@ Type:     cmu.cs.robotics
 Topic:    AI Seminar Next Tuesday
 Dates:    19-Mar-91
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
-Host:     Dave Touretzky                      Appointments: Cary.Lund@cs, x3853
+Host:     <speaker>Dave Touretzky</speaker>                      Appointments: Cary.Lund@cs, x3853
 PostedBy: Jeffrey.Schlimmer on 14-Mar-91 at 08:48 from A.GP.CS.CMU.EDU
 Abstract:<paragraph> 
 <sentence>Carnegie Mellon                                              SCS AI Seminar</sentence></paragraph>
@@ -39,4 +39,4 @@ permanent concepts and a multitude of low-level perceptual agents</sentence>.</p
 
 ---------------------------------------------------------------------------
 
- Host: Dave Touretzky                      Appointments: Cary.Lund@cs, x3853
+ Host: <speaker>Dave Touretzky</speaker>                      Appointments: Cary.Lund@cs, x3853

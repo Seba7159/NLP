@@ -21,8 +21,8 @@ RI SEMINAR
 
  TITLE:		Antarctic Exploration Robotics
 
-<paragraph><sentence>CMU's DANTE robot will soon explore an active volcano in Antarctica</sentence>. 
-<sentence>DANTE is a remote geologist and a harbinger of polar and planetary robots</sentence>. 
+<paragraph><sentence>CMU's <speaker>DANTE</speaker> robot will soon explore an active volcano in Antarctica</sentence>. 
+<sentence><speaker>DANTE</speaker> is a remote geologist and a harbinger of polar and planetary robots</sentence>. 
 <sentence>The exploration objective of the project is to study the gas from the lava 
 lake</sentence>. <sentence>The robotics objectives of this program are to navigate the extreme 
 terrain of the crater walls, and to operate in harsh conditions</sentence>. <sentence>The 

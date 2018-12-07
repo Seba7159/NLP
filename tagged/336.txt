@@ -17,14 +17,14 @@ Abstract:
 
 <paragraph>                            <sentence>Monday, 21 October 1991
                            <stime>1:30</stime> - <etime>3:00 PM</etime>,  8220 WeH
-    In this talk, I will first summarize applications of Nonholonomic
+    In this talk, I will first summarize appli<speaker>cat</speaker>ions of Nonholonomic
     Motion Planning (NMP) to dextrous manipulation or assembly with a
     robotic hand, parking a vehicle with/without trailers, attitude
     control of a satellite using rotors or solar panel positioners,
     reconfiguration of a space structure (e.g., a space-station or a
     space platform/manipulator system) using internal motion and
     maneuvering in mid-air by a spring-board diver, a gymnast and a
-    falling cat</sentence>.  <sentence>Then, I will describe the nature of nonholonomic
+    falling <speaker>cat</speaker></sentence>.  <sentence>Then, I will describe the nature of nonholonomic
     constraints or nonintegrable conservation laws associated with
     each of the above systems and the formulation of nonholonomic
     motion planning problems</sentence>.  <sentence>I will show that a NMP problem is

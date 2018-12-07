@@ -9,5 +9,5 @@ Abstract:
 <paragraph><sentence>The Pittsburgh Robotics and Automation Chapter of the IEEE is
 sponsoring a lecture by Antal Bejczy of JPL under the IEEE
 distinguished lecture program</sentence>. <sentence>Antal will speak on the topic:
-Calibrated Virtual Reality in Telerobotics</sentence>. <sentence>The lecture will
+Calibrated <speaker>Virtual Reality</speaker> in Telerobotics</sentence>. <sentence>The lecture will
 be in Wean 4623 at <stime>1:30</stime> on Friday November 11</sentence>. <sentence>All are invited</sentence>.</paragraph>

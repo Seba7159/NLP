@@ -13,7 +13,7 @@ STUDENT AID: WHAT THERE IS AND HOW TO GET IT
 As part of National Graduate Awareness Week, GSO presents an information
 seminar on graduate student loans.
 
-<paragraph><sentence>Dave Gould from the Financial Aid Office will give an overview of
+<paragraph><sentence><speaker>Dave Gould</speaker> from the Financial Aid Office will give an overview of
 federal loan programs, explain eligibility criteria and application
 procedures, and answer any questions you may have</sentence>.</paragraph>
 

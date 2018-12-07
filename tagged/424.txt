@@ -23,7 +23,7 @@ from the problems of the lowest common denominator</sentence>.  <sentence>Becaus
 shared community venture, it is most useful only when its avialability
 is nearly ubiquitous</sentence>.  <sentence>Fancy features that only work with one
 mail-reading program, such as the multimedia features of NeXT mail or
-the Andrew Message System, generally fall into disuse in a heterogeneous
+the <speaker>Andrew Message System</speaker>, generally fall into disuse in a heterogeneous
 environment where the lowest common denominator prevails</sentence>.  <sentence>In this talk,
 I will present four new developments that are intended to make it easier
 to raise the lowest common denominators</sentence>.</paragraph>

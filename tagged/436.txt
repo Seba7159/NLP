@@ -16,7 +16,7 @@ Department of Computer Science and Institute of Cognitive Science
 University of Colorado, Boulder
 
 <paragraph><sentence>Wednesday, March 23
-Wean Hall 5409
+<speaker>Wean Hall</speaker> 5409
 <stime>3:30</stime>-<etime>5pm</etime> 
 Programmable applications are software systems that combine the
 learnability and accessibility of direct manipulation interfaces with

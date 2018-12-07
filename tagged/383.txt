@@ -1,10 +1,10 @@
-<0.3.11.92.13.07.08.ph+@cs.cmu.edu (Paul Heckbert).0>
+<0.3.11.92.13.07.08.ph+@cs.cmu.edu (<speaker>Paul Heckbert</speaker>).0>
 Type:     cmu.cs.scs
 Topic:    GRAPHICS SEMINAR: Nov. 11, "Computer Graphics Snacks"
 Dates:    11-Nov-92
 Time:     <stime>2:40</stime>
-Host:     Paul Heckbert, ph@cs.cmu.edu, 268-7899
-PostedBy: ph+ on 3-Nov-92 at 13:07 from cs.cmu.edu (Paul Heckbert)
+Host:     <speaker>Paul Heckbert</speaker>, ph@cs.cmu.edu, 268-7899
+PostedBy: ph+ on 3-Nov-92 at 13:07 from cs.cmu.edu (<speaker>Paul Heckbert</speaker>)
 Abstract: 
 
 			      GRAPHICS SEMINAR
@@ -36,7 +36,7 @@ Abstract:
 	    creating pictures with 6 point perspective, and a bunch 
 	    of other half-baked stuff</sentence>.</paragraph>
 
- host: Paul Heckbert, ph@cs.cmu.edu, 268-7899
+ host: <speaker>Paul Heckbert</speaker>, ph@cs.cmu.edu, 268-7899
 
 <paragraph><sentence>For appointments with the speaker on Thursday Nov. 12, email
 Phyllis.Pomerantz@cs.cmu.edu or call her at 268-7897</sentence>.</paragraph>

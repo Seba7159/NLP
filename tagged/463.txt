@@ -7,7 +7,7 @@ PostedBy: valdes+ on 05-Dec-91 at 08:50 from CS.CMU.EDU (Raul Valdes-Perez)
 Abstract:<paragraph> 
 <sentence>Ok, I guess one needs to know the time/place also</sentence>.</paragraph>
 
-<paragraph><sentence>The talk by Jonathan Minden is at <stime>4pm</stime> this Friday, Dec. 6
+<paragraph><sentence>The talk by <speaker>Jonathan Minden</speaker> is at <stime>4pm</stime> this Friday, Dec. 6
 in 448 Mellon Institute</sentence>.  <sentence>The Mellon Institute is the massive
 building with the tall columns on 5th Avenue;  it houses
 Biology, Chemistry, Pgh Supercomputing Center, etc</sentence>.

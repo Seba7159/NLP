@@ -1,10 +1,10 @@
-<0.13.4.92.13.47.03.cary+@CARY.ADM.CS.CMU.EDU (Cary Lund).0>
+<0.13.4.92.13.47.03.cary+@CARY.ADM.CS.CMU.EDU (<speaker>Cary Lund</speaker>).0>
 Type:     cmu.cs.scs
 Topic:    David Wile to give talk, Thursday April 16
 Dates:    16-Apr-92
 Time:     <stime>1:00 PM</stime>
 Host:     David Garlan
-PostedBy: cary+ on 13-Apr-92 at 13:47 from CARY.ADM.CS.CMU.EDU (Cary Lund)
+PostedBy: cary+ on 13-Apr-92 at 13:47 from CARY.ADM.CS.CMU.EDU (<speaker>Cary Lund</speaker>)
 Abstract: 
 
 <paragraph>                       <sentence>VISITING SPEAKER</sentence></paragraph>
@@ -34,5 +34,5 @@ expressions, statements, and procedures</sentence>.
  Host: David Garlan</sentence></paragraph>
 
 <paragraph><sentence>If  you  are interested in speaking with David Wile while he is
-here on Thursday April 16th, please send e-mail to Cary Lund at
+here on Thursday April 16th, please send e-mail to <speaker>Cary Lund</speaker> at
 cary@cs</sentence>.</paragraph>

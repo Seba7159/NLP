@@ -1,9 +1,9 @@
-<1.9.2.93.14.31.50.garth+@NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson).0>
+<1.9.2.93.14.31.50.garth+@NIAGARA.NECTAR.CS.CMU.EDU (<speaker>Garth Gibson</speaker>).0>
 Type:     cmu.cs.scs
 Topic:    Change!!: Wed WWC PictureTel Seminar
 Dates:    10-Feb-93
 Time:     <stime>7:15</stime> - <etime>8:15 PM</etime>
-PostedBy: garth+ on 9-Feb-93 at 14:31 from NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibson)
+PostedBy: garth+ on 9-Feb-93 at 14:31 from NIAGARA.NECTAR.CS.CMU.EDU (<speaker>Garth Gibson</speaker>)
 Abstract: 
 
 <paragraph><sentence>Prof Patterson has demonstrated classical "absent-minded
@@ -25,7 +25,7 @@ would like a reprise, come tomorrow evening</sentence>.    <sentence>----  garth
 <paragraph>                        <sentence><stime>7:15</stime> - <etime>8:15 pm</etime>
                         4623 Wean Hall
                 (via Picturetel from Berkeley)
-                moderated locally by Garth Gibson
+                moderated locally by <speaker>Garth Gibson</speaker>
 [[[[[[  This is likely to be similar to the distinguished lecture given by
 	Patterson here at CMU last spring</sentence>.    <sentence>---  garth  ]]]]]]]</sentence></paragraph>
 

@@ -9,7 +9,7 @@ Abstract:
 
 	    GRAND CHALLENGES FOR MACHINE LEARNING
 
-		      Jaime Carbonell
+		      <speaker>Jaime Carbonell</speaker>
 	         School of Computer Science
 	         Carnegie Mellon University
 

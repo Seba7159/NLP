@@ -12,7 +12,7 @@ Abstract:
 <paragraph>                     <sentence>PROFESSOR KATZ GOES TO WASHINGTON</sentence></paragraph>
 
                            Professor Randy Katz
-                         ARPA-CSTO and UC Berkeley
+                         ARPA-CSTO and <speaker>UC Berkeley</speaker>
 
 <paragraph>                       <sentence>Thursday, September 22, 1994</sentence></paragraph>
 

@@ -32,7 +32,7 @@ Abstract:
      description of the output</sentence>.</paragraph>
 
 <paragraph>     <sentence>In  words,  the  context makes certain promises about the form of
-     the input and the output</sentence>.  <sentence>In the case of residual programs  from
+     the input and the output</sentence>.  <sentence>In the <speaker>case</speaker> of residual programs  from
      partial evaluation it is trivial to create good contexts</sentence>.</paragraph>
 
 <paragraph>     <sentence>From  the  context it is possible to identify operations that are

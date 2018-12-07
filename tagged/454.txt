@@ -9,7 +9,7 @@ Abstract:
 
                        THE TOPOLOGY OF SET CONSENSUS
 
-                              Maurice Herlihy
+                              <speaker>Maurice Herlihy</speaker>
 
                              Brown University
 

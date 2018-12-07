@@ -18,7 +18,7 @@ Abstract:
                      College Station, Texas 77843-3112
                            Email: trink@cs.tamu.edu</sentence></paragraph>
 
-<paragraph><sentence>I will present joint work with Jong-Shi Pang and Grace Lo (Johns Hopkins
+<paragraph><sentence>I will present joint work with Jong-Shi Pang and <speaker>Grace Lo</speaker> (Johns Hopkins
 University) and Sandra Sudarsky (Texas A&M University) on the
 multi-rigid-body contact problem, which we state as follows:  given a set of
 bodies with multiple concurrent contacts, determine the instantaneous

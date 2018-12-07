@@ -14,7 +14,7 @@ for graduate students</sentence>.  <sentence>The complete schedule and registrat
 are included</sentence>.  </paragraph>
 
 <paragraph><sentence>All graduate students, department heads and deans should have received a
-copy of the program description in August</sentence>.  <sentence>If you would like to be on the
+copy of the program description in <speaker>August</speaker></sentence>.  <sentence>If you would like to be on the
 list for future mailings, please let us know at x8-2896</sentence>.</paragraph>
 
 ------------------

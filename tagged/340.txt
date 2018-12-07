@@ -13,7 +13,7 @@ Friday November 15, 1991	TODAY
        Wean 4634 
     Symbiosis between photogrammetry and image understanding
 
-	Dr. Chris McGlone
+	Dr. <speaker>Chris McGlone</speaker>
 	Fairchild Weston Systems
 
 <paragraph>	<sentence>Photogrammetry and image understanding are complementary fields; 

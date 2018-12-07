@@ -1,12 +1,12 @@
-<0.12.11.92.11.10.12.aw@CS.CMU.EDU (Andy Witkin).0>
+<0.12.11.92.11.10.12.aw@CS.CMU.EDU (<speaker>Andy Witkin</speaker>).0>
 Type:     cmu.cs.scs
 Topic:    reminder: Elisha Sacks talk TODAY
 Dates:    12-Nov-92
 Time:     <stime>3:00</stime>
-Host:     Andy Witkin
+Host:     <speaker>Andy Witkin</speaker>
           To schedule a meeting, email
           Phyllis.Pomerantz@cs.cmu.edu or call her at 268-7897.
-PostedBy: aw on 12-Nov-92 at 11:10 from CS.CMU.EDU (Andy Witkin)
+PostedBy: aw on 12-Nov-92 at 11:10 from CS.CMU.EDU (<speaker>Andy Witkin</speaker>)
 Abstract: 
 
 			   GRAPHICS SEMINAR
@@ -46,6 +46,6 @@ dynamical simulation</sentence>.  <sentence>It generates a compact, symbolic beh
 description and a realistic, three-dimensional animation</sentence>.  <sentence>It can also
 generate the space of behaviors for all possible input motions</sentence>.</paragraph>
 
- Host: Andy Witkin
+ Host: <speaker>Andy Witkin</speaker>
  To schedule a meeting, email
  Phyllis.Pomerantz@cs.cmu.edu or call her at 268-7897.

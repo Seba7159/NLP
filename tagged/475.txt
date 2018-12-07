@@ -8,7 +8,7 @@ Abstract:
 
                        GASCHNIG/OAKLEY MEMORIAL LECTURE
 
-                            WAR STORIES FROM ANDREW
+                            WAR STORIES FROM <speaker>ANDREW</speaker>
 
 <paragraph>                                <sentence>James H. Morris
                          Professor of Computer Science</sentence></paragraph>
@@ -16,20 +16,20 @@ Abstract:
 <paragraph>                           <sentence>Wednesday, April 8, 1992
                                   Time <stime>3:30pm</stime>
                                 Wean Hall 7500
-   It  has been five years since I stopped working on Andrew, so the freedom
+   It  has been five years since I stopped working on <speaker>Andrew</speaker>, so the freedom
    of information act -- along with the passing from power of several people
    --  allows  me  to  tell  some  candid stories about it</sentence>. <sentence>In 1983, the ITC
    started and grew to about 30 people</sentence>. <sentence>Eight were IBMers, ten  or  so  were
-   newly  minted  Ph.D.s  from  our  very  own  department</sentence>. <sentence>We built Andrew,
+   newly  minted  Ph.D.s  from  our  very  own  department</sentence>. <sentence>We built <speaker>Andrew</speaker>,
    partially in the model of Spice and the Alto  system</sentence>.  <sentence>It  achieved  some
    real  successes  but  didn't accomplish all that we'd hoped</sentence>.  <sentence>Much of the
    problem was intrinsic to the way the world is, compared to how we thought
    it   was</sentence>.   <sentence>I   often  meet  people  who  still  have  some  of  my  1982
    misperceptions</sentence>.</paragraph>
 
-<paragraph>   <sentence>I will reconsider some of the early,  crucial  decisions  of  the  Andrew
+<paragraph>   <sentence>I will reconsider some of the early,  crucial  decisions  of  the  <speaker>Andrew</speaker>
    project  related  to  wiring,  protocols, workstations, file systems, and
-   software</sentence>. <sentence>I'll assess the impact of Andrew on education and discuss  what
+   software</sentence>. <sentence>I'll assess the impact of <speaker>Andrew</speaker> on education and discuss  what
    IBM  and  CMU  ultimately  got  out  of  it</sentence>.  <sentence>I will argue that UNIX, the
    Macintosh, and Electronic Mail will not survive to the next century</sentence>.</paragraph>
 

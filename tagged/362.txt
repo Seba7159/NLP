@@ -37,7 +37,7 @@ produce a schedule by 50% for problems solvable by the scheduler</sentence>.
 <sentence>In addition, the machine learning allowed the scheduler to solve 15% more 
 of the problems within computational resource limitations</sentence>.</paragraph>
 
-<paragraph><sentence>(This is joint work with Jonathan Gratch and Gerald DeJong of the
+<paragraph><sentence>(This is joint work with Jonathan Gratch and <speaker>Gerald DeJong</speaker> of the
 University of Illinois)</sentence></paragraph>
 
 <paragraph><sentence>Steve is interested in meeting with anyone working on projects in planning,

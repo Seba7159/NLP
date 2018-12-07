@@ -1,9 +1,9 @@
 <0.22.11.91.01.03.58.me@H.GP.CS.CMU.EDU (Michael Erdmann).0>
 Type:     cmu.cs.robotics
-Topic:    Robotics Seminar, Jeff Kerr, Friday Nov 22, <stime>3:30</stime>, <location>Adamson Wing, Baker Hall</location>
+Topic:    Robotics Seminar, Jeff Kerr, Friday Nov 22, <stime>3:30</stime>, <location>Adamson Wing, Baker <speaker>Hall</speaker></location>
 Dates:    22-Nov-91
 Time:     <stime>3:30</stime>
-Place:    <location>Adamson Wing, Baker Hall</location>
+Place:    <location>Adamson Wing, Baker <speaker>Hall</speaker></location>
 Host:     Michael Erdmann, x7883
 PostedBy: me on 22-Nov-91 at 01:03 from H.GP.CS.CMU.EDU (Michael Erdmann)
 Abstract: 
@@ -42,6 +42,6 @@ done in research labs and what is available commercially</sentence>.</paragraph>
 -----------------------------------------
 Refreshments at 3:15
 Talk at <stime>3:30</stime>
- Location:  <location>Adamson Wing, Baker Hall</location>
+ Location:  <location>Adamson Wing, Baker <speaker>Hall</speaker></location>
 -----------------------------------------
  Host: Michael Erdmann, x7883

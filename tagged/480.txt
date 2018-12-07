@@ -8,7 +8,7 @@ Abstract:
 
 <paragraph><sentence>The other Independent Study Projects to be presented from <stime>3:30</stime> to 5 on Monday,
 May 4 in Wean 5403 are as follows:
-Bill Adams       Genie Error Interface Design
+<speaker>Bill Adams</speaker>       Genie Error Interface Design
 Gerard Decatrel  Virtual Reality: Object Reconstruction
 Andrew Dent      Implementing Biological Imaging Algorithms
 Melissa Goldman  Ezmail + Dectalk = Eztalk

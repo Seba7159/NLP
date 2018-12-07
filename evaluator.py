@@ -17,6 +17,13 @@ def readFileNames():
     return filenames
 
 
+# Method to clean tags from string
+def clean_tags(s):
+    cleanr = re.compile('<.*?>')
+    cleantext = re.sub(cleanr, '', s)
+    return cleantext
+
+
 # Find words by the given tag in the content
 def find_by_tag(content, tag):
     # Define tags
@@ -31,7 +38,7 @@ def find_by_tag(content, tag):
 
     # Iterate through all found tagged words
     for a in re.findall(pattern, content):
-        returnList.append(a)
+        returnList.append(clean_tags(a))
 
     # Return the return list
     return returnList
@@ -87,9 +94,6 @@ if __name__ == '__main__':
     total_fp = 0
     total_fn = 0
 
-    # TODO: DELETE THIS
-    # filenames = ['301.txt']
-
     # For each file in the folders
     for file in filenames:
         # Get both paths
@@ -116,10 +120,11 @@ if __name__ == '__main__':
             mapTagEval[tag]['fp'] += fp
             mapTagEval[tag]['fn'] += fn
 
-            if tag is "paragraph" and fp > 0:
-                print(file + "fp" + str(fp))
-            if tag is "paragraph" and fn > 0:
-                print(file + "fn" + str(fn))
+            # Show what are the false values
+            # if tag is "speaker" and fp > 0:
+            #     print(file + "fp" + str(fp))
+            # if tag is "speaker" and fn > 0:
+            #     print(file + "fn" + str(fn))
 
     # Define accuracy, precision, recall and f1 measure
     accuracy = 0
@@ -151,6 +156,7 @@ if __name__ == '__main__':
     else:
         f1 = 2 * (precision * recall) / (precision + recall)
 
+    # Print header for displaying
     print("TAG                   Accuracy    Precision   Recall      F1 measure")
     print("total" + (10 - len("total")) * ' ' + "             {a:.2f}%      {p:.2f}%      {r:.2f}%      {f:.2f}%".format(a=accuracy, p=precision, r=recall, f=f1))
 
@@ -186,4 +192,5 @@ if __name__ == '__main__':
         else:
             f1 = 2 * (precision * recall) / (precision + recall)
 
+        # Print values for each tag
         print(tag + (10 - len(tag)) * ' ' + "             {a:.2f}%      {p:.2f}%      {r:.2f}%      {f:.2f}%".format(a=accuracy, p=precision, r=recall, f=f1))

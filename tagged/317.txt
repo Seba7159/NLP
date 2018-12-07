@@ -7,14 +7,14 @@ PostedBy: me on 7-Apr-95 at 15:54 from H.GP.CS.CMU.EDU (Michael Erdmann)
 Abstract:<paragraph> 
 <sentence>Friends, 
 the illusions of Carnival have forced us to move the RI Faculty Candidate
-seminar to Smith Hall 125</sentence>.  <sentence>See you there</sentence>.  <sentence>A million thanks to Cleah and a
+seminar to <speaker>Smith Hall</speaker> 125</sentence>.  <sentence>See you there</sentence>.  <sentence>A million thanks to Cleah and a
 number of other folks for helping out with the sudden switch</sentence>.  <sentence>Best, Mike
 <sentence>------------------------------------------------------------------------------</sentence>
        Robotics Seminar     FACULTY CANDIDATE    Robotics Seminar</sentence></paragraph>
 
 <paragraph><sentence>Friday April 7, <stime>3:30</stime>-<etime>5:00</etime>
 Refreshments 3:15
-******* Smith Hall 125 *******    (NOTE ROOM CHANGE)
+******* <speaker>Smith Hall</speaker> 125 *******    (NOTE ROOM CHANGE)
                 Piezoelectric Ultrasonic Micromotors</sentence></paragraph>
 
                           Anita M. Flynn

@@ -1,6 +1,6 @@
 <0.3.12.93.07.59.44.trg+@N3.SP.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    CS/PSC Seminar 12/3 <stime>4:00pm</stime> Kai Li WeH 5409
+Topic:    CS/PSC Seminar 12/3 <stime>4:00pm</stime> <speaker>Kai Li WeH</speaker> 5409
 Dates:    3-Dec-93
 Time:     <stime>4:00 PM</stime>
 PostedBy: trg+ on 3-Dec-93 at 07:59 from N3.SP.CS.CMU.EDU (Thomas Gross)

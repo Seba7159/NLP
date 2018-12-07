@@ -13,7 +13,7 @@ Abstract:
 			 Marc Snir 
 		   IBM T. J. Watson Lab.
 
-<paragraph>	<sentence>Friday,  Oct 8, Wean Hall 5409, <stime>4:00 p.m</stime></sentence>.</paragraph>
+<paragraph>	<sentence>Friday,  Oct 8, <speaker>Wean Hall</speaker> 5409, <stime>4:00 p.m</stime></sentence>.</paragraph>
 
 <paragraph><sentence>The recently announced IBM 9076 Scalable POWERparallel 1 (9076 SP1) system
 is the first in a family of scalable systems for serial and parallel

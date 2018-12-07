@@ -13,5 +13,5 @@ Wean 4625</sentence>. <sentence>They will bring some of the latest Apple technol
 in communications, telephony, multimedia, and speech</sentence>. <sentence>Rick and Kai-Fu
 invite interested grads and undergrads to attend this informal
 demonstration and discussion</sentence>.  <sentence>Graduate students interested in
-potential job opportunities are particularly encouraged to attend</sentence>.
+potential <speaker>job</speaker> opportunities are particularly encouraged to attend</sentence>.
 <sentence>Pizza will be served</sentence>.</paragraph>

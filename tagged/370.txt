@@ -33,7 +33,7 @@ Development Program</sentence>.  </paragraph>
         Wednesday, June 14, <stime>2:00</stime> - <etime>3:30 PM</etime>, Carnegie Conference Room,
 Warner Hal
 l 
-Discussions can be rich opportunities for students to test their ideas,
+Discussions can be <speaker>rich</speaker> opportunities for students to test their ideas,
 compare views with others, work collectively to address problems or
 issues, and receive feedback as they develop new analytical skills</sentence>.  <sentence>In
 order to provide these opportunities, instructors need to be aware of

@@ -7,7 +7,7 @@ PostedBy: copetas+ on 02-Jun-92 at 12:52 from GANDALF.CS.CMU.EDU (Catherine Cope
 Abstract: 
 
 SPECIAL CIT SEMINAR:	Friday, June 5
-			Scaife Hall 124
+			Scaife <speaker>Hall</speaker> 124
 			<stime>2:30 pm</stime>
 	  	      Dr. Seiichi Watanabe
 	         Sony Corporation Research Center

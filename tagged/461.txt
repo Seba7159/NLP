@@ -11,7 +11,7 @@ Abstract:
 
 <paragraph><sentence>Raj Reddy
 <stime>3:30</stime> Friday, May 5
-Wean Hall 5409</sentence></paragraph>
+<speaker>Wean Hall</speaker> 5409</sentence></paragraph>
 
 "Some Necessary Conditions for a Good User Interface"
 

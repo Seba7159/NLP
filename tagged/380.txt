@@ -8,7 +8,7 @@ Abstract:
 
 <paragraph><sentence>Homecoming celebrations begin today!</sentence> <sentence>Welcome back alumni!</sentence></paragraph>
 
-<paragraph><sentence>What better way to spend a slightly rainy afternoon than with a 
+<paragraph><sentence>What better <speaker>way</speaker> to spend a slightly rainy afternoon than with a 
 stimulating lecture</sentence>. <sentence>As part of the weekend programming, SCS is hosting
 a homecoming lecture today (Friday) for alumni and other interested
 individuals</sentence>. <sentence>The featured speaker is:</sentence></paragraph>

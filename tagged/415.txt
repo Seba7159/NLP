@@ -11,7 +11,7 @@ Abstract:
 <paragraph>                <sentence>The S3.mp Scalable Shared Memory Multiprocessor:
 		      The Network is the Computer, really!</sentence></paragraph>
 
-<paragraph>			     <sentence>Andreas  Nowatzyk 
+<paragraph>			     <sentence><speaker>Andreas</speaker>  Nowatzyk 
                   Sun Microsystems Computer Corporation (SMCC)</sentence></paragraph>
 
 <paragraph>   	   <sentence>Friday,  Oct 22, Wean Hall 5409, <stime>4:00 p.m</stime></sentence>.</paragraph>

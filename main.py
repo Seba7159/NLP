@@ -1,8 +1,6 @@
 ### Natural Language Processing assignment
 ### Student ID: 1769880
 
-# Part 1: Tagging information
-
 # Imports
 import re
 import nltk
@@ -11,8 +9,12 @@ import string
 from nltk.corpus import treebank
 from nltk import tokenize
 
+from nltk.corpus import stopwords
 from os import listdir
 from os.path import isfile, join
+
+stopws = stopwords.words('english')
+
 
 # Declarations of hash map for files and tag details
 mapFiles    = {}
@@ -20,7 +22,7 @@ mapHeaders  = {}
 mapContent  = {}
 mapTags     = {}
 nameData    = []
-famData     = []
+famData     = ["Mr.", "Mr", "Ms.", "Ms", "Mrs.", "Mrs", "Dr.", "Dr", "Prof.", "Prof"]
 
 # Reading the corpora
 def readContents():
@@ -46,19 +48,24 @@ def readContents():
             mapContent[fileName] = splitFileContent[1]
         else:
             mapContent[fileName] = ""
-    
+
     # Put names in database
     onlyfilesname = ['names/names.male', 'names/names.female']
     for fileName in onlyfilesname:
         file = open(fileName, "r")
         content = file.read().split("\n")
         for name in content:
-            nameData.append(name)
+            try:
+                position = stopws.index(name.lower())
+            except ValueError:
+                nameData.append(name)
 
     file = open('names/names.family', "r")
     content = file.read().split("\n")
     for name in content:
         famData.append(name)
+    for c in string.ascii_lowercase:
+        famData.append(c + ".")
 
 
 # Method for tagging words
@@ -74,10 +81,6 @@ def tag(position, word, fileName, tagName):
     # Tag paragraph before a '\n' character
     if tagName is 'paragraph' and len(word) > 0 and word[len(word)-1] is '\n':
         word = word[:-1]
-
-    # Tag paragraph after \n
-    if tagName is 'paragraph' and len(word) > 0 and word[0] is '\n':
-        word = word[1:]
 
     # Add tag at end of word
     content = mapFiles[fileName]
@@ -222,18 +225,42 @@ def tagSpeaker(fileName):
 
     # If not found, try to find names in the content
     if 'speaker' not in mapTags[fileName]:
-        namesFound = []
+        nameFound = ""
         for name in nameData:
-            if (" "+name+" ") in mapFiles[fileName] and name is not "":
-                namesFound.append(name)
+            # Check if name exists in text
+            if (" "+name.lower()+" ") in mapFiles[fileName].lower() and name is not "":
+                nameFound = name
+                break
+            elif (" "+name.lower()+"<") in mapFiles[fileName].lower() and name is not "":
+                nameFound = name
+                break
+            elif (">"+name.lower()+" ") in mapFiles[fileName].lower() and name is not "":
+                nameFound = name
+                break
+            elif (">"+name.lower()+"<") in mapFiles[fileName].lower() and name is not "":
+                nameFound = name
+                break
         # To check if names appear in text and call it the speaker
+        if nameFound is not "":
+            words = mapFiles[fileName].replace(">", " ").replace(">", " ").replace("\n", " ").split(" ")
+            try:
+                pos = words.index(nameFound)
+            except ValueError:
+                pos = -2
+            i = pos - 1
+            while i >= 0 and len(words[i]) > 0 and words[i][0].isupper():
+                nameFound = words[i] + " " + nameFound
+                i -= 1
+            i = pos + 1
+            while i < len(words) and i >= 0 and len(words[i]) > 0 and words[i][0].isupper(): #famFound.find(words[i]) != -1:
+                nameFound = nameFound + " " + words[i]
+                i += 1
+            mapTags[fileName]['speaker'] = re.sub(r'[^\w\s]', '', nameFound)
 
-    # If still not found, get a greedy approach such as the first name that appears in the content of file
+
+    # If still not found, use a NER tagger
     if 'speaker' not in mapTags[fileName]:
         for paragraph in mapContent[fileName].split("\n\n"):
-            # Stop using NER because it is not working correctly
-            break
-
             words = nltk.word_tokenize(paragraph)
             isParagraph = False
             for word, part in nltk.pos_tag(words):
@@ -348,12 +375,15 @@ if __name__ == '__main__':
     # Download nltk data
     #nltk.download()
 
+
+    # Part I: Tagging information
+
     # Read the file contents from the 'untagged' folder
     readContents()
 
     # TODO: delete this after you finished tagging only for one file
     mapTemp = {}
-    mapTemp['356.txt'] = ""
+    mapTemp['402.txt'] = ""
 
     # Go through all files
     for fileName in mapFiles: #actually mapFiles
@@ -379,6 +409,12 @@ if __name__ == '__main__':
         # Print content to the tagged/ directory
         file = open("tagged/" + fileName, "w")
         file.write(mapFiles[fileName])
+
+
+    # Part II: Ontology creation
+    
+
+
 
     # End program
     exit(0)
