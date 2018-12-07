@@ -15,7 +15,7 @@ Abstract:
 
 <paragraph>                         <sentence>Friday, December 2, 1994</sentence></paragraph>
 
-<paragraph>                    <sentence>WeH 8220      <stime>3:00 p.m</stime>. - <etime>4:30 p.m</etime>.
+<paragraph>                    <sentence>WeH 8220      <stime>3:00 p.m</stime>. - <etime>4:30 p.m.</etime>
      Modern shared-memory multiprocessors are inherently asynchronous:
      processes can be halted or delayed without warning by interrupts,
      pre-emption,  or  cache  misses</sentence>.    <sentence>In  such  environments, it is

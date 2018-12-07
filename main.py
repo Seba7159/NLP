@@ -20,6 +20,7 @@ mapHeaders  = {}
 mapContent  = {}
 mapTags     = {}
 nameData    = []
+famData     = []
 
 # Reading the corpora
 def readContents():
@@ -47,12 +48,17 @@ def readContents():
             mapContent[fileName] = ""
 
     # Put names in database
-    onlyfilesname = ['names/names.family', 'names/names.male', 'names/names.female']
+    onlyfilesname = ['names/names.male', 'names/names.female']
     for fileName in onlyfilesname:
         file = open(fileName, "r")
         content = file.read().split("\n")
         for name in content:
             nameData.append(name)
+
+    file = open('names/names.family', "r")
+    content = file.read().split("\n")
+    for name in content:
+        famData.append(name)
 
 
 # Method for tagging words
@@ -100,6 +106,9 @@ def normalise_time(time):
     if ":" in restTime:
         getHM = restTime.split(":")
         return (getHM[0], getHM[1])
+    elif "." in restTime:
+        getHM = restTime.split(".")
+        return (getHM[0], getHM[1])
     else:
         return (restTime, "00")
 
@@ -107,43 +116,51 @@ def normalise_time(time):
 
 # Tag times using regex's
 def tagTimes(fileName):
-    # Tag start and end time from headers
-    headerRegEx = "Time:(.*)"
-    headerTimesTemp = re.search(headerRegEx, mapHeaders[fileName])
+    if "stime" not in mapTags[fileName]:
+        # Tag start and end time from headers
+        headerRegEx = "Time:(.*)"
+        headerTimesTemp = re.search(headerRegEx, mapHeaders[fileName])
 
-    # If header times are not found
-    if headerTimesTemp is None:
-        return
+        # If header times are not found
+        if headerTimesTemp is None:
+            return
 
-    headerTimes = headerTimesTemp.group(1).split("-")
+        # Split header times by the '-' character
+        headerTimes = headerTimesTemp.group(1).split("-")
 
-    if len(headerTimes) == 1:
-        mapTags[fileName]['stime'] = headerTimes[0].strip()
-        mapTags[fileName]['etime'] = "PARAMETER_EMPTY"
-    elif len(headerTimes) == 2:
-        mapTags[fileName]['stime'] = headerTimes[0].strip()
-        mapTags[fileName]['etime'] = headerTimes[1].strip()
-    else:
-        mapTags[fileName]['stime'] = "PARAMETER_EMPTY"
-        mapTags[fileName]['etime'] = "PARAMETER_EMPTY"
+        # For each possible case if it was split or not
+        if len(headerTimes) == 1:
+            mapTags[fileName]['stime'] = headerTimes[0].strip()
+        elif len(headerTimes) >= 2:
+            mapTags[fileName]['stime'] = headerTimes[0].strip()
+            mapTags[fileName]['etime'] = headerTimes[1].strip()
 
     # Find times in content
-    timeRegEx = re.compile("\\b((1[0-2]|0?[1-9])((:[0-5][0-9])?)(\s?)([AaPp](\.?)[Mm])|(1[0-2]|0?[1-9])(:[0-5][0-9])){1}")
+    stimeRegEx = re.compile("\\b((1[0-2]|0?[1-9])(((:|\.)[0-5][0-9])?)(\s?)([AaPp](\.?)[Mm])|(1[0-2]|0?[1-9])((:|\.)[0-5][0-9])){1}")
+    etimeRegEx = re.compile("\\b((1[0-2]|0?[1-9])(((:|\.)[0-5][0-9])?)(\s?)([AaPp](\.?)[Mm](\.?))|(1[0-2]|0?[1-9])((:|\.)[0-5][0-9])){1}")
 
     # Check how many positions have advanced
     counter = 0
     TIME_TAG_LEN = len("<stime></stime>")
 
-    # Add tags at start and end of time
-    for m in timeRegEx.finditer(mapFiles[fileName]):
-        position = m.start() + counter * TIME_TAG_LEN
-        wordToTag = m.group().strip()
-        if normalise_time(wordToTag.lower())   == normalise_time(mapTags[fileName]['stime'].lower()):
-            tag(position, wordToTag, fileName, 'stime')
-            counter += 1
-        elif normalise_time(wordToTag.lower())   == normalise_time(mapTags[fileName]['etime'].lower()):
-            tag(position, wordToTag, fileName, 'etime')
-            counter += 1
+    # Add tags at start time
+    if "stime" in mapTags[fileName]:
+        for m in stimeRegEx.finditer(mapFiles[fileName]):
+            position = m.start() + counter * TIME_TAG_LEN
+            wordToTag = m.group().strip()
+            if normalise_time(wordToTag.lower())   == normalise_time(mapTags[fileName]['stime'].lower()):
+                tag(position, wordToTag, fileName, 'stime')
+                counter += 1
+
+    # Add tags for end time
+    counter = 0
+    if "etime" in mapTags[fileName]:
+        for m in etimeRegEx.finditer(mapFiles[fileName]):
+            position = m.start() + counter * TIME_TAG_LEN
+            wordToTag = m.group().strip()
+            if normalise_time(wordToTag.lower())   == normalise_time(mapTags[fileName]['etime'].lower()):
+                tag(position, wordToTag, fileName, 'etime')
+                counter += 1
 
     # End method for time tagging
     return
@@ -200,9 +217,20 @@ def tagSpeaker(fileName):
             mapTags[fileName]['speaker'] = headerSpeaker
             break
 
+    # If not found, try to find names in the content
+    if 'speaker' not in mapTags[fileName]:
+        namesFound = []
+        for name in nameData:
+            if (" "+name+" ") in mapFiles[fileName] and name is not "":
+                namesFound.append(name)
+        # To check if names appear in text and call it the speaker
+
     # If still not found, get a greedy approach such as the first name that appears in the content of file
     if 'speaker' not in mapTags[fileName]:
         for paragraph in mapContent[fileName].split("\n\n"):
+            # Stop using NER because it is not working correctly
+            break
+
             words = nltk.word_tokenize(paragraph)
             isParagraph = False
             for word, part in nltk.pos_tag(words):
@@ -322,13 +350,12 @@ if __name__ == '__main__':
 
     # TODO: delete this after you finished tagging only for one file
     mapTemp = {}
-    mapTemp['316.txt'] = ""
+    mapTemp['356.txt'] = ""
 
     # Go through all files
     for fileName in mapFiles: #actually mapFiles
         # Initialise key for hash map tags
         mapTags[fileName] = {}
-
         # Tag in order
         tagParagraphsAndSentences(fileName)
         tagTopic(fileName)
@@ -336,6 +363,13 @@ if __name__ == '__main__':
         tagSpeaker(fileName)
         tagTimes(fileName)
 
+    # Tag locations only and the items from the database
+    for fileName in mapFiles:
+        if 'location' not in mapTags[fileName]:
+            tagLocation(fileName)
+
+    # Print files
+    for fileName in mapFiles:
         # Print content in program
         #print(fileName + "\n" + str(mapFiles[fileName]) + "\n\n")
 

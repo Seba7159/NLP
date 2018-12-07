@@ -116,6 +116,11 @@ if __name__ == '__main__':
             mapTagEval[tag]['fp'] += fp
             mapTagEval[tag]['fn'] += fn
 
+            if tag is "etime" and fp > 0:
+                print(file + "fp" + str(fp))
+            if tag is "etime" and fn > 0:
+                print(file + "fn" + str(fn))
+
     # Define accuracy, precision, recall and f1 measure
     accuracy = 0
     precision = 0

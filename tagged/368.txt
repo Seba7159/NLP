@@ -17,7 +17,7 @@ seminar on graduate student loans.
 federal loan programs, explain eligibility criteria and application
 procedures, and answer any questions you may have</sentence>.</paragraph>
 
- TIME: Thursday, April 6, <stime>4:30</stime>-<etime>6:30 p.m</etime>.
+ TIME: Thursday, April 6, <stime>4:30</stime>-<etime>6:30 p.m.</etime>
 
  PLACE: <location>Adamson Wing, Baker Hall</location>
 

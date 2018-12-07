@@ -10,7 +10,7 @@ Abstract:
 
                                    POP SEMINAR
                               Friday, Dec 15, 1992
-                                <stime>3:00</stime> - <etime>4:00 p.m</etime>.
+                                <stime>3:00</stime> - <etime>4:00 p.m.</etime>
                                     WeH 8220
               Similix --- A Partial Evaluator for a Scheme Subset:
                             Overview and Applications

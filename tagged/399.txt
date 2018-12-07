@@ -15,13 +15,13 @@ jas
 <paragraph><sentence>In article  jass+@cs.cmu.edu (Jaspal Subhlok) writes:
 <sentence>>
 ></sentence>Date:    Feb 12,93
->Time:    9.00 A.M.
+>Time:    <stime>9.00 A.M</stime>.
 >Place:   WeH 5409
 >Topic:   Program Dependence Graph and Static Single Assignment forms
 >
 >Rajiv Gupta from University of Pittsburgh will deliver a guest
 >lecture  in the course on "Modern Language Implementation" on
->Feb 19 at 9.00</sentence>. <sentence>His lecture will focus on Program Dependence
+>Feb 19 at <stime>9.00</stime></sentence>. <sentence>His lecture will focus on Program Dependence
 >Graph and Static Single Assignment program representations</sentence>. <sentence>You
 >may wish to attend this lecture, even if you do not attend
 >the class otherwise</sentence>. <sentence>Please contact me (jass@cs) if you wish to
