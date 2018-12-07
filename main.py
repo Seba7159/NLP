@@ -46,7 +46,7 @@ def readContents():
             mapContent[fileName] = splitFileContent[1]
         else:
             mapContent[fileName] = ""
-
+    
     # Put names in database
     onlyfilesname = ['names/names.male', 'names/names.female']
     for fileName in onlyfilesname:
@@ -74,6 +74,10 @@ def tag(position, word, fileName, tagName):
     # Tag paragraph before a '\n' character
     if tagName is 'paragraph' and len(word) > 0 and word[len(word)-1] is '\n':
         word = word[:-1]
+
+    # Tag paragraph after \n
+    if tagName is 'paragraph' and len(word) > 0 and word[0] is '\n':
+        word = word[1:]
 
     # Add tag at end of word
     content = mapFiles[fileName]
@@ -111,7 +115,6 @@ def normalise_time(time):
         return (getHM[0], getHM[1])
     else:
         return (restTime, "00")
-
 
 
 # Tag times using regex's

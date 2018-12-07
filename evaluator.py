@@ -116,9 +116,9 @@ if __name__ == '__main__':
             mapTagEval[tag]['fp'] += fp
             mapTagEval[tag]['fn'] += fn
 
-            if tag is "etime" and fp > 0:
+            if tag is "paragraph" and fp > 0:
                 print(file + "fp" + str(fp))
-            if tag is "etime" and fn > 0:
+            if tag is "paragraph" and fn > 0:
                 print(file + "fn" + str(fn))
 
     # Define accuracy, precision, recall and f1 measure
@@ -151,10 +151,8 @@ if __name__ == '__main__':
     else:
         f1 = 2 * (precision * recall) / (precision + recall)
 
-    #print(("") % ("TOTAL", accuracy, precision, recall, f1))
     print("TAG                   Accuracy    Precision   Recall      F1 measure")
-    tag = "total"
-    print(tag + (10 - len(tag)) * ' ' + "             {a:.2f}%      {p:.2f}%      {r:.2f}%      {f:.2f}%".format(a=accuracy, p=precision, r=recall, f=f1))
+    print("total" + (10 - len("total")) * ' ' + "             {a:.2f}%      {p:.2f}%      {r:.2f}%      {f:.2f}%".format(a=accuracy, p=precision, r=recall, f=f1))
 
     # For all tags
     for tag in tags:

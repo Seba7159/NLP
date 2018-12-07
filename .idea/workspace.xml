@@ -5,12 +5,14 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/368.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/368.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/392.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/392.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/398.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/398.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tagged/399.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/399.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/454.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/454.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/458.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/458.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagged/434.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/434.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagged/440.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/440.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagged/449.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/449.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagged/451.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/451.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagged/462.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/462.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagged/467.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/467.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tagged/471.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/471.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,25 +38,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="py" value="8" />
-          <entry key="txt" value="86" />
+          <entry key="txt" value="89" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="86" />
+          <entry key="PLAIN_TEXT" value="89" />
           <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="20700" />
+          <entry key="py" value="21714" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="20700" />
+          <entry key="Python" value="21714" />
         </counts>
       </usages-collector>
     </session>
@@ -64,11 +66,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="134" column="19" lean-forward="true" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
+            <state relative-caret-position="459">
+              <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
               <folding>
                 <element signature="e#109#118#0" expanded="true" />
-                <marker date="1544184413488" expanded="true" signature="2618:3115" ph="..." />
+                <marker date="1544188341073" expanded="true" signature="2745:3241" ph="..." />
+                <marker date="1544188341073" expanded="true" signature="3238:3241" ph="..." />
               </folding>
             </state>
           </provider>
@@ -77,12 +80,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/evaluator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-405">
-              <caret line="74" column="76" selection-start-line="74" selection-start-column="51" selection-end-line="74" selection-end-column="76" />
+            <state relative-caret-position="357">
+              <caret line="120" column="32" selection-start-line="120" selection-start-column="32" selection-end-line="120" selection-end-column="32" />
               <folding>
                 <element signature="e#37#46#0" expanded="true" />
-                <marker date="1544183825065" expanded="true" signature="203:305" ph="..." />
+                <marker date="1544185847027" expanded="true" signature="203:305" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tagged/467.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_tagged/467.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -120,7 +137,6 @@
       <find>core</find>
       <find>token</find>
       <find>findall</find>
-      <find>para</find>
       <find>find_all</find>
       <find>speaker</find>
       <find>sentenc</find>
@@ -129,6 +145,7 @@
       <find>sh</find>
       <find>tagtime</find>
       <find>etime</find>
+      <find>para</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -147,7 +164,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="3200" />
     <option name="y" value="-16" />
-    <option name="width" value="960" />
+    <option name="width" value="1920" />
     <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -184,7 +201,7 @@
             <path>
               <item name="NLP" type="b2602c69:ProjectViewProjectNode" />
               <item name="NLP" type="462c0819:PsiDirectoryNode" />
-              <item name="tagged" type="462c0819:PsiDirectoryNode" />
+              <item name="test_tagged" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,12 +300,12 @@
     <frame x="3200" y="-16" width="1920" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11275026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11275026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21847826" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21847826" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39891306" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -306,15 +323,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/training/101.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/92.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training/73.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/training/26.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -531,17 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/evaluator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-405">
-          <caret line="74" column="76" selection-start-line="74" selection-start-column="51" selection-end-line="74" selection-end-column="76" />
-          <folding>
-            <element signature="e#37#46#0" expanded="true" />
-            <marker date="1544183825065" expanded="true" signature="203:305" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tagged/356.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -552,13 +549,38 @@
     <entry file="file://$PROJECT_DIR$/test_tagged/356.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_tagged/467.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tagged/467.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evaluator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="120" column="32" selection-start-line="120" selection-start-column="32" selection-end-line="120" selection-end-column="32" />
+          <folding>
+            <element signature="e#37#46#0" expanded="true" />
+            <marker date="1544185847027" expanded="true" signature="203:305" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_tagged/485.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="134" column="19" lean-forward="true" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
+        <state relative-caret-position="459">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
           <folding>
             <element signature="e#109#118#0" expanded="true" />
-            <marker date="1544184413488" expanded="true" signature="2618:3115" ph="..." />
+            <marker date="1544188341073" expanded="true" signature="2745:3241" ph="..." />
+            <marker date="1544188341073" expanded="true" signature="3238:3241" ph="..." />
           </folding>
         </state>
       </provider>

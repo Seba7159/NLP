@@ -1,6 +1,6 @@
 <0.26.9.94.11.56.23.prs+@N2.SP.CS.CMU.EDU (peter steenkiste).0>
 Type:     cmu.cs.scs
-Topic:    CS/PSC/PS seminar Steve McGeady on 10/17
+Topic: </sentence>   CS/PSC/PS seminar Steve McGeady on 10/17
 Dates:    17-Oct-94
 Time:     <stime>3:30 PM</stime>
 Place:    <location>Wean Hall 5409</location>
@@ -9,8 +9,8 @@ Abstract:
 
 <paragraph>
 <sentence>Steve McGeady from Intel will be at CMU on Oct 17 and give a CS/PSC/PS
-seminar</sentence>.  <sentence>Appended is an abstract of his presentation on "The new computer
-and communications industry"</sentence>.</paragraph>
+seminar</sentence>.  Appended is an abstract of his presentation on "The new computer
+and communications industry"</paragraph>.
 
 <paragraph><sentence>Steve McGeady is talking to people interested in software as it applies to
 multimedia, speech and handwriting recognition, video compression, databases
@@ -41,4 +41,4 @@ analyze the ongoing and impending shifts in the communications industry, and
 highlight Architecture Labs and Intel's Media Delivery Lab</sentence>.</paragraph>
 
  When:	October 17, <stime>3:30pm</stime>
- Where:	<location>Wean Hall 5409</location>
+ Where:	<location>Wean Hall 5409</location><sentence>

@@ -1,4 +1,4 @@
-<0.10.2.93.17.05.59.jass+@cs.cmu.edu (Jaspal Subhlok).0>
+<0.10.2.93.17.05.59.jass</sentence>+@cs.cmu.edu (Jaspal Subhlok).0>
 Type:     cmu.cs.scs
 Topic:    Re: Lecture by Rajiv Gupta, Univ of Pittsburgh, Feb 12, <stime>9 AM</stime>
 Dates:    12-Feb-93
@@ -8,7 +8,7 @@ Abstract:
 
 <paragraph>
 <sentence>The lecture is on Friday  Feb 12</sentence>. <sentence>I wrote a different date at one
-place  inside the message</sentence>. <sentence>Sorry about the confusion</sentence>.</paragraph>
+place  inside the message</sentence>. Sorry about the confusion</paragraph>.
 
 jas
 
@@ -28,4 +28,4 @@ jas
 >speak to Rajiv while he is here</sentence>.
 >
 ></paragraph>
-
+<sentence>
