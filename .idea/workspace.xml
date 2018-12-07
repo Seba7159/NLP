@@ -3,92 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8384d578-51a9-4981-80b3-64e2eda65dca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/302.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/302.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/308.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/308.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/317.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/317.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/318.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/318.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/323.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/323.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/328.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/328.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/332.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/332.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/333.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/333.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/334.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/334.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/335.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/335.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/336.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/336.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/338.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/338.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/340.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/340.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/341.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/341.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/348.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/348.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/351.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/351.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/354.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/354.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/356.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/356.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/362.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/362.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/367.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/367.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/368.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/368.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/369.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/369.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/370.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/370.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/371.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/371.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/378.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/378.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/380.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/380.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/383.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/383.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/385.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/385.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/386.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/386.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/389.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/389.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/391.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/391.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/392.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/392.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/396.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/396.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/398.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/398.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/399.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/399.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/402.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/402.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/403.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/403.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/406.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/406.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/409.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/409.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/411.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/411.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/412.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/412.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/413.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/413.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/414.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/414.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/415.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/415.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/421.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/421.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/422.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/422.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/424.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/424.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/425.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/425.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/428.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/428.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/432.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/432.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/434.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/434.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/436.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/436.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/437.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/437.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/438.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/438.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/440.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/440.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/442.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/442.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/443.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/443.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/445.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/445.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/446.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/446.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/447.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/447.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/448.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/448.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/449.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/449.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/450.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/450.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/451.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/451.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/454.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/454.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/456.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/456.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/457.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/457.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/458.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/458.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/459.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/459.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/461.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/461.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/462.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/462.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/463.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/463.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/465.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/465.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/467.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/467.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/469.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/469.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/471.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/471.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/472.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/472.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/473.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/473.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/475.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/475.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/476.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/476.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/480.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/480.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/481.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/481.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/482.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/482.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/484.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/484.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,25 +29,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="py" value="8" />
-          <entry key="txt" value="99" />
+          <entry key="txt" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="99" />
+          <entry key="PLAIN_TEXT" value="101" />
           <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="24117" />
+          <entry key="py" value="25323" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="24117" />
+          <entry key="Python" value="25323" />
         </counts>
       </usages-collector>
     </session>
@@ -142,12 +57,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="414" column="4" selection-start-line="414" selection-start-column="4" selection-end-line="414" selection-end-column="4" />
+            <state relative-caret-position="393">
+              <caret line="401" column="19" lean-forward="true" selection-start-line="401" selection-start-column="19" selection-end-line="401" selection-end-column="19" />
               <folding>
-                <element signature="e#109#118#0" expanded="true" />
-                <marker date="1544196560246" expanded="true" signature="2903:3399" ph="..." />
-                <marker date="1544196560246" expanded="true" signature="3396:3399" ph="..." />
+                <element signature="e#78#87#0" expanded="true" />
+                <marker date="1544199768506" expanded="true" signature="2985:3481" ph="..." />
+                <marker date="1544199768506" expanded="true" signature="3478:3481" ph="..." />
+                <marker date="1544199768506" expanded="true" signature="13316:14436" ph="..." />
+                <marker date="1544199768506" expanded="true" signature="14486:14491" ph="..." />
               </folding>
             </state>
           </provider>
@@ -156,31 +73,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/evaluator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-82">
-              <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+            <state relative-caret-position="375">
+              <caret line="121" selection-start-line="121" selection-end-line="121" />
               <folding>
                 <element signature="e#37#46#0" expanded="true" />
-                <marker date="1544196249445" expanded="true" signature="203:453" ph="..." />
-                <marker date="1544196249445" expanded="true" signature="358:453" ph="..." />
+                <marker date="1544199091365" expanded="true" signature="203:453" ph="..." />
+                <marker date="1544199091365" expanded="true" signature="358:453" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test_tagged/426.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-687" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tagged/426.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/test_tagged/411.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -217,6 +123,7 @@
       <find>speaker</find>
       <find>nameData</find>
       <find>will</find>
+      <find>ner</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -269,11 +176,6 @@
               <item name="NLP" type="b2602c69:ProjectViewProjectNode" />
               <item name="NLP" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="NLP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NLP" type="462c0819:PsiDirectoryNode" />
-              <item name="test_tagged" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -301,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.evaluator">
+  <component name="RunManager" selected="Python.main">
     <configuration name="evaluator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NLP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -375,7 +277,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24456522" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39891306" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -394,16 +296,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/untagged/456.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untagged/409.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tagged/305.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -614,13 +506,6 @@
     <entry file="file://$PROJECT_DIR$/untagged/426.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tagged/426.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tagged/354.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -643,26 +528,45 @@
         <state relative-caret-position="-687" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tagged/426.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-490">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_tagged/411.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tagged/411.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/evaluator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-82">
-          <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+        <state relative-caret-position="375">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
           <folding>
             <element signature="e#37#46#0" expanded="true" />
-            <marker date="1544196249445" expanded="true" signature="203:453" ph="..." />
-            <marker date="1544196249445" expanded="true" signature="358:453" ph="..." />
+            <marker date="1544199091365" expanded="true" signature="203:453" ph="..." />
+            <marker date="1544199091365" expanded="true" signature="358:453" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="414" column="4" selection-start-line="414" selection-start-column="4" selection-end-line="414" selection-end-column="4" />
+        <state relative-caret-position="393">
+          <caret line="401" column="19" lean-forward="true" selection-start-line="401" selection-start-column="19" selection-end-line="401" selection-end-column="19" />
           <folding>
-            <element signature="e#109#118#0" expanded="true" />
-            <marker date="1544196560246" expanded="true" signature="2903:3399" ph="..." />
-            <marker date="1544196560246" expanded="true" signature="3396:3399" ph="..." />
+            <element signature="e#78#87#0" expanded="true" />
+            <marker date="1544199768506" expanded="true" signature="2985:3481" ph="..." />
+            <marker date="1544199768506" expanded="true" signature="3478:3481" ph="..." />
+            <marker date="1544199768506" expanded="true" signature="13316:14436" ph="..." />
+            <marker date="1544199768506" expanded="true" signature="14486:14491" ph="..." />
           </folding>
         </state>
       </provider>

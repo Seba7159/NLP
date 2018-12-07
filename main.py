@@ -5,14 +5,13 @@
 import re
 import nltk
 import string
-
-from nltk.corpus import treebank
-from nltk import tokenize
+import sys, http.client, urllib.request, urllib.parse, urllib.error, json
 
 from nltk.corpus import stopwords
 from os import listdir
 from os.path import isfile, join
 
+# Using stop words to cut any word that is not useful to our tagger
 stopws = stopwords.words('english')
 
 
@@ -370,6 +369,63 @@ def tagLocation(fileName):
     return
 
 
+# Method to NER tag text and extract information
+def NERtag(fileName):
+    # Define entities
+    entities = []
+
+    # Tag each paragraph using NER
+    for paragraph in mapContent[fileName].split("\n\n"):
+        words = nltk.word_tokenize(paragraph)
+        isParagraph = False
+        for word, part in nltk.pos_tag(words):
+            if part[0] == 'V':
+                isParagraph = True
+                break
+        if isParagraph == True:
+            sentences = nltk.sent_tokenize(paragraph)
+            for sent in sentences:
+                tagged_words = nltk.pos_tag(nltk.word_tokenize(sent))
+                namedEnt = nltk.ne_chunk(tagged_words)
+
+                for ent in namedEnt:
+                    if type(ent) is not tuple:
+                        entString = repr(ent)[6:][:-11]
+                        splitString = entString.split("', [('")
+                        typeEnt = splitString[0]
+                        nameEnt = ""
+                        for word in splitString[1].split("', 'NNP'), ('"):
+                            nameEnt += word + "%20"
+                        nameEnt = nameEnt[:-3]
+                        entities.append((typeEnt, nameEnt))
+
+    print(entities)
+    # Return the entities tuple array
+    return entities
+
+
+
+# Method to get url data
+def get_url(domain, url):
+    # Headers are used if you need authentication
+    headers = {}
+
+    # If you know something might fail - ALWAYS place it in a try ... except
+    try:
+        conn = http.client.HTTPSConnection( domain )
+        conn.request("GET", url, "", headers)
+        response = conn.getresponse()
+        data = response.read()
+        conn.close()
+        return data
+    except Exception as e:
+        # These are standard elements in every error.
+        print("[Errno {0}] {1}".format(e.errno, e.strerror))
+
+    # Failed to get data!
+    return None
+
+
 # Main code
 if __name__ == '__main__':
     # Download nltk data
@@ -383,36 +439,42 @@ if __name__ == '__main__':
 
     # TODO: delete this after you finished tagging only for one file
     mapTemp = {}
-    mapTemp['402.txt'] = ""
+    mapTemp['301.txt'] = ""
 
     # Go through all files
-    for fileName in mapFiles: #actually mapFiles
+    print("Tagging started.. ")
+    for fileName in mapTemp: #actually mapFiles
         # Initialise key for hash map tags
         mapTags[fileName] = {}
         # Tag in order
-        tagParagraphsAndSentences(fileName)
         tagTopic(fileName)
+        tagParagraphsAndSentences(fileName)
         tagLocation(fileName)
         tagSpeaker(fileName)
         tagTimes(fileName)
 
     # Tag locations only and the items from the database
-    for fileName in mapFiles:
+    for fileName in mapTemp:
         if 'location' not in mapTags[fileName]:
             tagLocation(fileName)
 
     # Print files
-    for fileName in mapFiles:
+    for fileName in mapTemp:
         # Print content in program
         #print(fileName + "\n" + str(mapFiles[fileName]) + "\n\n")
 
         # Print content to the tagged/ directory
         file = open("tagged/" + fileName, "w")
         file.write(mapFiles[fileName])
+    print("Finished tagging files..")
 
 
     # Part II: Ontology creation
-    
+
+    print("Creating ontologies..")
+    # For each file, use a NER tagger to extract entities
+    for fileName in mapTemp:
+        NERtag(fileName)
 
 
 
