@@ -5,11 +5,14 @@
 import re
 import nltk
 import string
-import sys, http.client, urllib.request, urllib.parse, urllib.error, json
+import http.client, urllib.request, urllib.parse, urllib.error, json
+import gensim
 
+from gensim.models import Word2Vec
 from nltk.corpus import stopwords
 from os import listdir
 from os.path import isfile, join
+from nltk.corpus import wordnet as wn
 
 # Using stop words to cut any word that is not useful to our tagger
 stopws = stopwords.words('english')
@@ -395,10 +398,11 @@ def NERtag(fileName):
                         typeEnt = splitString[0]
                         nameEnt = ""
                         for word in splitString[1].split("', 'NNP'), ('"):
-                            nameEnt += word + "%20"
-                        nameEnt = nameEnt[:-3]
+                            nameEnt += word + " "
+                        nameEnt = nameEnt[:-1]
                         entities.append((typeEnt, nameEnt))
 
+    entities = list(set(entities))
     print(entities)
     # Return the entities tuple array
     return entities
@@ -426,16 +430,46 @@ def get_url(domain, url):
     return None
 
 
+# Get data from url
+def get_url_data(query):
+    # This makes sure that any funny charecters (including spaces) in the query are
+    # modified to a format that url's accept.
+    query = urllib.parse.quote_plus(query)
+
+    # Call our function.
+    url_data = get_url('en.wikipedia.org', '/w/api.php?format=json&action=query&prop=extracts&exlimit=max&explaintext&exintro&titles=' + query)
+
+    # We know how our function fails - graceful exit if we have failed.
+    if url_data is None:
+        print("Failed to get data ... Can not proceed.")
+        # Graceful exit.
+        return ""
+
+    # http.client socket returns bytes - we convert this to utf-8
+    url_data = url_data.decode("utf-8")
+
+    # Convert the structured json string into a python variable
+    url_data = json.loads(url_data)
+
+    # If data is missing
+    if '-1' in url_data['query']['pages']:
+        return ""
+
+    # Return the data found on Wikipedia
+    for one in url_data['query']['pages']:
+        return url_data['query']['pages'][one]['extract'].replace("\n", " ")
+
+
 # Main code
 if __name__ == '__main__':
     # Download nltk data
     #nltk.download()
 
-
-    # Part I: Tagging information
-
     # Read the file contents from the 'untagged' folder
     readContents()
+
+
+    # Part I: Tagging information
 
     # TODO: delete this after you finished tagging only for one file
     mapTemp = {}
@@ -466,15 +500,26 @@ if __name__ == '__main__':
         # Print content to the tagged/ directory
         file = open("tagged/" + fileName, "w")
         file.write(mapFiles[fileName])
-    print("Finished tagging files..")
+    print("Finished tagging files..\n")
 
 
     # Part II: Ontology creation
 
+    # TODO: Use WordNet
     print("Creating ontologies..")
+
+    # Load Word2Vec model
+    print("Loading Word2Vec... (this might take a while)")
+    model = gensim.models.KeyedVectors.load_word2vec_format('../word2vec/GoogleNews-vectors-negative300.bin', binary=True)
+    print("Word2Vec has been successfully loaded!") 
+
     # For each file, use a NER tagger to extract entities
     for fileName in mapTemp:
-        NERtag(fileName)
+        nerList = NERtag(fileName)
+        for nerElement in nerList:
+            # Take data about that NER element from Wikipedia
+            data = get_url_data(nerElement[1])
+
 
 
 
