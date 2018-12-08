@@ -26,6 +26,16 @@ mapTags     = {}
 nameData    = []
 famData     = ["Mr.", "Mr", "Ms.", "Ms", "Mrs.", "Mrs", "Dr.", "Dr", "Prof.", "Prof"]
 
+
+# Define categories and sub-categories
+categoryMap = {}
+categoryMap['computer science'] = ['artificial intelligence', 'human computer interaction', 'computer security', 'software engineering']
+categoryMap['engineering'] = ['mechanical engineering', 'electrical engineering', 'chemical engineering', 'mechatronics']
+categoryMap['chemistry'] = []
+categoryMap['physics'] = []
+categoryMap['sports science'] = []
+
+
 # Reading the corpora
 def readContents():
     # Get name of untagged emails
@@ -437,7 +447,7 @@ def get_url_data(query):
     query = urllib.parse.quote_plus(query)
 
     # Call our function.
-    url_data = get_url('en.wikipedia.org', '/w/api.php?format=json&action=query&prop=extracts&exlimit=max&explaintext&exintro&titles=' + query)
+    url_data = get_url('en.wikipedia.org', '/w/api.php?action=query&list=search&format=json&srsearch=' + query)
 
     # We know how our function fails - graceful exit if we have failed.
     if url_data is None:
@@ -451,19 +461,25 @@ def get_url_data(query):
     # Convert the structured json string into a python variable
     url_data = json.loads(url_data)
 
-    # If data is missing
-    if '-1' in url_data['query']['pages']:
-        return ""
+    # Define array to be returned
+    returnArray = []
 
-    # Return the data found on Wikipedia
-    for one in url_data['query']['pages']:
-        return url_data['query']['pages'][one]['extract'].replace("\n", " ")
+    # Find all title searches
+    for i in url_data['query']['search']:
+        if 'title' in i:
+            word = i['title']
+            word = ''.join(ch for ch in word if ch not in set(string.punctuation))
+            for a in word.split(" "):
+                returnArray.append(a.lower())
+
+    # Return the array with titles
+    return returnArray
 
 
 # Main code
 if __name__ == '__main__':
     # Download nltk data
-    #nltk.download()
+    # nltk.download()
 
     # Read the file contents from the 'untagged' folder
     readContents()
@@ -509,17 +525,33 @@ if __name__ == '__main__':
     print("Creating ontologies..")
 
     # Load Word2Vec model
-    print("Loading Word2Vec... (this might take a while)")
-    model = gensim.models.KeyedVectors.load_word2vec_format('../word2vec/GoogleNews-vectors-negative300.bin', binary=True)
-    print("Word2Vec has been successfully loaded!") 
+    # print("Loading Word2Vec... (this might take a while)")
+    # model = gensim.models.KeyedVectors.load_word2vec_format('../word2vec/GoogleNews-vectors-negative300.bin', binary=True)
+    # print("Word2Vec has been successfully loaded!")
+
+    print(wn.synset("artificial_intelligence.n.1").wup_similarity(wn.synset("dog.n.1")))
 
     # For each file, use a NER tagger to extract entities
     for fileName in mapTemp:
         nerList = NERtag(fileName)
+
+        # Define array of all words to be searched by
+        relevantWords = []
+
+        # Add relevant words from NER tags
         for nerElement in nerList:
             # Take data about that NER element from Wikipedia
-            data = get_url_data(nerElement[1])
+            relevantWords += get_url_data(nerElement[1])
 
+        # Add the topic words to relevant words
+        for word in mapTags[fileName]['topic'].split(" "):
+            word = ''.join(ch for ch in word if ch not in set(string.punctuation))
+            relevantWords.append(word.lower())
+
+        # Clean array to have a relevant word list set up correctly
+        relevantWords = list(set(relevantWords))
+
+        # Now for each word, check the similarity to each category 
 
 
 
