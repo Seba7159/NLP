@@ -6,10 +6,10 @@ Time:     <stime>3:30</stime> - <etime>5:00</etime>
 PostedBy: Dean Rubine on 21-Jan-94 at 18:58 from andrew.cmu.edu
 Abstract: 
 
-Wednesday, January 26
+<sentence>Wednesday, January 26
 <stime>3:30</stime>-5
 WeH 5409
-          The Role of Visual Fidelity in Instructional Simulations
+          The Role of Visual Fidelity in Instructional Simulations</sentence>
 
                                <speaker>Michael Christel</speaker>
                                mac@sei.cmu.edu
@@ -27,16 +27,16 @@ visually rich display complete with full motion video</sentence>.  <sentence>Pho
 images of an office setting and professional video of actors playing the
 roles of fellow workers can make the learning environment both engaging
 and realistic to the student</sentence>.  <sentence>However, is there any instructional
-benefit to increasing the visual fidelity of the environment?</sentence>  <sentence>"A Cure
+benefit to increasing the visual fidelity of the environment</sentence>?  "A Cure
 for the Common Code" was used in a formal experiment to address this
-question, and more specifically to address the following:</sentence></paragraph>
+question, and more specifically to address the following:</paragraph>
 
-<paragraph>  <sentence>- what role does the frame rate of visual material play in the students'
-    perception of and ability to recall presented information?</sentence></paragraph>
+  - what role does the frame rate of visual material play in the students'
+    perception of and ability to recall presented information?
 
-<paragraph>  <sentence>- does the use of surrogate travel, rather than a single image, 
+  - does the use of surrogate travel, rather than a single image, 
     point-and-click navigation interface, have any effect on student 
-    recall and perception of presented material?</sentence></paragraph>
+    recall and perception of presented material?
 
 <paragraph><sentence>This talk will briefly overview the code inspection course, and then discuss
 the results of the formal experiment concerning visual fidelity in interfaces</sentence>.</paragraph>

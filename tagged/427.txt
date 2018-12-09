@@ -35,19 +35,19 @@ are implemented on the HMMWV at CMU on a proof of principle basis</sentence>.
 
  Perception:
 
-<paragraph> <sentence>Complexity analysis leads to the conclusion that while the raw throughput
+<paragraph> Complexity analysis leads to the conclusion that while the raw throughput
  requirement for the maintenance of safety is manageable, the traditional 
  non-adaptive range image processing approach wastes tremendous computational
- bandwidth</sentence>. <sentence>A simple active perception algorithm is introduced which 
+ bandwidth. <sentence>A simple active perception algorithm is introduced which 
  computationally stabilizes the sensor vertical field of view</sentence>. <sentence>It makes 20 mph 
  off road autonomy feasible and points to techniques that may permit real time 
  stereo perception on serial hardware</sentence>.</paragraph>
 
  Planning:
 
-<paragraph> <sentence>Investigation of the impact of latencies and limits on actuator response leads
+<paragraph> Investigation of the impact of latencies and limits on actuator response leads
  to a reformulation of planning in configuration space as feedforward 
- satisficingcontrol in actuation space</sentence>. <sentence>The traditional hierarchical 
+ satisficingcontrol in actuation space. <sentence>The traditional hierarchical 
  planner-controller architecture collapses into a multi-input, 
  multi-output feedforward controller which employs both somatic and 
  environmental feedback and which closes this loop at relatively high 

@@ -17,11 +17,11 @@ Abstract:
  Place:    <location>4623 Wean Hall</location>
  Host:     Dave McKeown
 
-Best-First Minimax: A Selective Search Algorithm for Two-Player Games
+<sentence>Best-First Minimax: A Selective Search Algorithm for Two-Player Games
 by
 Richard E. Korf
 Computer Science Department
-University of California, Los Angeles
+University of California, Los Angeles</sentence>
 
 <paragraph><sentence>We present a very simple selective minimax search algorithm for two-player
 games</sentence>. <sentence>It always expands next the frontier node at the end of the principal

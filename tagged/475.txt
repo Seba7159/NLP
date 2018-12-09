@@ -1,4 +1,4 @@
-<0.0<sentence>8</sentence>.<sentence>4</sentence>.9<sentence>2</sentence>.0<sentence>7</sentence>.27.0<sentence>5</sentence>.stankus+@STANKUS.ADM.CS.CMU.EDU (Terri Stankus).0>
+<0.08.4.92.07.27.05.stankus+@STANKUS.ADM.CS.CMU.EDU (Terri Stankus).0>
 Type:     cmu.cs.scs
 Topic:    DISTINGUISHED LECTURE--TODAY
 Dates:    8-Apr-92
@@ -10,15 +10,15 @@ Abstract:
 
                             WAR STORIES FROM <speaker>ANDREW</speaker>
 
-<paragraph>                                <sentence>James H. Morris
-                         Professor of Computer Science</sentence></paragraph>
+<paragraph>                                James H. Morris
+                         Professor of Computer Science</paragraph>
 
-<paragraph>                           <sentence>Wednesday, April 8, 1992
+<paragraph>                           Wednesday, April 8, 1992
                                   Time <stime>3:30pm</stime>
                                 <location>Wean Hall 7500</location>
    It  has been five years since I stopped working on <speaker>Andrew</speaker>, so the freedom
    of information act -- along with the passing from power of several people
-   --  allows  me  to  tell  some  candid stories about it</sentence>. <sentence>In 1983, the ITC
+   --  allows  me  to  tell  some  candid stories about it. <sentence>In 1983, the ITC
    started and grew to about 30 people</sentence>. <sentence>Eight were IBMers, ten  or  so  were
    newly  minted  Ph.D.s  from  our  very  own  department</sentence>. <sentence>We built <speaker>Andrew</speaker>,
    partially in the model of Spice and the Alto  system</sentence>.  <sentence>It  achieved  some
@@ -27,27 +27,27 @@ Abstract:
    it   was</sentence>.   <sentence>I   often  meet  people  who  still  have  some  of  my  1982
    misperceptions</sentence>.</paragraph>
 
-<paragraph>   <sentence>I will reconsider some of the early,  crucial  decisions  of  the  <speaker>Andrew</speaker>
+<paragraph>   I will reconsider some of the early,  crucial  decisions  of  the  <speaker>Andrew</speaker>
    project  related  to  wiring,  protocols, workstations, file systems, and
-   software</sentence>. <sentence>I'll assess the impact of <speaker>Andrew</speaker> on education and discuss  what
+   software. <sentence>I'll assess the impact of <speaker>Andrew</speaker> on education and discuss  what
    IBM  and  CMU  ultimately  got  out  of  it</sentence>.  <sentence>I will argue that UNIX, the
    Macintosh, and Electronic Mail will not survive to the next century</sentence>.</paragraph>
 
-<paragraph>   <sentence>Finally, I'll offer eight opinions that computer scientists  who  venture
-   into the real world should consider:</sentence></paragraph>
+<paragraph>   Finally, I'll offer eight opinions that computer scientists  who  venture
+   into the real world should consider:</paragraph>
 
-      1. Slowness Kills.
+      1. <sentence>Slowness Kills</sentence>.
 
-<paragraph>      2. <sentence>Big, integrated systems lose</sentence>.</paragraph>
+      2. <sentence>Big, integrated systems lose</sentence>.
 
-      3. Virtual << Real.
+      3. <sentence>Virtual << Real</sentence>.
 
-<paragraph>      4. <sentence>Programmer productivity is not so important</sentence>.</paragraph>
+      4. <sentence>Programmer productivity is not so important</sentence>.
 
-<paragraph>      5. <sentence>Technology transfer rarely works</sentence>.</paragraph>
+      5. <sentence>Technology transfer rarely works</sentence>.
 
-<paragraph>      <sentence>6</sentence>. <sentence>Engineers don't buy; they log roll</sentence>.</paragraph>
+      6. <sentence>Engineers don't buy; they log roll</sentence>.
 
-<paragraph>      7. <sentence>Industrial funding is difficult</sentence>.</paragraph>
+      7. <sentence>Industrial funding is difficult</sentence>.
 
-<paragraph>      8. <sentence>2nd System < 1st System < 3rd System</sentence>.</paragraph>
+      8. 2nd System < 1st System < 3rd System.

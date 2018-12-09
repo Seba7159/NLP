@@ -12,7 +12,7 @@ Abstract:
 	     Friendly Reminder:  Robotics Seminar TODAY!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-<paragraph>  <sentence>***** Please note UNUSUAL TIME AND PLACE *****</sentence></paragraph>
+  ***** Please note UNUSUAL TIME AND PLACE *****
 
    Date:    25-OCT-91
    Time:    <stime>3:45</stime> (Refreshments at 3:30)
@@ -22,10 +22,10 @@ Abstract:
 
 			  Jean-Claude Latombe
 	      Robotics Laboratory, Computer Science Dept.
-			  Stanford University
+			  <sentence>Stanford University</sentence>
 
-<paragraph>   <sentence>Motion planning is an important problem with application in robotics,
-   process planning, design, graphic animation, and medicine</sentence>. <sentence>For example,
+<paragraph>   Motion planning is an important problem with application in robotics,
+   process planning, design, graphic animation, and medicine. <sentence>For example,
    it may be used to automatically generate robot paths from CAD models,
    or assembly sequences for manufacturing electro-mechanical products, or
    pipe routes for designing chemical plants, or spatial layout designs

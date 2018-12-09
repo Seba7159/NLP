@@ -127,16 +127,9 @@ if __name__ == '__main__':
             #     print(file + "fn" + str(fn))
 
     # Define accuracy, precision, recall and f1 measure
-    accuracy = 0
     precision = 0
     recall = 0
     f1 = 0
-
-    # Calculate accuracy
-    if (total_tp + total_fp + total_fn) == 0:
-        accuracy = 100
-    else:
-        accuracy = total_tp / (total_tp + total_fp + total_fn) * 100
 
     # Calculate precision
     if (total_tp + total_fp) == 0:
@@ -157,22 +150,15 @@ if __name__ == '__main__':
         f1 = 2 * (precision * recall) / (precision + recall)
 
     # Print header for displaying
-    print("TAG                   Accuracy    Precision   Recall      F1 measure")
-    print("total" + (10 - len("total")) * ' ' + "             {a:.2f}%      {p:.2f}%      {r:.2f}%      {f:.2f}%".format(a=accuracy, p=precision, r=recall, f=f1))
+    print("   TAG         | PRECISION    |  RECALL   |  F1 MEASURE")
+    print("  total" + (10 - len("total")) * ' ' + "   |   {p:.2f}%     |   {r:.2f}%  |   {f:.2f}%".format(p=precision, r=recall, f=f1))
 
     # For all tags
     for tag in tags:
         # Define accuracy, precision, recall and f1 measure
-        accuracy = 0
         precision = 0
         recall = 0
         f1 = 0
-
-        # Calculate accuracy
-        if (mapTagEval[tag]['tp'] + mapTagEval[tag]['fp'] + mapTagEval[tag]['fn']) == 0:
-            accuracy = 100
-        else:
-            accuracy = mapTagEval[tag]['tp'] / (mapTagEval[tag]['tp'] + mapTagEval[tag]['fp'] + mapTagEval[tag]['fn']) * 100
 
         # Calculate precision
         if (mapTagEval[tag]['tp'] + mapTagEval[tag]['fp']) == 0:
@@ -193,4 +179,4 @@ if __name__ == '__main__':
             f1 = 2 * (precision * recall) / (precision + recall)
 
         # Print values for each tag
-        print(tag + (10 - len(tag)) * ' ' + "             {a:.2f}%      {p:.2f}%      {r:.2f}%      {f:.2f}%".format(a=accuracy, p=precision, r=recall, f=f1))
+        print("  " + tag + (10 - len(tag)) * ' ' + "   |   {p:.2f}%     |   {r:.2f}%  |   {f:.2f}%".format(p=precision, r=recall, f=f1))

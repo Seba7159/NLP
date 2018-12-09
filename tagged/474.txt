@@ -10,12 +10,12 @@ Abstract:
 
        The Network Architecture of the Connection Machine CM-5
 
-<paragraph>			 <sentence>Charles E. Leiserson</sentence></paragraph>
+<paragraph>			 Charles E. Leiserson</paragraph>
 
-<paragraph>		 <sentence>MIT Laboratory for Computer Science
+<paragraph>		 MIT Laboratory for Computer Science
 				 and
 		    Thinking Machines Corporation
-		       Cambridge, Massachusetts</sentence></paragraph>
+		       Cambridge, Massachusetts</paragraph>
 
 		Friday, Apr 10, <stime>4:00 p.m</stime>., <location>WeH 5403</location>
 
@@ -34,5 +34,5 @@ Carl R. Feynman, Mahesh N. Ganmukhi, Jeffrey V. Hill, W. Daniel
 Hillis, Bradley C. Kuszmaul, Margaret A. St.~Pierre, David S. Wells,
 Monica C. Wong, Shaw-Wen Yang, Robert Zak, and about 500 others</sentence>.</paragraph>
 
-<paragraph><sentence>---
-If you want to talk to Charles Leiserson, please send mail to Marian D'Amico</sentence>.</paragraph>
+---
+If you want to talk to Charles Leiserson, please send mail to Marian D'Amico.

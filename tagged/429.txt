@@ -19,7 +19,7 @@ Abstract:
 
                         (not available as yet)
 
- FurtherDetails: For appointments: Phyllis Pomerantz (plp@cs) or (X8-7897)
+ <sentence>FurtherDetails: For appointments: Phyllis Pomerantz (plp@cs) or (X8-7897</sentence>)
 
 <paragraph><sentence><speaker>Dan Weld</speaker> will arrive on Monday, Feb. 7 and will be scheduling appointments
 from 2:30 p.m. on into the evening, and all day on Tuesday</sentence>.</paragraph>

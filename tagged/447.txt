@@ -11,11 +11,11 @@ Abstract:
 
  		  Tempest: User-Level Shared Memory
 
-<paragraph>			     <sentence><speaker>David Wood</speaker>
+<paragraph>			     <speaker>David Wood</speaker>
 		     Computer Sciences Department
 		       University of Wisconsin
 		       1210 West Dayton Street
-			  Madison, WI 53706</sentence></paragraph>
+			  Madison, WI 53706</paragraph>
 
 <paragraph><sentence>Future parallel computers must execute efficiently both hand-coded
 applications and also programs written in high-level programming

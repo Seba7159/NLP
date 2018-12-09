@@ -48,7 +48,7 @@ artistic practice</sentence>.  </paragraph>
 (digital) machines is an historically novel phenomenon</sentence>. <sentence>The motivations
 for producing such a technology, and its potential cultural functions,
 are a relatively unexplored subject, philosophically and aesthtically</sentence>.
-<sentence>We have no ``aesthetics of interactivity.''</sentence>  <sentence>Through my art/research
+<sentence>We have no ``aesthetics of interactivity.'</sentence>'  <sentence>Through my art/research
 practice I realize models of possible modes of interaction which have
 cultural content</sentence>.</paragraph>
 

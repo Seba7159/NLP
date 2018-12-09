@@ -12,16 +12,16 @@ Abstract:
    HEWLETT-PACKARD PRESENTS:
    "A FREE OBJECT TECHNOLOGY TELECAST/SEMINAR"
 
-<paragraph>   <sentence>Cyert Hall Room 100 - WEDNESDAY, MAY 11, 1994
+<paragraph>   Cyert Hall Room 100 - WEDNESDAY, MAY 11, 1994
                          <stime>11:00</stime>-<etime>5:00</etime> EST
-          "BUILDING THE ENTERPRISE THROUGH OBJECT TECHNOLOGY"</sentence></paragraph>
+          "BUILDING THE ENTERPRISE THROUGH OBJECT TECHNOLOGY"</paragraph>
 
-<paragraph><sentence>* Increase Competitiveness
+* Increase Competitiveness
 * Increase Maintainability
 * Enjoy Flexibility in Application Functionality
 * Learn about Advances in Technology
 * Gain Productivity through Reuse
-* Reduce Costs</sentence></paragraph>
+* Reduce Costs
 
 <paragraph><sentence>To gain the competitive advantage in today's rapidly
 changing business environment, you need to respond
@@ -42,7 +42,7 @@ well as commercial examples of how an object technology is used in
 the telecommunications and financial industries</sentence>.</paragraph>
 
 <paragraph><sentence>Here are highlights of what you'll be hearing from some of the
- speakers:</sentence></paragraph>
+ speakers</sentence>:</paragraph>
 
  <speaker>Joel S. Birnbaum</speaker>, Ph.D
  Senior Vice President of Research and Development
@@ -56,9 +56,9 @@ maintainable code</sentence>. <sentence>The promise of object technology is that
 software designed to match the way people think will be easier
 to use and more useful</sentence>.</paragraph>
 
-Jeff Eastman, Ph.D.
-Consulting Engineer, Hewlett-Packard
-Software Engineering Systems Division
+<sentence>Jeff Eastman, Ph.D</sentence>.
+<sentence>Consulting Engineer, Hewlett-Packard
+Software Engineering Systems Division</sentence>
 
 <paragraph><sentence>Dr. Eastman is the chief architect of HP's Distributed
 Smalltalk</sentence>.  <sentence>His presentation will discuss how distributed
@@ -82,9 +82,9 @@ object persistence, architectures of ODBMS products, extended
 relational and language bound, object model support, distributed
 functionality, and standards and technical directions</sentence>.</paragraph>
 
-Derek Coleman
+<sentence>Derek Coleman
 Manager, Software Reuse Department
-Hewlett-Packard Laboratories
+Hewlett-Packard Laboratories</sentence>
 
 <paragraph><sentence>Mr. Coleman is a co-author of "Object-oriented Development:  the
 Fusion Method," published by Prentice-Hall</sentence>.  <sentence>Fusion is an
@@ -96,7 +96,7 @@ introducing Fusion into actual use on live projects</sentence>.  <sentence>His
 presentation will conclude with a status report on CASE tools
 and current research</sentence>.</paragraph>
 
-Real world examples:
+<sentence>Real world examples</sentence>:
 
 <paragraph><sentence>In addition to these specialized presentations, the telecast
 will feature industrial colleagues presenting how their use of

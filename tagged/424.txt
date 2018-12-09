@@ -15,8 +15,8 @@ Abstract:
                         Nathaniel S. Borenstein
                                 Bellcore
 
-<paragraph>                <sentence>Moving Multimedia Mail into the Mainstream:  
-                   Four Ideas for the Email of Tomorrow</sentence></paragraph>
+<paragraph>                Moving Multimedia Mail into the Mainstream:  
+                   Four Ideas for the Email of Tomorrow</paragraph>
 
 <paragraph><sentence>Email in general, and multimedia mail in particular, have long suffered
 from the problems of the lowest common denominator</sentence>.  <sentence>Because email is a
@@ -71,8 +71,8 @@ it be possible to create a social milleu in which users of high-end
 workstations will feel comfortable with generating and sending 
 multimedia mail</sentence>.</paragraph>
 
-<paragraph><sentence>(*) ATOMICMAIL is a trademark of Bellcore</sentence>.
-<sentence>______________________________________________________________</sentence></paragraph>
+(*) ATOMICMAIL is a trademark of Bellcore.
+______________________________________________________________
 
  Host:  David Garlan
 

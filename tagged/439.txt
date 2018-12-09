@@ -33,10 +33,10 @@ clear</sentence>.  <sentence>My job is two-fold: to educate the Washington burea
 to what can and should be done so that they will place good and useful
 constraints on the program, and to propagate those constraints to
 those who carry out the program and help them understand what the
-constraints are and why they were made</sentence>.  <sentence>What are those constraints?</sentence>
-<sentence>How have they changed over the years?</sentence>  <sentence>What does the near future look
-like?</sentence>  <sentence>What roles have university researchers played in the program,
-and what roles might they play in the future?</sentence></paragraph>
+constraints are and why they were made</sentence>.  <sentence>What are those constraints</sentence>?
+<sentence>How have they changed over the years</sentence>?  <sentence>What does the near future look
+like</sentence>?  <sentence>What roles have university researchers played in the program,
+and what roles might they play in the future</sentence>?</paragraph>
 
 <paragraph><sentence>This will not be a technical talk</sentence>.  <sentence>I will describe some of the things
 we have done successfully and unsuccessfully, in order to get across
@@ -47,6 +47,6 @@ approaches to getting research funding and carrying out research in
 universities</sentence>.  <sentence>I'll discuss those signs, and open things up to
 interactive discussion</sentence>.</paragraph>
 
- FurtherDetails: For appointments -- Phyllis Pomerantz (plp@cs) or X8-7897
+ <sentence>FurtherDetails: For appointments -- Phyllis Pomerantz (plp@cs) or X8-7897</sentence>
 
 FurtherDetails: For appointments -- Phyllis Pomerantz (plp@cs) or X8-7897    

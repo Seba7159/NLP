@@ -33,6 +33,6 @@ system</sentence>. <sentence>AARON makes its debut in color at the Computer Muse
 on April 1, and Cohen assesses the degree to which the task has been 
 accomplished</sentence>.</paragraph>
 
- FurtherDetails: For details send mail to valdes@cs
+ <sentence>FurtherDetails: For details send mail to valdes@cs</sentence>
 
 FurtherDetails: For details send mail to valdes@cs    

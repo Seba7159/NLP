@@ -15,11 +15,11 @@ Abstract:
               Similix --- A Partial Evaluator for a Scheme Subset:
                             Overview and Applications
 
-<paragraph>                                 <sentence><speaker>Anders Bondorf</speaker>
-                                DIKU, Copenhagen</sentence></paragraph>
+<paragraph>                                 <speaker>Anders Bondorf</speaker>
+                                DIKU, Copenhagen</paragraph>
 
-<paragraph>        <sentence>In   this   talk  we  present  Similix,  a  publically  available
-        self-applicable partial evaluator for a subset of  Scheme</sentence>.  <sentence>After
+<paragraph>        In   this   talk  we  present  Similix,  a  publically  available
+        self-applicable partial evaluator for a subset of  Scheme.  <sentence>After
         giving   a   short   review   of   partial   evaluation  (program
         specialization), we discuss one of the core problems  in  partial
          evaluation:  finding  a good unfolding strategy</sentence>. <sentence>On the one hand,
@@ -27,21 +27,21 @@ Abstract:
          on the other hand, unfolding gives a risk of non-termination</sentence>. <sentence>The
          strategy currently used in Similix is described</sentence>.</paragraph>
 
-<paragraph>        <sentence>The talk proceeds with an overview of the Similix system</sentence>. <sentence>Partial
+<paragraph>        The talk proceeds with an overview of the Similix system. <sentence>Partial
         evaluation   is   done   as   a   multi-phase   process:   before
         specialization,  several  analyses  are  applied  to  the  source
         program  to  collect different kinds of information</sentence>.  <sentence>Notably, in
         addition to the binding time analysis, a flow analysis is used to
         trace flow of structured and functional values</sentence>.</paragraph>
 
-<paragraph>        <sentence>Finally,  we  discuss  applications  of  Similix</sentence>.  <sentence>We use partial
+<paragraph>        Finally,  we  discuss  applications  of  Similix.  <sentence>We use partial
         evaluation to compile a small lazy functional language "LAZY"</sentence>.  <sentence>A
         major   application   of   Similix   has   been   based   on  the
         "LAZY"-experiment: automatic generation of an efficient  compiler
         from  a denotational semantics for a rather large lazy functional
         language "BAWL" (similar to "Orwell")</sentence>.</paragraph>
 
-<paragraph>        <sentence>Professor Bondorf will be here Thursday and Friday</sentence>.  <sentence>If you would
+<paragraph>        Professor Bondorf will be here Thursday and Friday.  <sentence>If you would
         like an appointment to speak with him, please call Marge at x5025
         or email profeta@cs</sentence>.</paragraph>
 

@@ -6,12 +6,12 @@ Time:     <stime>3:00 PM</stime>
 PostedBy: copetas+ on 16-Oct-92 at 13:51 from GANDALF.CS.CMU.EDU (Catherine Copetas)
 Abstract: 
 
-<paragraph><sentence>Homecoming celebrations begin today!</sentence> <sentence>Welcome back alumni!</sentence></paragraph>
+<paragraph><sentence>Homecoming celebrations begin today</sentence>! <sentence>Welcome back alumni</sentence>!</paragraph>
 
 <paragraph><sentence>What better <speaker>way</speaker> to spend a slightly rainy afternoon than with a 
 stimulating lecture</sentence>. <sentence>As part of the weekend programming, SCS is hosting
 a homecoming lecture today (Friday) for alumni and other interested
-individuals</sentence>. <sentence>The featured speaker is:</sentence></paragraph>
+individuals</sentence>. <sentence>The featured speaker is</sentence>:</paragraph>
 
 			DOUG TYGAR
 		     Associate Professor

@@ -16,12 +16,12 @@ Abstract:
  Time:     <stime>3:30 p.m</stime>.
  Place:    <location>5409 Wean Hall</location>
  Host:     Manuela Veloso
- FurtherDetails: For appointments: Phyllis Pomerantz - x8-7897 or plp@cs
+ <sentence>FurtherDetails: For appointments: Phyllis Pomerantz - x8-7897 or plp@cs</sentence>
 
 Actualized Intelligence: Planning and Acting in Dynamic Environments
 
-<paragraph>			<sentence><speaker>Kris Hammond</speaker>
-		    University of Chicago</sentence></paragraph>
+<paragraph>			<speaker>Kris Hammond</speaker>
+		    University of Chicago</paragraph>
 
 <paragraph><sentence>Over the past few years, the thrust of research in planning has moved
 away from the notion of a plan as a proof and more towards an approach

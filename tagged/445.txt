@@ -12,12 +12,12 @@ Abstract:
 <paragraph><sentence>All seminars are on Friday at 4, unless otherwise noted</sentence>.  <sentence>Most 
 speakers spend some time in Pittsburgh to find out about ongoing 
 research</sentence>.  <sentence>Please contact <speaker>Barbara Sandling</speaker> if you want to talk to 
-the speaker,</sentence></paragraph>
+the speaker</sentence>,</paragraph>
 
-Peter
------------------
+<sentence>Peter
+----------------</sentence>-
 
-Oct 21
+<sentence>Oct 21</sentence>
 
 "Biomechanics"
 George Lea, National Science Foundation

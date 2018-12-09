@@ -12,8 +12,8 @@ PostedBy: lydia+ on 10-Jan-92 at 09:00 from PROOF.ERGO.CS.CMU.EDU (Lydia Defilip
 Abstract: 
 
 <paragraph>
-<sentence>Please note that <speaker>Steven Skiena</speaker> will now speak
-at <stime>1:30</stime> instead of 3:30 due to a conflict in seminars</sentence>.</paragraph>
+Please note that <speaker>Steven Skiena</speaker> will now speak
+at <stime>1:30</stime> instead of 3:30 due to a conflict in seminars.</paragraph>
 
  Speaker:   <speaker>Steven Skiena</speaker>
             Department of Computer Science
@@ -35,13 +35,13 @@ Powers of graphs have several interesting properties</sentence>.
 cube of any connected graph is hamiltonian</sentence>.</paragraph>
 
 <paragraph><sentence>In this talk, we present algorithms to find a square
-root G of a graph G^2 for the following special classes of graphs:</sentence></paragraph>
+root G of a graph G^2 for the following special classes of graphs</sentence>:</paragraph>
 
-<paragraph>	<sentence>Find G given G^2, where G is a tree, in O(m) time</sentence>.</paragraph>
+<paragraph>	Find G given G^2, where G is a tree, in O(m) time.</paragraph>
 
-<paragraph>	<sentence>Find G given G^2, where G^2 is planar, in O(n) time</sentence>.</paragraph>
+<paragraph>	Find G given G^2, where G^2 is planar, in O(n) time.</paragraph>
 
-<paragraph>	<sentence>Find G given G^2, where G is a subdivided graph, in O(m n) time</sentence>.</paragraph>
+<paragraph>	Find G given G^2, where G is a subdivided graph, in O(m n) time.</paragraph>
 
 <paragraph><sentence>Finding square roots of subdivided graphs is equivalent to inverting
 total graphs</sentence>.

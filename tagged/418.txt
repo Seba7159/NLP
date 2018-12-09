@@ -1,4 +1,4 @@
-<0.<sentence>4</sentence>.1<sentence>1</sentence>.93.11.29.13.plp+@PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz).0>
+<0.4.11.93.11.29.13.plp+@PHYLLIS.ADM.CS.CMU.EDU (Phyllis Pomerantz).0>
 Type:     AI Seminar
 Who:      <speaker>Clark Glymour</speaker> (CMU Philosophy)
 Topic:    Automated Casual Inference: Recent Work and Open Problems
@@ -17,26 +17,26 @@ Abstract:
  Place:    <location>5409 Wean Hall</location>
  Host:     Raul Valdes-Perez
 
-Causation, Feedback, Conditional Independence in Neural Nets, 
-		and the Structure of the Unobserved
+<sentence>Causation, Feedback, Conditional Independence in Neural Nets, 
+		and the Structure of the Unobserved</sentence>
 
 <paragraph><sentence>I will describe some recent work on automated causal inference done in
 the last year  by Peter Spirtes, Thomas Richardson and Richard Scheines,
 extending the results in Spirtes, Glymour and Scheines, Causation
 Prediction and Search, springer, 1993</sentence>.</paragraph>
 
-<paragraph><sentence>In particular, I'll discuss as much of the following as I have time for:</sentence></paragraph>
+<paragraph><sentence>In particular, I'll discuss as much of the following as I have time for</sentence>:</paragraph>
 
-<paragraph>1. <sentence>How causal relations among linearly related unobserved variables may
+1. <sentence>How causal relations among linearly related unobserved variables may
 be determined from statistical patterns among their observed effects,
-with limited prior knowledge</sentence>.<sentence>(Spirtes and Scheines)</sentence></paragraph>
+with limited prior knowledge</sentence>.(Spirtes and Scheines)
 
-<paragraph><sentence>2</sentence>. <sentence>Statistical patterns characteristic of (convergent) linear feedback
-systems (Spirtes)</sentence></paragraph>
+2. <sentence>Statistical patterns characteristic of (convergent) linear feedback
+systems (Spirtes</sentence>)
 
-3. Statistical patterns characteristic of many (convergent) non-linear
-feedback systems (Spirtes, Scheines, Richardson, Glymour)
+3. <sentence>Statistical patterns characteristic of many (convergent) non-linear
+feedback systems (Spirtes, Scheines, Richardson, Glymour</sentence>)
 
-<paragraph>4. <sentence>Progress in characterizing statistically equivalent linear feedback
-systems</sentence>. <sentence>(Richardson and Spirtes)</sentence></paragraph>
+4. <sentence>Progress in characterizing statistically equivalent linear feedback
+systems</sentence>. (Richardson and Spirtes)
 

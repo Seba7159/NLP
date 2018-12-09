@@ -54,5 +54,5 @@ permits</sentence>.</paragraph>
 <paragraph><sentence>Collaborators in this work include: Amer Diwan, Tony Hosking, Rick Hudson, and
 Darko Stefanovic</sentence>.</paragraph>
 
- Host: Peter Lee.  If you would like an appointment with the speaker,
- please contact michelle@cs.
+ Host: Peter Lee.  <sentence>If you would like an appointment with the speaker,
+ please contact michelle@cs</sentence>.

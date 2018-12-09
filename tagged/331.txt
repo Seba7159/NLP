@@ -17,7 +17,7 @@ Abstract:
 
  Place:  <location>3313 Doherty (Large Conf Room)</location>
 
-<paragraph>        <sentence>ELIMINATING COMBINATORICS FROM THE MATCH IN RULE-BASED SYSTEMS</sentence></paragraph>
+<paragraph>        ELIMINATING COMBINATORICS FROM THE MATCH IN RULE-BASED SYSTEMS</paragraph>
 
                                  <speaker>Milind Tambe</speaker>
 
@@ -29,12 +29,12 @@ utility issue in machine learning, parallel implementations and modeling  human
 cognition</sentence>.    <sentence>The goal of this work is to eliminate match combinatorics without
 sacrificing production system functionality</sentence>.</paragraph>
 
-<paragraph>  <sentence>Combinatorics arise in production match due to the ambiguity about which data
-items (or working memory elements) can actually match a production's condition</sentence>.
+<paragraph>  Combinatorics arise in production match due to the ambiguity about which data
+items (or working memory elements) can actually match a production's condition.
 <sentence>In a production with multiple conditions, a cascading effect of such  ambiguity
 may  lead  to  an  exponential  match effort</sentence>. <sentence>We have investigated a variety of
 approaches to eliminate match combinatorics, and have focused on the  following
-two that appear quite promising:</sentence></paragraph>
+two that appear quite promising</sentence>:</paragraph>
 
    - The  unique-attribute  approach:  This approach restricts the working
      memory representation and completely eliminates the ambiguity.
@@ -43,6 +43,6 @@ two that appear quite promising:</sentence></paragraph>
      so  as to allow some local ambiguity, but avoids the cascading effect
      that leads to combinatorics.
 
-<paragraph>  <sentence>I  will  present  detailed  theoretical  and  experimental  analyses  of  the
+<paragraph>  I  will  present  detailed  theoretical  and  experimental  analyses  of  the
 performance    improvements    possible   with   these   approaches   and   the
-representational tradeoffs involved in them</sentence>.</paragraph>
+representational tradeoffs involved in them.</paragraph>

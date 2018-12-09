@@ -11,13 +11,13 @@ PostedBy: marian+ on 28-Jan-93 at 13:09 from MARIAN.ADM.CS.CMU.EDU (Marian D'Ami
 Abstract: 
 
  Type:     LOGIC COLLOQUIUM
- Who:      <speaker>Gian Aldo Antonelli</speaker>, Univ. of Pittsburgh
+ Who:      <speaker>Gian Aldo Antonelli</speaker>, Univ. <sentence>of Pittsburgh
  Topic:    A Revision-Theoretic Analysis of the Arithmetical Hierarchy
  Dates:    4-Feb-93
  Time:     <stime>3:30 PM</stime>
  Place:    <location>WEH 5409</location>
  Host:     Stephen D. Brookes
- 	  Please contact Marian D'Amico (marian@cs) for appointments.
+ 	  Please contact Marian D'Amico (marian@cs) for appointments</sentence>.
 
 <paragraph><sentence>In this paper I apply the idea of Revision Rules, originally
 developed within the framework of the theory of truth and later
@@ -32,7 +32,7 @@ detailed exposition to date in Gupta & Belnap (1993), where they
 provide the foundations for a general theory of (possibly circular)
 definitions</sentence>.  <sentence>Revision Rules are non-monotonic inductive operators
 that are iterated into the transfinite beginning with some given
-"bootstrapper" or "initial guess."</sentence> <sentence>Since their iteration need not
+"bootstrapper" or "initial guess.</sentence>" <sentence>Since their iteration need not
 give rise to an increasing sequence, Revision Rules require a
 particular kind of operation of "passage to the limit:" rather
 than, as is usual in the monotone case, taking the cumulative result

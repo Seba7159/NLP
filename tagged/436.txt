@@ -1,6 +1,6 @@
 <0.18.3.94.08.52.19.kk00+@andrew.cmu.edu.0>
 Type:     cmu.cs.scs
-Topic:    HCI Seminar March 23
+Topic:    <sentence>HCI Seminar</sentence> March 23
 Dates:    23-Mar-94
 Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
 Host:     Phil Miller
@@ -9,11 +9,11 @@ Abstract:
 
 HCI Seminar
 
-Programmable Applications for Scientists and Artists
+<sentence>Programmable Applications for Scientists and Artists</sentence>
 
-Mike Eisenberg
+<sentence>Mike Eisenberg
 Department of Computer Science and Institute of Cognitive Science
-University of Colorado, Boulder
+University of Colorado, Boulder</sentence>
 
 <paragraph><sentence>Wednesday, March 23
 <speaker>Wean Hall</speaker> 5409

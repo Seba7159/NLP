@@ -8,8 +8,8 @@ PostedBy: prs+ on 26-Sep-94 at 11:56 from N2.SP.CS.CMU.EDU (peter steenkiste)
 Abstract: 
 
 <paragraph>
-<sentence>Steve McGeady from Intel will be at CMU on Oct 17 and give a CS/PSC/PS
-seminar</sentence>.  <sentence>Appended is an abstract of his presentation on "The new computer
+Steve McGeady from Intel will be at CMU on Oct 17 and give a CS/PSC/PS
+seminar.  <sentence>Appended is an abstract of his presentation on "The new computer
 and communications industry"</sentence>.</paragraph>
 
 <paragraph><sentence>Steve McGeady is talking to people interested in software as it applies to
@@ -20,12 +20,12 @@ group activity support, etc</sentence>.  <sentence>If you are interested in talk
 please contact Barbara Sandling as soon as possible, since he will only be
 available for a limited time</sentence>.</paragraph>
 
-Peter
+<sentence>Peter
 -------------
- The New Computer and Communication Industry
+ The New Computer and Communication Industry</sentence>
 
-Steve McGeady
-Intel Corporation
+<sentence>Steve McGeady
+Intel Corporation</sentence>
 
 <paragraph><sentence>We have been bombarded lately with breathless reports about an "Information
 Superhighway" coming soon to your home</sentence>.  <sentence>But experts can't seem to agree on

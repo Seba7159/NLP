@@ -12,12 +12,12 @@ Abstract:
 <paragraph><sentence>All seminars are on Friday at 4, unless otherwise noted</sentence>.  <sentence>Most 
 speakers spend some time in Pittsburgh to find out about ongoing 
 research</sentence>.  <sentence>Please contact Barbara Sandling if you want to talk to 
-the speaker,</sentence></paragraph>
+the speaker</sentence>,</paragraph>
 
-Peter
------------------
+<sentence>Peter
+----------------</sentence>-
 
-Sep 23	
+<sentence>Sep 23	
 "Tempest: User-Level Shared Memory"
 David Wood, University of Wisconsin-Madison
-CMU, <location><speaker>Wean Hall</speaker> 5409</location>, <stime>4:00 p.m</stime>.
+CMU, <location><speaker>Wean Hall</speaker> 5409</location>, <stime>4:00 p.m</stime></sentence>.

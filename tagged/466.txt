@@ -8,7 +8,7 @@ Place:    <location>7500 WeH</location>
 PostedBy: Terri.Stankus on 13-Nov-90 at 14:57 from B.GP.CS.CMU.EDU
 Abstract: 
 
-Just a reminder:
+<sentence>Just a reminder</sentence>:
 
  Date:	This wednesday, November 14th
  time:	<stime>3:30 p.m</stime>.

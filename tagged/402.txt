@@ -10,9 +10,9 @@ Abstract:
 
    Aspects of Parallel Processing in Reservoir Simulation
 
-<paragraph>		 <sentence><speaker>Richard Ewing</speaker>
+<paragraph>		 <speaker>Richard Ewing</speaker>
           Institute for Scientific Computation
-          	Texas A&M University</sentence></paragraph>
+          	Texas A&M University</paragraph>
 
 	    Friday, March 5, 1993, <stime>4:00 pm</stime>
     3rd Floor Conference Room, Mellon Institute

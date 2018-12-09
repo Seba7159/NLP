@@ -7,10 +7,10 @@ PostedBy: trg+ on 20-Feb-92 at 11:16 from N2.SP.CS.CMU.EDU (Thomas Gross)
 Abstract: 
 
 <paragraph>
-	<sentence>Approaching MPP for Molecular Dynamics and Mechanics of Biomolecules</sentence></paragraph>
+	Approaching MPP for Molecular Dynamics and Mechanics of Biomolecules</paragraph>
 
-<paragraph>		          <sentence><speaker>Charles Brooks</speaker>
-		Chemistry Department, Carnegie Mellon University</sentence></paragraph>
+<paragraph>		          <speaker>Charles Brooks</speaker>
+		Chemistry Department, Carnegie Mellon University</paragraph>
 
 		     Feb 28, 1992    <stime>4:00 p.m</stime>.
 			SEI Auditorium

@@ -7,11 +7,11 @@ Place:    <location>SEI Auditorium</location>
 PostedBy: prs+ on 29-Sep-94 at 10:36 from N2.SP.CS.CMU.EDU (peter steenkiste)
 Abstract: 
 
-<paragraph>
-<sentence>"Tools for Object Oriented Programming on Massively Parallel Systems"
-Dennis Gannon, University of Indiana</sentence></paragraph>
 
-No abstract available
+"Tools for Object Oriented Programming on Massively Parallel Systems"
+Dennis Gannon, University of Indiana
+
+<sentence>No abstract available</sentence>
 
  Where: <location>SEI Auditorium</location>
  Date: Friday, September 30

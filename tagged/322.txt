@@ -16,8 +16,8 @@ Abstract:
  	  to Dynamic Walking
  Date:	  Friday, March 8, 1991
  Time:     <stime>3:30 p.m</stime>. until 4:30 p.m.
- Location: <location>Baker Hall, Adamson Wing</location>
- Host:     Michael Erdmann, x7883
+ <sentence>Location: <location>Baker Hall, Adamson Wing</location>
+ Host:     Michael Erdmann, x7883</sentence>
 
 <paragraph><sentence>We consider the problem of developing control programs for complex
 mechanical systems with multiple, simultaneous tasks</sentence>.  <sentence>Such systems are
@@ -45,8 +45,8 @@ approach using a full rigid-body mechanics simulation</sentence>.  <sentence>We 
 the results of our simulation experiments with the aid of computer
 animation</sentence>.</paragraph>
 
-<paragraph><sentence><sentence>----------</sentence>
-Refreshments will be served from 3:15-<stime>3:30</stime></sentence>.  
+----------
+Refreshments will be served from 3:15-<stime>3:30</stime>.  
 <sentence>Discussion and questions:  4:30-5:00</sentence>.
 <sentence>Everyone in the CMU community is invited to attend</sentence>.
-----------</paragraph>
+----------

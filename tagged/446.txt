@@ -12,13 +12,13 @@ Abstract:
 <paragraph><sentence>All seminars are on Friday at 4, unless otherwise noted</sentence>.  <sentence>Most 
 speakers spend some time in Pittsburgh to find out about ongoing 
 research</sentence>.  <sentence>Please contact <speaker>Barbara Sandling</speaker> if you want to talk to 
-the speaker,</sentence></paragraph>
+the speaker</sentence>,</paragraph>
 
-Peter
------------------
+<sentence>Peter
+----------------</sentence>-
 
-Oct 28
+<sentence>Oct 28</sentence>
 
-<paragraph><sentence>"Computatinal Approaches to Docking Biomolecules"
+"Computatinal Approaches to Docking Biomolecules"
 Art Olson, Scripps Institute 
-Mellon Institute, 3rd Floor Conference Room, <stime>4:00 p.m</stime></sentence>.</paragraph>
+Mellon Institute, 3rd Floor Conference Room, <stime>4:00 p.m</stime>.

@@ -6,13 +6,13 @@ Time:     <stime>3:30 PM</stime>
 PostedBy: copetas+ on 29-Oct-92 at 20:16 from GANDALF.CS.CMU.EDU (Catherine Copetas)
 Abstract: 
 
-<paragraph><sentence>INTEL DISTINGUISHED LECTURE IN TECHNOLOGY:</sentence></paragraph>
+<paragraph><sentence>INTEL DISTINGUISHED LECTURE IN TECHNOLOGY</sentence>:</paragraph>
 
 <paragraph><sentence>THE FUTURE OF COMPUTING
 Monday, November 2, 1992
 Adamson Wing, Baker Hall -- <stime>3:30 pm</stime>
 Reception will follow immediately after the talk</sentence>.
-<sentence>************************************************************************</sentence></paragraph>
+************************************************************************</paragraph>
 
 <paragraph><sentence>David L. House is Senior Vice President of Corporate Strategy</sentence>.  <sentence>As
 a member of Intel's executive staff, he is responsible for Intel's

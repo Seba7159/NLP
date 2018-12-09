@@ -5,7 +5,7 @@ Dates:    30-Mar-93
 Time:     <stime>7:00</stime> - <etime>9:00 PM</etime>
 PostedBy: alf+ on 17-Sep-93 at 12:11 from N3.SP.CS.CMU.EDU (Allan Fisher)
 Abstract:<paragraph> 
-<sentence>Here's the schedule of upcoming Teaching Center seminars for grad students</sentence>.</paragraph>
+Here's the schedule of upcoming Teaching Center seminars for grad students.</paragraph>
 
  From: Rea Freeland 
 
@@ -21,15 +21,15 @@ list for future mailings, please let us know at x8-2896</sentence>.</paragraph>
 
 <paragraph><sentence>University Teaching Center
 Seminars Series for Graduate Students
-"Managing Current Courses, Anticipating Future Roles"</sentence></paragraph>
+"Managing Current Courses, Anticipating Future Roles</sentence>"</paragraph>
 
-ABOUT THE SERIES
+<sentence>ABOUT THE SERIES</sentence>
 
-<paragraph><sentence>"Managing Current Courses, Anticipating Future Roles" is a weekly series of
-interactive seminars designed for graduate students</sentence>.  <sentence>On a pilot basis for
+"Managing Current Courses, Anticipating Future Roles" is a weekly series of
+interactive seminars designed for graduate students.  <sentence>On a pilot basis for
 1993-94, the Teaching Center will offer several  in-depth, three-week
-modules and several one-session special topics on different aspects of
-college teaching and learning</sentence>.  </paragraph>
+<sentence>modules</sentence> and several one-session special topics on different aspects of
+college teaching and learning</sentence>.  
 
 <paragraph><sentence>The modules provide an opportunity for sustained discussion of selected
 topics because we ask you to make a commitment to attend 3 or 4 related
@@ -55,7 +55,7 @@ Associate Director, at x7981 or rf51@andrew.cmu.edu</sentence>.   </paragraph>
 
 MODULES
 
-FALL 1993
+<sentence>FALL 1993</sentence>
 
 <paragraph><sentence>Guiding and Evaluating Student Writing
 March 30, Wednesday, <stime>7:00</stime> - <etime>9:00 PM</etime></sentence></paragraph>

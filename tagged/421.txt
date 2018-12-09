@@ -13,25 +13,25 @@ Abstract:
 		    "Hasta La Vista, Tessellator!"
                     ------------------------------        
 
-<paragraph>			    <sentence>SEI Auditorium
+<paragraph>			    SEI Auditorium
 		December 3 from <stime>11:00 am</stime> to <etime>12:00</etime> noon
 The MSE 92-93 studio team will present a final review of its T2 project,
-the development of software for the Tessellator robot</sentence>. <sentence>The Tessellator 
+the development of software for the Tessellator robot. <sentence>The Tessellator 
 is designed by the Field Robotics Center to service the tiles of NASA's
 Space Shuttles</sentence>. <sentence>The T2 team contributes the positioning system for the
 robot's manipulator and part of the high-level controller</sentence>. </paragraph>
 
-<paragraph><sentence>The presentation will cover two topics:</sentence></paragraph>
+<paragraph><sentence>The presentation will cover two topics</sentence>:</paragraph>
 
-1. Project Summary
+1. <sentence>Project Summary</sentence>
 
-<paragraph>   <sentence>This part will describe the Tessellator project and highlight the 
-   T2 team's contributions</sentence>.</paragraph>
+<paragraph>   This part will describe the Tessellator project and highlight the 
+   T2 team's contributions.</paragraph>
 
-2. Requirements Engineering
+2. <sentence>Requirements Engineering</sentence>
 
-<paragraph>   <sentence>This part will focus on an area the T2 team considers to be crucial
-   in software development: requirements engineering</sentence>. <sentence>The presentation
+<paragraph>   This part will focus on an area the T2 team considers to be crucial
+   in software development: requirements engineering. <sentence>The presentation
    will discuss the challenges faced by the team and the methods (such
    as formal specification and peer reviews) used to tackle the problems</sentence>. </paragraph>
 

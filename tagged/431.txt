@@ -1,7 +1,7 @@
 <0.10.2.94.10.44.07.bag+@BARBARA.ADM.CS.CMU.EDU (Barbara Grandillo).0>
 Type:     cmu.cs.scs
 Who:      <speaker>Guy L. Steele</speaker>, Jr.
-          Thinking Machines Corporation
+          <sentence>Thinking Machines Corporation</sentence>
 Topic:    High Performance Fortran
 Dates:    11-Feb-94
 Time:     <stime>4:00 PM</stime>

@@ -19,5 +19,5 @@ Abstract:
 will be presenting his thoughts on what makes a good interface good</sentence>.  <sentence>He
 hopes the discussion of "necessary conditions" can serve as a source for
 new HCI research ideas</sentence>.  <sentence>Should be a thought-provoking way to transition to
-the summer!</sentence></paragraph>
+the summer</sentence>!</paragraph>
 

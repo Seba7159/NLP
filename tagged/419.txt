@@ -25,16 +25,16 @@ Abstract:
  Host:   Dana Scott (Asst: Rebecca Clark x8-6737)
 
  ABSTRACT: We will demonstrate the sytem "automata" that implements
- finite state machines.  The system consists of a Mathematica package
+ finite state machines.  <sentence>The system consists of a Mathematica package
  together with a special purpose calculator that communicate via
- MathLink.  Most of the standard operations on finite state machines
+ MathLink</sentence>.  <sentence>Most of the standard operations on finite state machines
  are implemented, including the computation of syntactic semigroups and
- their decomposition into D-classes.  Documentation for the system is
+ their decomposition into D-classes</sentence>.  <sentence>Documentation for the system is
  available in the form of Mathematica notebooks as well as in printed
- form.  The "automata" package has been used as a teaching tool in a
- standard graduate course on automata theory.  The finite state machine
+ form</sentence>.  <sentence>The "automata" package has been used as a teaching tool in a
+ standard graduate course on automata theory</sentence>.  <sentence>The finite state machine
  calculator can also operate independently of Mathematica, and is
- helpful in the study of linear cellular automata.
+ helpful in the study of linear cellular automata</sentence>.
 
 <paragraph><sentence>Recent versions of Mathematica are equipped with MathLink, a high-
 level communications protocol that allows one to connect external

@@ -31,7 +31,7 @@ selection criterion</sentence>.  <sentence>I will talk about how we have applied
 to the problem of multiple-object structure/egomotion from uncalibrated
 video, and the problem of object recognition using 2-D aspect models</sentence>.</paragraph>
 
-<paragraph><sentence><sentence>------------------------------------------------------------------------------</sentence>
+------------------------------------------------------------------------------
 If you would like to make an appointment with Alex please feel free to contact
-Patty Mackiewicz via email (patty@cs)</sentence>.  
-------------------------------------------------------------------------------</paragraph>
+Patty Mackiewicz via email (patty@cs).  
+------------------------------------------------------------------------------

@@ -11,7 +11,7 @@ Host:     Hagen Schempf, x6884
 PostedBy: tmeadows on 20-Nov-92 at 08:56 from frc.ri.cmu.edu (Tim Meadows)
 Abstract: 
 
-RI SEMINAR
+<sentence>RI SEMINAR</sentence>
 
  WHEN:		Friday, 20 November 1992, <stime>3:30</stime> - <etime>5:00 PM</etime>
 		Refreshments to be served by 3:15 PM
@@ -28,12 +28,12 @@ RI SEMINAR
 
  HOST:		Hagen Schempf, x6884
 
-<paragraph><sentence>---
+---
 ****************|**************************|**************************
 *               |                          |                         *
-*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ</sentence>.   <sentence>*
+*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ.   *
 *               |                          |                         *
 *412-268-7085   |  Fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
 *               |                          |                         *
-**********************************************************************</sentence></paragraph>
+**********************************************************************
 

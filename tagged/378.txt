@@ -1,4 +1,4 @@
-<0.29.8.91.22.10.28.garlan+@RILA.ABLE.CS.CMU.EDU (David Garlan).0>
+<0.29.8.91.22.10.28.garlan+@RILA.ABLE.CS.CMU.EDU (<sentence>David Garlan</sentence>).0>
 Type:     cmu.cs.scs
 Topic:    Programming Systems Seminar
 Dates:    30-Sep-91
@@ -25,6 +25,6 @@ days before the talk</sentence>. <sentence>I also keep a mailing list of people 
 e-mail</sentence>. <sentence>Programming systems faculty are automatically on the list</sentence>.
 <sentence>If you'd like to be included on the mailing list, too, let me know</sentence>.</paragraph>
 
-<paragraph><sentence>Thanks and mark your calendar!</sentence></paragraph>
+<paragraph><sentence>Thanks and mark your calendar</sentence>!</paragraph>
 
 David Garlan

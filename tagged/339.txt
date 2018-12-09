@@ -8,18 +8,18 @@ PostedBy: jean+ on 05-Nov-91 at 12:34 from A.GP.CS.CMU.EDU (Jean Harpley)
 Abstract: 
                                                               Special Seminar
 
-<paragraph>                      <sentence>RECONFIGURABLE LEARNING MACHINES:
-              A NEW SYMBIOSIS OF THE DISCRETE AND THE CONTINUOUS</sentence></paragraph>
+<paragraph>                      RECONFIGURABLE LEARNING MACHINES:
+              A NEW SYMBIOSIS OF THE DISCRETE AND THE CONTINUOUS</paragraph>
 
                                  Lev Goldfarb
                          Faculty of Computer Science
                          University of New Brunswick
                           Fredericton,  NB,  CANADA
 
-<paragraph>                              <sentence>Monday, November 18
+<paragraph>                              Monday, November 18
                               <stime>4:00 PM</stime>,  Wean 4605
 Reconfigurable learning machines are embodiments of the Evolving Transformation
-Systems (ETS), a new mathematical model proposed resently by the speaker</sentence>. <sentence>The
+Systems (ETS), a new mathematical model proposed resently by the speaker. <sentence>The
 development of the ETS was motivated by the unification of the two basic
 analytical paradigms, continuous and discrete: one, in which the objects are
 represented as elements of a finite-dimensional vector space, and the other,

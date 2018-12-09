@@ -8,13 +8,13 @@ Abstract:
 
                                 DR. MARK WEISER
 
-<paragraph>                                     <sentence>XEROX
-                           Palo Alto Research Center</sentence></paragraph>
+<paragraph>                                     XEROX
+                           Palo Alto Research Center</paragraph>
 
-<paragraph>                           <sentence>Thursday, October 7, 1993
+<paragraph>                           Thursday, October 7, 1993
                                     <stime>4:00 PM</stime>
                                 <location><speaker>Wean Hall</speaker> 7500</location>
-			      UBIQUITOUS COMPUTING</sentence></paragraph>
+			      UBIQUITOUS COMPUTING</paragraph>
 
 <paragraph><sentence>Inspired  by  the social scientists, philosophers, and anthropologists at PARC,
 we have been trying to take a radical look at what computing ought to be  like</sentence>.
@@ -23,7 +23,7 @@ muscle memory, 3-d body surround; and that people live through their  practices
 and  tacit  knowledge  so  that  the  most  powerful  things are those that are
 effectively invisible in use</sentence>.  <sentence>How  can  we  make  everyday  computing  conform
 better  to these principles of human effectiveness, while avoiding the traps of
-virtual reality ?</sentence>  <sentence>Our approach:</sentence></paragraph>
+virtual reality </sentence>?  <sentence>Our approach</sentence>:</paragraph>
 
 <paragraph><sentence>Activate the world</sentence>.  <sentence>Provide hundreds of wireless computing devices per  person
 per  office, of all scales (from 1" displays to wall sized)</sentence>. <sentence>We are doing O.S.,

@@ -7,13 +7,13 @@ PostedBy: cae+ on 14-Jun-95 at 14:10 from CAE.ADM.CS.CMU.EDU (Colleen A Everett)
 Abstract: 
 
 <paragraph><sentence>Hosted by Matt Mason
----------------------------------------------------------------------------</sentence></paragraph>
+--------------------------------------------------------------------------</sentence>-</paragraph>
 
-<paragraph>     <sentence>Complementarity Formulations of Multi-rigid-body Contact Problems
+<paragraph>     Complementarity Formulations of Multi-rigid-body Contact Problems
                          Friday, June 16 at <stime>3:00pm</stime>
                                <location>Wean Hall 5409</location>
                                 Jeff Trinkle
-                         Dept</sentence>. <sentence>of Computer Science
+                         Dept. <sentence>of Computer Science
                             Texas A&M University
                      College Station, Texas 77843-3112
                            Email: trink@cs.tamu.edu</sentence></paragraph>

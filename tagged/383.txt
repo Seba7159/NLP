@@ -15,18 +15,18 @@ Abstract:
 
 			  Computer Graphics Snacks
 
-<paragraph>			       <sentence>Paul Haeberli
-			   Silicon Graphics Inc</sentence></paragraph>
+<paragraph>			       Paul Haeberli
+			   Silicon Graphics Inc</paragraph>
 
-<paragraph>    <sentence>Leep Projection  Cheezy Stereo  Reflection Maps Six  Point Perspective
+<paragraph>    Leep Projection  Cheezy Stereo  Reflection Maps Six  Point Perspective
     Abstract Representations  Font Painting & Mesh Warping  Image Cloning 
         Mutation & Selection  Parametric Design  Tiny Pix  X-Ray Views  
-    			Marbled Paper  Digital Lighting</sentence></paragraph>
+    			Marbled Paper  Digital Lighting</paragraph>
 
-<paragraph>	    <sentence>As an alternative to complex and fattening topics in
+<paragraph>	    As an alternative to complex and fattening topics in
 	    computer graphics I'll show and talk about several 
 	    little projects I've been exploring over the last few 
-	    years</sentence>.  <sentence>We'll look at techniques for making hidden 
+	    years.  <sentence>We'll look at techniques for making hidden 
 	    line drawings of geometric objects</sentence>.  <sentence>I'll talk about
 	    making and using reflection maps, a simple paint 
 	    program for typeface design, and various image warping 

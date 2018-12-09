@@ -11,12 +11,12 @@ Abstract:
 
             	A Special Robotics Seminar
 
-<paragraph>	<sentence>CONTROL SYSTEM CHALLENGES ASSOCIATED WITH
- THE MOBILE SERVICING SYSTEM FOR SPACE STATION FREEDOM</sentence></paragraph>
+<paragraph>	CONTROL SYSTEM CHALLENGES ASSOCIATED WITH
+ THE MOBILE SERVICING SYSTEM FOR SPACE STATION FREEDOM</paragraph>
 
-<paragraph>		<sentence>Patrick T. K. Fung
+<paragraph>		Patrick T. K. Fung
 	Advanced Technology Systems Group
-           Spar Aerospace Ltd., Canada</sentence></paragraph>
+           Spar Aerospace Ltd., Canada</paragraph>
 
  Date:        Oct 17, (Thursday)
  Time:        <stime>1:30</stime>-<etime>2:30pm</etime>

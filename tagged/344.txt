@@ -6,11 +6,11 @@ Time:     <stime>3:30 PM</stime>
 PostedBy: tmeadows on 11-Feb-92 at 16:00 from frc2.frc.ri.cmu.edu (Tim Meadows)
 Abstract: 
 
-<paragraph>                      <sentence>February 14, 1992
+<paragraph>                      February 14, 1992
                      <stime>3:30pm</stime>  -- <location>WeH 5409</location>
 In many applications such as geometric modeling and data compression, 
 there arises the need to construct sparse approximations to discrete 
-or piecewise linear curves and functions</sentence>.
+or piecewise linear curves and functions.
 <sentence>We consider such approximations with respect to several distance measures:
 the Chebyshev distance for functions, and the Hausdorff distance and
 parametric distance for curves</sentence>.
@@ -23,5 +23,5 @@ walk along curve A, and your dog walked along curve B, without backing up</sente
 <sentence>We present efficient algorithms for several problems in this context,
 and state some open problems</sentence>.</paragraph>
 
-Joint work with J. Ruppert of the University of California, Berkeley.
+<sentence>Joint work with J. Ruppert of the University of California, <speaker>Berkeley</speaker></sentence>.
 ***********************************************************************

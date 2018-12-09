@@ -15,11 +15,11 @@ Abstract:
 			   Teruko Mitamura
 		    Center for Machine Translation
 
-<paragraph>			 <sentence>Tuesday, November 24
+<paragraph>			 Tuesday, November 24
 			   <stime>4:00 pm</stime> <location>UCC 279</location>
 Large-scale knowledge-based machine translation requires significant
 amounts of lexical knowledge in order to map syntactic structures to
-conceptual structures</sentence>. <sentence>In my talk I will present a framework in which
+conceptual structures. <sentence>In my talk I will present a framework in which
 lexical knowledge is separated into different levels of representation,
 arranged in a hierarchical model based on principles of knowledge
 representation and lexical semantics</sentence>. <sentence>The proposed methodology is

@@ -48,14 +48,14 @@ experimental results are compared to the simulation</sentence>.  <sentence>Based
 experiments and simulation, control solutions are presented for various
 regions of uncertainty in positioning</sentence>.</paragraph>
 
-[1] J.L. Nevins and D.E. Whitney. Assembly Research. Factory
-    Automation, 2, 1980.
+[1] J.L. <sentence>Nevins and D.E</sentence>. <sentence>Whitney</sentence>. <sentence>Assembly Research</sentence>. <sentence>Factory
+    Automation, 2, 1980</sentence>.
 
 ===============================================================================
  Bio:
 
-<paragraph> <sentence><speaker>Ed Nicolson</speaker> received his bachelor's degree in Electrical Engineering and
- Computer Science from Princeton University in 1987</sentence>.  <sentence>After spending a year
+<paragraph> <speaker>Ed Nicolson</speaker> received his bachelor's degree in Electrical Engineering and
+ Computer Science from Princeton University in 1987.  <sentence>After spending a year
  marketing data acquisition software at Lotus Development Corp., he moved on
  to greener pastures at U.C</sentence>. <sentence>Berkeley where he received his Master's degree
  in Electrical Engineering in 1990 and expects his Ph.D. in December 1993</sentence>.</paragraph>

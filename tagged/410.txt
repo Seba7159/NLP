@@ -14,10 +14,10 @@ Abstract:
  Deptartment of Computer Science
  Washington University, St. Louis
 
-September 21, 1993
+<sentence>September 21, 1993
 <stime>3:30 p.m</stime>.
 4623 Wean Hall
-ARGUMENT AND ARBITRATION GAMES
+ARGUMENT AND ARBITRATION GAMES</sentence>
 
 <paragraph><sentence>We begin with two points about modeling reasoning that Herbert Simon
 and Nicholas Rescher made well, but which were lost in the AI shuffle:

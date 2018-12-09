@@ -6,11 +6,11 @@ Time:     <stime>1:30</stime>
 PostedBy: alf+ on 13-Mar-92 at 08:21 from N3.SP.CS.CMU.EDU (Allan Fisher)
 Abstract: 
 
-Monday the 16th, <stime>1:30</stime> in 5409:
+<sentence>Monday the 16th, <stime>1:30</stime> in 5409:
 	Bandwidth Balancing and Priority Mechanism
-	in a DQDB MAN --- Problems and Solutions
+	in a DQDB MAN --- Problems and Solutions</sentence>
 
-<paragraph>		       <sentence><speaker>Juergen Roethig</speaker>
+<paragraph>		       <speaker>Juergen Roethig</speaker>
 	Institute of Telematics, University of Karlsruhe
 	D-7500 Karlsruhe 1, Federal Republic of Germany
- 		Email: jroethig@ira.uka.de</sentence></paragraph>
+ 		Email: jroethig@ira.uka.de</paragraph>

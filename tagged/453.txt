@@ -15,9 +15,9 @@ Abstract:
 
  			MATHEMATICS COLLOQUIUM
 
- Speaker:  <speaker>Professor N.G. de Bruijn</speaker> 
+ Speaker:  Professor N.G. <sentence>de Bruijn 
  	  Eindhoven University of Technology,
-           Eindhoven, The Netherlands
+           Eindhoven, The Netherlands</sentence>
 
  Date:     Thursday, November 21
 

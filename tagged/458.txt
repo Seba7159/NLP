@@ -12,32 +12,32 @@ Abstract:
 
                          Friday, February 17, 1995
 
-<paragraph>                    <sentence>WeH <location>8220</location>      <stime>3:30 p.m</stime>. - <etime>5:00 p.m.</etime>
+<paragraph>                    <location>WeH 8220</location>      <stime>3:30 p.m</stime>. - <etime>5:00 p.m.</etime>
      One  price  paid  for  using  a  typed  language  for  writing an
      interpreter is that it will typically have to encode  the  values
      of  the  interpreted  program explicitly into one universal type,
-     Val</sentence>.</paragraph>
+     Val.</paragraph>
 
-<paragraph>     <sentence>Since Val will be visible from the type of the interpreter (e.g.,
+<paragraph>     Since Val will be visible from the type of the interpreter (e.g.,
      Prg  x  Val  ->  Val  for a simple one) programs derived from the
      interpreter by using, i.e., partial evaluation will  inherit  the
-     universal  type  and perform repeated projections and injections</sentence>.
+     universal  type  and perform repeated projections and injections.
      <sentence>That is certainly not what we want</sentence>.</paragraph>
 
-<paragraph>     <sentence>However, a study of a typical derived program shows  that  it  is
-     not  possible  to improve much without further information</sentence>.  <sentence>This
+<paragraph>     However, a study of a typical derived program shows  that  it  is
+     not  possible  to improve much without further information.  <sentence>This
      is where the context of the program comes in</sentence>.  <sentence>A  "context"  here
      is  a  description  of  the  input  --  in  the form of a grammer
      defining a subset of all possible Val values  --  and  a  similar
      description of the output</sentence>.</paragraph>
 
-<paragraph>     <sentence>In  words,  the  context makes certain promises about the form of
-     the input and the output</sentence>.  <sentence>In the <speaker>case</speaker> of residual programs  from
+<paragraph>     In  words,  the  context makes certain promises about the form of
+     the input and the output.  <sentence>In the <speaker>case</speaker> of residual programs  from
      partial evaluation it is trivial to create good contexts</sentence>.</paragraph>
 
-<paragraph>     <sentence>From  the  context it is possible to identify operations that are
-     not needed</sentence>.  <sentence>This can result in drastic  improvements,  at  least
+<paragraph>     From  the  context it is possible to identify operations that are
+     not needed.  <sentence>This can result in drastic  improvements,  at  least
      with pen-and-paper examples</sentence>.</paragraph>
 
-      Note:   We welcome Morten to our department.  He will be visiting
-      with Peter Lee for six months.
+      Note:   We welcome Morten to our department.  <sentence>He will be visiting
+      with Peter Lee for six months</sentence>.

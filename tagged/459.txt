@@ -22,7 +22,7 @@ Abstract:
 
      A Self-Organizing Neural Network Model of the Primary Visual Cortex
 
-<paragraph>                                <sentence>presented by</sentence></paragraph>
+<paragraph>                                presented by</paragraph>
 
                              Risto Miikkulainen
                       Department of Computer Science

@@ -7,12 +7,12 @@ Host:     David Garlan
 PostedBy: cary+ on 13-Apr-92 at 13:47 from CARY.ADM.CS.CMU.EDU (<speaker>Cary Lund</speaker>)
 Abstract: 
 
-<paragraph>                       <sentence>VISITING SPEAKER</sentence></paragraph>
+<paragraph>                       VISITING SPEAKER</paragraph>
 
-<paragraph>                      <sentence>Thursday, April 16
-                             <stime>1 pm</stime></sentence>.
-                        <sentence>4623 Wean Hall
-     "INTEGRATING SYNTAXES AND THEIR ASSOCIATED SEMANTICS"</sentence></paragraph>
+<paragraph>                      Thursday, April 16
+                             <stime>1 pm</stime>.
+                        <location>4623 Wean Hall</location>
+     "INTEGRATING SYNTAXES AND THEIR ASSOCIATED SEMANTICS"</paragraph>
 
                           David Wile
                               ISI
@@ -30,8 +30,8 @@ idiosyncratic language  to  solve  his  problem</sentence>.    <sentence>Hence, 
 creative activity can be localized to concerns with the problem
 domain rather than the  supporting  language  fabric,  such  as
 expressions, statements, and procedures</sentence>.
-<sentence>---------------------------------------------------------------
- Host: David Garlan</sentence></paragraph>
+---------------------------------------------------------------
+ Host: David Garlan</paragraph>
 
 <paragraph><sentence>If  you  are interested in speaking with David Wile while he is
 here on Thursday April 16th, please send e-mail to <speaker>Cary Lund</speaker> at

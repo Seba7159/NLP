@@ -6,13 +6,13 @@ Time:     <stime>3:30</stime> - <etime>5:00 PM</etime>
 Host:     Phil Miller
 PostedBy: Kathleen P. Kowalski on 22-Mar-94 at 08:58 from andrew.cmu.edu
 Abstract:<paragraph> 
-<sentence>Just a reminder that tomorrow's HCI Seminar will be as follows:</sentence></paragraph>
+Just a reminder that tomorrow's HCI Seminar will be as follows:</paragraph>
 
-Programmable Applications for Scientists and Artists
+<sentence>Programmable Applications for Scientists and Artists</sentence>
 
-Mike Eisenberg
+<sentence>Mike Eisenberg
 Department of Computer Science and Institute of Cognitive Science
-University of Colorado, Boulder
+University of Colorado, Boulder</sentence>
 
 <paragraph><sentence>Wednesday, March 23
 <speaker>Wean Hall</speaker> 5409

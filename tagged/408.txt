@@ -10,15 +10,15 @@ Abstract:
 			The TERA Computer System
 		             Burton J. Smith
 
-<paragraph> 		       <sentence>Pittsburgh Supercomputing Center
-                          Mellon Institute Bldg</sentence>.
+<paragraph> 		       Pittsburgh Supercomputing Center
+                          Mellon Institute Bldg.
 			<sentence>Third Floor Conference Room             
 				Oct 11, <stime>4:00 p.m</stime></sentence>.</paragraph>
 
-<paragraph><sentence>(If you don't know where this room is, meet at 3:45 p.m. at the 5th floor 
-entrance and we can walk over together.)</sentence></paragraph>
+(If you don't know where this room is, meet at 3:45 p.m. at the 5th floor 
+entrance and we can walk over together.)
 
-<paragraph>          <sentence>The TERA Computer System is a scalable shared memory MIMD computer</sentence>.
+<paragraph>          The TERA Computer System is a scalable shared memory MIMD computer.
 	  <sentence>Although it has no vector instructions, the 256 processor version
 	  will have peak performance of about 300 GFLOPS</sentence>.  <sentence>The arithmetic
 	  will conform to IEEE standard 754</sentence>.  <sentence>The system's I/O cache, used 
@@ -32,12 +32,12 @@ entrance and we can walk over together.)</sentence></paragraph>
 	  customer benchmarking in first quarter 1991</sentence>.  <sentence>First system 
 	  deliveries are scheduled for fourth quarter 1993</sentence>.</paragraph>
 
-<paragraph>	  <sentence>The talk will describe the overall architecture of the system and
+<paragraph>	  The talk will describe the overall architecture of the system and
 	  its hardware implementation; the programming environment and
 	  associated tools; the operating system, including the file system;
-	  and the company's status and long-range plans</sentence>.</paragraph>
+	  and the company's status and long-range plans.</paragraph>
 
-<paragraph><sentence>-----
-Burton Smith is the president of Tera Inc</sentence>.   <sentence>Previously, he was the chief
+-----
+Burton Smith is the president of Tera Inc.   <sentence>Previously, he was the chief
 architect of the HEP computer, a "barrel processor" introduced in the mid
-80's</sentence>.</paragraph>
+80's</sentence>.

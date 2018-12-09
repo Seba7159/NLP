@@ -21,9 +21,9 @@ Abstract:
 
  TITLE:    FINE MOTION PLANNING FOR DEXTEROUS MANIPULATION
 
-<paragraph>         <sentence>*Those wishing to meet and talk with <speaker>Daniela Rus</speaker> can schedule
+         *Those wishing to meet and talk with <speaker>Daniela Rus</speaker> can schedule
           an appointment with Phyliss Pomerantz, by calling 7897 or sending
-          e-mail to plp@cs</sentence></paragraph>
+          e-mail to plp@cs
 
 <paragraph><sentence>Dexterity is an important feature for robots that 
 operate intelligently and independently in their environment</sentence>.

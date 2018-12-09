@@ -6,21 +6,21 @@ Time:     <stime>4:30 PM</stime>
 PostedBy: Julio Ken Rosenblatt on 24-Jan-94 at 19:57 from IUS5.IUS.CS.CMU.EDU
 Abstract: 
 
-<paragraph><sentence>---------------- Begin Forwarded Message ----------------</sentence></paragraph>
+---------------- Begin Forwarded Message ----------------
 
-In article <+cmu.andrew.assocs.gso+ohF3hmi00UfAA0vFNd@andrew.cmu.edu>,
-Tse-Sung Wu  writes:
+<sentence>In article <+cmu.andrew.assocs.gso+ohF3hmi00UfAA0vFNd@andrew.cmu.edu>,
+Tse-Sung Wu  writes</sentence>:
 
 <paragraph><sentence>The next Engineering & Public Policy departmental seminar will take place</sentence></paragraph>
 
-<paragraph>                     <sentence>Thursday, January 27 at <stime>4:30 pm</stime>, 
+<paragraph>                     Thursday, January 27 at <stime>4:30 pm</stime>, 
              in the <location>EPP conference room</location>, located in BH-129
                          Professor Don Fullerton
                                Heinz School
               Household Demand for Garbage and Recycling Collection
-                    with the Start of a Price per Bag</sentence></paragraph>
+                    with the Start of a Price per Bag</paragraph>
 
-<paragraph>                        <sentence>**All are invited to attend**</sentence></paragraph>
+                        **All are invited to attend**
 
 <paragraph><sentence>This paper estimates household reaction to the implemenation of a
 volume-based pricing program for the collecion of residential garbage</sentence>. 
@@ -46,20 +46,20 @@ reduction in garbage observed at the curb</sentence>.</paragraph>
 ________
 Also, please note the next seminar is scheduled for</sentence> </paragraph>
 
-<paragraph>                          <sentence>Thursday, February 3, 1994
+<paragraph>                          Thursday, February 3, 1994
                                <speaker>Dr. Daniel Reed</speaker>
                           Post-Doctoral Researcher
-                               Dept</sentence>. <sentence>of EPP</sentence> </paragraph>
+                               Dept. <sentence>of EPP</sentence> </paragraph>
 
                            "Predicting Preferences"
 
-Upcoming...
+<sentence>Upcoming..</sentence>.
 
-February 10: Milind Kandlikar, PhD Candidate, EPP
+<sentence>February 10: Milind Kandlikar, PhD Candidate, EPP
 February 17: Lara Wolfson, PhD Candidate, Statistics
-February 24: TBA 
+February 24: TBA</sentence> 
 
-<paragraph><sentence>___________
-Please direct all inquiries to Tse-Sung (tw1u) or Charlie (cl3e)</sentence></paragraph>
+___________
+Please direct all inquiries to Tse-Sung (tw1u) or Charlie (cl3e)
 
-<paragraph><sentence>---------------- End Forwarded Message ----------------</sentence></paragraph>
+---------------- End Forwarded Message ----------------

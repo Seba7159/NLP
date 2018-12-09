@@ -17,8 +17,8 @@ RI SEMINAR  CORRECTION
 
  WHERE:	<location>DOHERTY HALL 2315 (NOTE ROOM)</location>
 
- SPEAKER: <speaker>DR. Yuan F. Zheng</speaker> - Dept. Electrical Engineering
- 	Ohio State University
+ SPEAKER: <speaker>DR. Yuan F. Zheng</speaker> - Dept. <sentence>Electrical Engineering
+ 	Ohio State University</sentence>
 
 <paragraph><sentence>The most difficult problem to develop an autonomous biped robot is
 the programming of the biped walking gaits, especially when the
@@ -51,12 +51,12 @@ robot needs to negotiate different terrain</sentence>.  <sentence>A Neural Gait
 
 <paragraph><sentence>HOSTED BY: HAGEN SCHEMPF, x6884</sentence></paragraph>
 
-<paragraph><sentence>***************************************************************
+***************************************************************
 --
 ****************|**************************|**************************
 *               |                          |                         *
-*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ</sentence>.   <sentence>*
+*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ.   *
 *               |                          |                         *
 *412-268-7085   |  Fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
 *               |                          |                         *
-**********************************************************************</sentence></paragraph>
+**********************************************************************

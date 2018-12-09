@@ -16,8 +16,8 @@ Abstract:
  Title:    Control Strategies for Intermittent Dynamic Tasks
  Date:	  April 26, 1991
  Time:     <stime>3:30 p.m</stime>. until 4:30 p.m.
- Location: <location>Baker Hall, Adamson Wing</location>
- Host:     Michael Erdmann, x7883
+ <sentence>Location: <location>Baker Hall, Adamson Wing</location>
+ Host:     Michael Erdmann, x7883</sentence>
 
 <paragraph><sentence>Running and juggling are examples of intermittent dynamic tasks</sentence>.  <sentence>That
 is, they require a manipulator alternately to be in contact with and
@@ -33,12 +33,12 @@ for the inevitable impact</sentence>.</paragraph>
 
 <paragraph><sentence>How well do established control laws for running and juggling fit with
 this idea of alternately establishing initial conditions and preparing
-for impact?</sentence>  <sentence>I'll discuss Marc Raibert's control law for running that
+for impact</sentence>?  <sentence>I'll discuss Marc Raibert's control law for running that
 decomposes the problem along the degrees of freedom of the mechanism,
 and Martin Buhler's use of a "mirror" algorithm for juggling</sentence>.</paragraph>
 
-<paragraph><sentence><sentence>----------</sentence>
-Refreshments will be served from 3:15-<stime>3:30</stime></sentence>.  
+----------
+Refreshments will be served from 3:15-<stime>3:30</stime>.  
 <sentence>Discussion and questions:  4:30-5:00</sentence>.
 <sentence>Everyone in the CMU community is invited to attend</sentence>.
-----------</paragraph>
+----------

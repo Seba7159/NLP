@@ -15,7 +15,7 @@ Abstract:
 
 <paragraph><sentence>Jeff Kerr will be in the Manipulation Lab in the late morning,
 chatting about research</sentence>.   <sentence>If you don't have a scheduled appointment
-and would like to chat with Jeff feel free to drop by</sentence>.  <sentence>--- Mike</sentence></paragraph>
+and would like to chat with Jeff feel free to drop by</sentence>.  --- Mike</paragraph>
 
 ------------------------------------------------------------------------------
 

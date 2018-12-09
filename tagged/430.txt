@@ -52,9 +52,9 @@ subsumption and of blocking rules for avoiding redundant
 inferences</sentence>. <sentence>Benchmarks with our prototype implementation
 will also be discussed</sentence>. </paragraph>
 
-Joint work with L. Bachmair, H. Ganzinger, and C. Lynch
+<sentence>Joint work with L. Bachmair, H. Ganzinger, and C. Lynch</sentence>
 
 ---------------
  Host:  Stephen D. Brookes
 
-Appts. through Marian D'Amico, marian@spice, x7665
+<sentence>Appts</sentence>. <sentence>through Marian D'Amico, marian@spice, x7665</sentence>

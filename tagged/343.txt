@@ -1,7 +1,7 @@
 <0.05.12.91.21.00.13.me@H.GP.CS.CMU.EDU (Michael Erdmann).0>
 Type:     Robotics Seminar
 Who:      <speaker>James Driscoll</speaker>
-Topic:    <sentence>There is more to life than the FFT</sentence>
+Topic:    There is more to life than the FFT
 Dates:    6-Dec-91
 Time:     <stime>3:30</stime>
 Place:    <location>Adamson Wing, Baker Hall</location>
@@ -14,7 +14,7 @@ Abstract:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
    Friendly Reminder:
 
-<paragraph>   <sentence>Thanks to Danny Sleator there will be a Robotics Seminar tomorrow</sentence>.</paragraph>
+<paragraph>   Thanks to Danny Sleator there will be a Robotics Seminar tomorrow.</paragraph>
 
     Refreshments: 3:15
     Talk:         <stime>3:30</stime>
@@ -31,10 +31,10 @@ Abstract:
 
 <paragraph>                  There is more to life than the FFT</paragraph>
 
-<paragraph>                            <sentence><speaker>James Driscoll</speaker>
+<paragraph>                            <speaker>James Driscoll</speaker>
                                Dartmouth
                       Friday, December 6, <stime>3:30</stime>-5:00
-                        <location>Adamson Wing, Baker Hall</location></sentence></paragraph>
+                        <location>Adamson Wing, Baker Hall</location></paragraph>
 
 <paragraph><sentence>The FFT is an important engineering tool, but its applicability is not
 universal</sentence>.  <sentence>Its utility comes from simplifying operators with a

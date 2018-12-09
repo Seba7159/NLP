@@ -5,7 +5,7 @@ Dates:    29-Sep-94
 Time:     <stime>3:00 PM</stime>
 PostedBy: valdes+ on 28-Sep-94 at 13:22 from CS.CMU.EDU (Raul Valdes-Perez)
 Abstract:<paragraph> 
-<sentence><speaker>Ken Forbus</speaker> of Northwestern University will give a seminar on</sentence> </paragraph>
+<speaker>Ken</speaker> Forbus of Northwestern University will give a seminar on </paragraph>
 
  "Articulate Virtual Laboratories for Engineering Education"
 

@@ -6,14 +6,14 @@ Time:     <stime>3:30</stime> - <etime>5:00</etime>
 PostedBy: sleator+ on 03-Dec-91 at 15:47 from SPADE.PC.CS.CMU.EDU (Daniel Sleator)
 Abstract: 
 
-<paragraph>                  <sentence>There is more to life than the FFT</sentence></paragraph>
+<paragraph>                  There is more to life than the FFT</paragraph>
 
-<paragraph>                            <sentence>James Driscoll
+<paragraph>                            James Driscoll
                                Dartmouth
                       Friday, December 6, <stime>3:30</stime>-<etime>5:00</etime>
                         <location>Adamson Wing</location>, Baker Hall
 The FFT is an important engineering tool, but its applicability is not
-universal</sentence>.  <sentence>Its utility comes from simplifying operators with a
+universal.  <sentence>Its utility comes from simplifying operators with a
 translational symmetry (i.e</sentence>. <sentence>linear translation invariant operators,
 convolution operators, or toeplitz matrices, depending on your bias)</sentence>.
 <sentence>However, many problems in physics and engineering possess spherical

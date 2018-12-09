@@ -27,37 +27,37 @@ Abstract:
 image storage, and image processing now permit us to implement several
 concepts for 3D-sterescopic television (and computer workstations), many
 of which have been around, unimplementable, for a long time</sentence>.  <sentence>In this
-talk I will:</sentence></paragraph>
+talk I will</sentence>:</paragraph>
 
-<paragraph>  <sentence>-- review the fundamentals of binocular 3D-stereoscopic vision</sentence></paragraph>
+  -- review the fundamentals of binocular 3D-stereoscopic vision
 
-<paragraph>  <sentence>-- review historical approaches to 3D-image and 3D-stream pair display</sentence></paragraph>
+  -- review historical approaches to 3D-image and 3D-stream pair display
 
-<paragraph>  <sentence>-- narrow the discussion to approaches that use a single more-or-less flat
-     screen (like a TV or workstation monitor)</sentence></paragraph>
+  -- narrow the discussion to approaches that use a single more-or-less flat
+     screen (like a TV or workstation monitor)
 
-<paragraph>  <sentence>-- describe my group's research in several areas:</sentence></paragraph>
+  -- describe my group's research in several areas:
 
      ** the physics of re-creating naked-eye and augmented-eye reality
 
-<paragraph>     <sentence>** the state-of-the-art in video: delivering the full spatial and
-        temporal resolution of an NTSC stream per eye</sentence></paragraph>
+     ** the state-of-the-art in video: delivering the full spatial and
+        temporal resolution of an NTSC stream per eye
 
-<paragraph>     <sentence>** three increasingly sophisticated approaches to presenting video
-        and/or computer graphics on a workstation</sentence></paragraph>
+     ** three increasingly sophisticated approaches to presenting video
+        and/or computer graphics on a workstation
 
-<paragraph>        <sentence>~~ a well known special purpose hardware based full-screen,
-           half spatial resolution approach</sentence></paragraph>
+        ~~ a well known special purpose hardware based full-screen,
+           half spatial resolution approach
 
-<paragraph>        <sentence>~~ our adaptation of this approach to an X-Windows environment,
-           still full screen</sentence></paragraph>
+        ~~ our adaptation of this approach to an X-Windows environment,
+           still full screen
 
-<paragraph>        <sentence>~~ our new "Stereo-in-Windows" approach, which allows arbitrary
+        ~~ our new "Stereo-in-Windows" approach, which allows arbitrary
            mixes of stereo and flat XWindows on one screen at one time
-           at full resolution</sentence></paragraph>
+           at full resolution
 
-<paragraph>     <sentence>** progress in the (I will show you: related) areas of image compression,
-        intermediate view interpolation, and user-adjustable stereopsis</sentence></paragraph>
+     ** progress in the (I will show you: related) areas of image compression,
+        intermediate view interpolation, and user-adjustable stereopsis
 
-<paragraph>  <sentence>-- demonstrate as much of this as it is practical to set up in the Adamson
-     Wing auditorium [TBD]</sentence>.</paragraph>
+  -- demonstrate as much of this as it is practical to set up in the Adamson
+     Wing auditorium [TBD].

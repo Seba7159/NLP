@@ -13,11 +13,11 @@ Abstract:
  Type:     AI Seminar
  Who:      <speaker>Oren Etzioni</speaker> / University of Washington
  Topic:    Learning to Understand Information on the Internet.
- Dates:    7-Mar-95
+ <sentence>Dates:    7-Mar-95
  Time:     <stime>3:30 p.m</stime>.
  Place:    <location>5409 Wean Hall</location>
  Duration: 1 1/2 hours
- Host:     Raul Valdes-Perez
+ Host:     Raul Valdes-Perez</sentence>
 
  Title: Learning to Understand Information on the Internet.
 

@@ -12,14 +12,14 @@ Abstract:
 
                                   SEMINAR
 
-<paragraph>    <sentence>The Pittsburgh Supercomputing Center (PSC) is hosting a seminar titled:</sentence></paragraph>
+<paragraph>    The Pittsburgh Supercomputing Center (PSC) is hosting a seminar titled:</paragraph>
 
         ***Computational Materials Science:  The Dawn of a New Age***
 
-<paragraph>                                <sentence>presented by
+<paragraph>                                presented by
                              <speaker>Arthur J</speaker>.  Freeman
                      Department of Physics and Astronomy
-                           Northwestern University</sentence></paragraph>
+                           Northwestern University</paragraph>
 
 <paragraph><sentence>Advances in computational electronic structure methods combined with those in
 computer hardware (and software) have led to the development of a new branch

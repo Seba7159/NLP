@@ -1,6 +1,6 @@
 <0.19.10.92.13.54.54.tmeadows@resumix.portal.com (Tim Meadows).0>
 Type:     cmu.cs.scs
-Who:      <speaker>Asst. Professor Harold L. Alexander</speaker>
+Who:      <speaker>Asst.</speaker> <sentence>Professor Harold L. Alexander</sentence>
 Topic:    Research in Teleoperated and Cooperative Control 
           of Free-Flying Space Robots
 Dates:    23-Oct-92
@@ -17,7 +17,7 @@ Abstract:
 
  WHERE:	<location>Baker Hall Adamson Wing</location>
 
- SPEAKER:	<speaker>Asst. Professor Harold L. Alexander</speaker>
+ SPEAKER:	<speaker>Asst.</speaker> Professor Harold L. Alexander
 
  TITLE:	Research in Teleoperated and Cooperative Control 
  	of Free-Flying Space Robots
@@ -33,21 +33,21 @@ systems and helmet-mounted displays, and to find ways to improve operator percep
 
  HOST:	Hagen Schempf, x6884
 
-<paragraph><sentence>---
+---
 ****************|**************************|**************************
 *               |                          |                         *
-*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ</sentence>.   <sentence><sentence>*
+*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ.   *
 *               |                          |                         *
 *412-268-7085   |  Fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
 *               |                          |                         *
-**********************************************************************</sentence></sentence></paragraph>
+**********************************************************************
 
-<paragraph><sentence>---
+---
 ****************|**************************|**************************
 *               |                          |                         *
-*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ</sentence>.   *
+*Tim Meadows    |  Field Robotics Center   | Carnegie Mellon Univ.   *
 *               |                          |                         *
 *412-268-7085   |  Fax: 412-682-1793       | tmeadows@frc.ri.cmu.edu *
 *               |                          |                         *
-**********************************************************************</paragraph>
+**********************************************************************
 

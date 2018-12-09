@@ -21,9 +21,9 @@ Abstract:
  date:	 Tuesday, February 23, 1993, <stime>3:30</stime>-<etime>4:30</etime>
 	 refreshments at 3:15
 
-PART 1:
+<sentence>PART 1:
 		    BEZIER-MINKOWSKI METAMORPHOSIS
-		     (joint work with Anil Kaul)
+		     (joint work with Anil Kaul</sentence>)
 
 <paragraph><sentence>The interpolation between two solids offers a new tool for designing
 and modifying shapes and an intuitive metaphor for specifying and
@@ -54,8 +54,8 @@ above technique to offer easy to use additional control over the
  sequence of arbitrary control polyhedra and demonstrate its
  applications to animation and design</sentence>.</paragraph>
 
-PART 2:
-                   INTERACTIVE GEOMETRIC MODELING
+<sentence>PART 2:
+                   INTERACTIVE GEOMETRIC MODELING</sentence>
 
 <paragraph><sentence>Increased compute power and emerging graphics capabilities available
 in commercial workstations make it possible to extend the interactive
@@ -69,32 +69,32 @@ inspecting complex models and their internal structures</sentence>.</paragraph>
 <paragraph><sentence>The speaker will overview several ongoing projects in the Interactive
 Geometric Modeling group at IBM Research and will illustrate them with
 video segments</sentence>.
- <sentence>- Space deformations that interpolate multiple point-displacement
+ - Space deformations that interpolate multiple point-displacement
 constraints have been used by P. Borrel, D. Bechmann, and A. Rappoport
 to provide an interactive environment for editing ("sculpting")
-free-form shapes and for animating their deformations</sentence>.
- <sentence>- ABCSG, a hypertext, direct-manipulation front-end for solid
+free-form shapes and for animating their deformations.
+ - ABCSG, a hypertext, direct-manipulation front-end for solid
 modeling, was developed by M. van Emmerik, A. Rappoport, and J.
-Rossignac</sentence>. <sentence>It combines gesture-driven assembly construction for rapid
+Rossignac. <sentence>It combines gesture-driven assembly construction for rapid
 prototyping with precise dimensioning for final product definition</sentence>.
- <sentence>- Programmable capabilities of high-end graphics rasterizers
+ - Programmable capabilities of high-end graphics rasterizers
 have been used by B. Schneider, A. Megahed, and J. Rossignac to provide
 realtime support for inspecting the internal structures of
 mechanical assemblies via user-controlled cut-out volumes,
-and for detecting and visualizing interferences</sentence>.
- <sentence>- Automatic geometric compressions and 3-D clustering are used by
+and for detecting and visualizing interferences.
+ - Automatic geometric compressions and 3-D clustering are used by
 P. Borrel, J. Mittleman, and J. Rossignac to construct spatial
-hierarchies and solid approximations with variable levels of details</sentence>.
+hierarchies and solid approximations with variable levels of details.
 <sentence>These are used to drastically improve graphics performance while
 viewing complex scenes or detailed assembly models</sentence>. <sentence>Solid
 approximations are performed from triangulated shapes obtained by
 efficient triangulation algorithms developed by R. Ronfard and J.
 Rossignac</sentence>. <sentence>Triboxes, developed by A. Crosnier and J. Rossignac, are
 used to approximate background clusters</sentence>.
- <sentence>- LAMBADA, an interactive animation editor, developed by J.
+ - LAMBADA, an interactive animation editor, developed by J.
 Mastrogiulio, P. Borrel, J. Kim, and J. Rossignac, provides an
 object-oriented architecture based on hierarchical assembly graphs with
-screw-based motion-links an parameterized (animated) object-leaves</sentence>.</paragraph>
+screw-based motion-links an parameterized (animated) object-leaves.</paragraph>
 
 <paragraph><sentence>The speaker may be contacted at jarek@watson.ibm.com</sentence></paragraph>
 

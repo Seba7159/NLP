@@ -6,22 +6,22 @@ Time:     <stime>2:30 PM</stime>
 PostedBy: copetas+ on 02-Jun-92 at 12:52 from GANDALF.CS.CMU.EDU (Catherine Copetas)
 Abstract: 
 
-SPECIAL CIT SEMINAR:	Friday, June 5
+<sentence>SPECIAL CIT SEMINAR:	Friday, June 5
 			Scaife <speaker>Hall</speaker> 124
 			<stime>2:30 pm</stime>
 	  	      Dr. Seiichi Watanabe
-	         Sony Corporation Research Center
+	         Sony Corporation Research Center</sentence>
 
   	   "An Overview of Recent Research Developments
 	         at Sony's Research Center in Japan"
 
-<paragraph><sentence>Among the developments that he will be discussing are:</sentence></paragraph>
+<paragraph><sentence>Among the developments that he will be discussing are</sentence>:</paragraph>
 
-<paragraph>	<sentence>*Seminconductor laser diodes
+	*Seminconductor laser diodes
 	*Magnetic recording materials for high density storage
 	*Lithium ion rechargesable batteries
 	*A novel laser annealing process for functional polysilicon
-	 devices</sentence></paragraph>
+	 devices
 
 <paragraph><sentence>Dr. Watanabe is a Member of Sony Corporation's Board of Directors and
 is the Director of the Sony Research Center in Tokyo</sentence>.  <sentence>He has been with
@@ -29,4 +29,4 @@ Sony since 1967</sentence>.  <sentence>Dr. Watanabe received his bachelors, mast
 doctoral degrees in engineering from the University of Tokyo</sentence>.  <sentence>His 
 primary area of interest is high frequency semiconductor devices</sentence>.  <sentence>He
 recently published a book entitled "Seminconductor Devices for Electronic
-Tuners."</sentence></paragraph>
+Tuners.</sentence>"</paragraph>

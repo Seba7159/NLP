@@ -19,8 +19,8 @@ Abstract:
  Duration: 90 Minutes
  Host:     Ed Clarke
 
-<paragraph>  <sentence>Recent years have witnessed increasing interest in the theoretical
-  aspects of real-time programming</sentence>.  <sentence>This has been fueled by the high
+<paragraph>  Recent years have witnessed increasing interest in the theoretical
+  aspects of real-time programming.  <sentence>This has been fueled by the high
   costs associated with the failure of real-time systems</sentence>.  <sentence>This talk
   presents an extension of the testing paradigm of De Nicola and
   Hennessy for concurrent processes to reasoning about reactive
@@ -37,8 +37,8 @@ Abstract:
 
  FurtherDetails: 
 
-<paragraph>   <sentence>If you would like to meet with <speaker>Amy Zwarico</speaker> while she is here, please
-   send your request for appointments to Dana Wixson (dwzz@cs.cmu.edu)</sentence>.</paragraph>
+<paragraph>   If you would like to meet with <speaker>Amy Zwarico</speaker> while she is here, please
+   send your request for appointments to Dana Wixson (dwzz@cs.cmu.edu).</paragraph>
 
-FurtherDetails: If you would like to meet with <speaker>Amy Zwarico</speaker> while she is here, please
-          send your request for appointments to Dana Wixson (dwzz@cs.cmu.edu).    
+<sentence>FurtherDetails: If you would like to meet with <speaker>Amy Zwarico</speaker> while she is here, please
+          send your request for appointments to Dana Wixson (dwzz@cs.cmu.edu)</sentence>.    

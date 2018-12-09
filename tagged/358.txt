@@ -36,5 +36,5 @@ resampling a multidimensional signal according to an arbitrary mapping
 without aliasing</sentence>.  <sentence>A simple, fast approximation technique employing
 elliptical Gaussian filters will be demonstrated</sentence>.</paragraph>
 
-<paragraph><sentence>Refreshments Will be served by 3:15pm*</sentence></paragraph>
+<paragraph><sentence>Refreshments Will be served by 3:15pm</sentence>*</paragraph>
 

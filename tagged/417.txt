@@ -17,8 +17,8 @@ Abstract:
  Time:     <stime>3:30 p.m</stime>.
  Place:    <location>5409 Wean Hall</location>
 
-The EPAM Model of Experts' Discrimination and Learning: Implications for AI
-by <speaker>Herbert Simon</speaker>
+<sentence>The EPAM Model of Experts' Discrimination and Learning: Implications for AI
+by <speaker>Herbert Simon</speaker></sentence>
 
 <paragraph><sentence>EPAM is a program (the first version was Ed Feigenbaum's thesis) that
 learns to discriminate among, hence recognize, symbol structures</sentence>.  <sentence>Its

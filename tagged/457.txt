@@ -7,10 +7,10 @@ Host:     Avrim Blum
 PostedBy: daz+ on 7-Feb-95 at 09:55 from AMM.ADM.CS.CMU.EDU (Dorothy A Zaborowski)
 Abstract: 
 
-<paragraph>		  <sentence>Friday, February 10, 1995
+<paragraph>		  Friday, February 10, 1995
 	            Wean Hall - <stime>3:30</stime>-<etime>5:00</etime>
          Size-Estimation Framework with Applications 
-           to Transitive Closure and Reachability</sentence></paragraph>
+           to Transitive Closure and Reachability</paragraph>
 
                          Edith Cohen 
                   AT\&T Bell Laboratories

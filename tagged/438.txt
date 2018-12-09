@@ -12,5 +12,5 @@ November 7, 1991</sentence>. <sentence>All are invited to attend</sentence>.
 <sentence>This talk is part of an ongoing weekly seminar series on the internals
 of Mach 3.0</sentence>. </paragraph>
 
-Daniel Stodolsky
-Mach Internals Course Coordinator.
+<sentence>Daniel Stodolsky
+Mach Internals Course Coordinator</sentence>.

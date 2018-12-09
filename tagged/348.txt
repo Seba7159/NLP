@@ -13,12 +13,12 @@ x
                                 DINESH MANOCHA
                      University of California at Berkeley
 
-<paragraph>                            <sentence>Thursday, 9 April 1992
+<paragraph>                            Thursday, 9 April 1992
                                     <stime>3:30 PM</stime>
                                 <location><speaker>Wean Hall</speaker> 4623</location>
    Many  problems  in  computer  graphics,  geometric  and  solid  modeling,
    robotics, vision, symbolic and  scientific  computation  are  reduced  to
-   manipulating  system  of  polynomial  equations</sentence>.  <sentence>In  particular, sets of
+   manipulating  system  of  polynomial  equations.  <sentence>In  particular, sets of
    equations are used for object representation and constraints formulation</sentence>.
    <sentence>Typical  applications  include  curve  and  surface  intersections, robot
    motion  planning,  ray  tracing,  generating  images,  cusps  and   loops
@@ -31,8 +31,8 @@ x
    techniques  and  continuation  are  far  from  being  robust  and slow in
    practice as well</sentence>.</paragraph>
 
-<paragraph>   <sentence>In this  talk  we  present  multipolynomial  resultants  and  show  their
-   effectiveness  for  manipulating  system  of  polynomial  equations</sentence>.  <sentence>The
+<paragraph>   In this  talk  we  present  multipolynomial  resultants  and  show  their
+   effectiveness  for  manipulating  system  of  polynomial  equations.  <sentence>The
    resultant is represented in terms of  matrices  and  determinants</sentence>.  <sentence>As  a
    result,  we  use  algorithms  from  linear algebra for their application</sentence>.
    <sentence>These include multivariate  interpolation  and  modular  computation  for

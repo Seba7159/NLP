@@ -18,8 +18,8 @@ Abstract:
  Title:    Dexterity and Intelligence in Robotic Systems
  Date:     April 5, 1991
  Time:     <stime>3:30 p.m</stime>. until 4:30 p.m.
- Location: <location>Baker Hall, Adamson Wing</location>
- Host:     Michael Erdmann, x7883
+ <sentence>Location: <location>Baker Hall, Adamson Wing</location>
+ Host:     Michael Erdmann, x7883</sentence>
 
 <paragraph><sentence>There are many kinds of dexterous tasks which can be done easily by skilled
 persons, but which cannot be clearly expressed by algorithms</sentence>.  <sentence>When
@@ -28,13 +28,13 @@ very difficult to write control programs for robots</sentence>.</paragraph>
 
 <paragraph><sentence>I will discuss the dynamics and control of intelligent robots, for such
 dexterous tasks, which have been developed in our laboratory</sentence>. <sentence>These robots
- include:</sentence> </paragraph>
+ include</sentence>: </paragraph>
 
-<paragraph> 	<sentence>a cup and ball game playing robot(KENDAMA robot),
+<paragraph> 	a cup and ball game playing robot(KENDAMA robot),
  	a top-spinning robot(KOMAMAWASHI robot),
  	a stilts-type biped robot(TAKEUMA robot),
  	a quadruped robot,
- 	and learning control of inverted pendulum</sentence>.</paragraph>
+ 	and learning control of inverted pendulum.</paragraph>
 
 <paragraph><sentence>Through these systems, we try to demonstrate how one can write control
 programs for intelligent robots</sentence>.</paragraph>
@@ -42,9 +42,9 @@ programs for intelligent robots</sentence>.</paragraph>
 <paragraph><sentence>An example of intelligent control for dexterous robots is our top-spinning
 robot system</sentence>.  <sentence>I am able to spin a top, yet I can not explain "how" I can
 spin a top</sentence>. <sentence>My brother showed me how to spin a top, and I learned the ropes
-(KOTSU in Japanese) of top-spinning by myself</sentence>.  <sentence>[My brother simply told me
+(KOTSU in Japanese) of top-spinning by myself</sentence>.  [My brother simply told me
 "Wind a string on a top, hold one end of a string, throw a top and draw back 
-a string at a good timing".]</sentence>  <sentence>Our robot system learns the ropes of 
+a string at a good timing".]  <sentence>Our robot system learns the ropes of 
 top-spinning by obvserving a human performing the action through video camera 
 and creates the control program to spin the top based on the observation</sentence>.  
 <sentence>Our robot is able to spin a top successfully</sentence>. </paragraph>
@@ -52,8 +52,8 @@ and creates the control program to spin the top based on the observation</senten
 <paragraph><sentence>In the talk, video demonstrations of several of our robot systems will be
 presented</sentence>.</paragraph>
 
-<paragraph><sentence><sentence>----------</sentence>
-Refreshments will be served from 3:15-<stime>3:30</stime></sentence>.  
+----------
+Refreshments will be served from 3:15-<stime>3:30</stime>.  
 <sentence>Discussion and questions:  4:30-5:00</sentence>.
 <sentence>Everyone in the CMU community is invited to attend</sentence>.
-----------</paragraph>
+----------

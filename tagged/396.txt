@@ -11,23 +11,23 @@ professor" symptoms</sentence>.  <sentence>The abstract posted a few days ago
 is not the talk that he plans to give</sentence>.  <sentence>Instead, he appears
 to be giving the talk we saw last spring in our Distinguished
 Lecture Series</sentence>.  <sentence>It was good then, so if you missed it or
-would like a reprise, come tomorrow evening</sentence>.    <sentence>----  garth</sentence></paragraph>
+would like a reprise, come tomorrow evening</sentence>.    ----  garth</paragraph>
 
 	         West Coast Computer Science Colloquium
 
-<paragraph>		      <sentence>Terabytes >> Teraflops
-	Or why work on processors when I/O is where the action is?</sentence></paragraph>
+<paragraph>		      Terabytes >> Teraflops
+	Or why work on processors when I/O is where the action is?</paragraph>
 
 			David A. Patterson
 	   Professor and Chair, Computer Science Division,
 	  EECS Department, University of California, Berkeley
 
-<paragraph>                        <sentence><stime>7:15</stime> - <etime>8:15 pm</etime>
+                        <stime>7:15</stime> - <etime>8:15 pm</etime>
                         <location>4623 Wean Hall</location>
                 (via Picturetel from Berkeley)
                 moderated locally by <speaker>Garth Gibson</speaker>
 [[[[[[  This is likely to be similar to the distinguished lecture given by
-	Patterson here at CMU last spring</sentence>.    <sentence>---  garth  ]]]]]]]</sentence></paragraph>
+	Patterson here at CMU last spring.    ---  garth  ]]]]]]]
 
 <paragraph><sentence>Amdahl's Law tells us with faster processors we
 need faster and larger I/O</sentence>. <sentence>Unfortunately disks are getting smaller rather
@@ -38,10 +38,10 @@ greater performance, capacity, and reliablity from I/O systems</sentence>.</para
 <paragraph><sentence>I will also talk about a new project getting underway called Sequoia 2000,
 which looks at utilizing small helical scan tapes, such as
 digital-audio tapes or video tapes, to offer terabytes of
-storage for the price of a fileserver</sentence>. <sentence>(Sequoia 2000 is the Digital
+storage for the price of a fileserver</sentence>. (Sequoia 2000 is the Digital
 Equipment Corporation funded successor to MIT's Project Athena;
 it promises terabytes of economical and low latency storage
-for global change scientists at the University of California.)</sentence></paragraph>
+for global change scientists at the University of California.)</paragraph>
 
 <paragraph><sentence>My thesis is that a factor of 1000 increase in storage capacity available
 on most Ethernets will have a much greater impact than a factor of

@@ -5,7 +5,7 @@ Dates:    26-Apr-91
 Time:     <stime>2:00</stime> - <etime>3:30</etime>
 PostedBy: Jeffrey.Schlimmer on 24-Apr-91 at 09:12 from A.GP.CS.CMU.EDU
 Abstract:<paragraph> 
-<sentence>Carnegie Mellon                                              SCS AI Seminar</sentence></paragraph>
+Carnegie Mellon                                              SCS AI Seminar</paragraph>
 
 ---------------------------------------------------------------------------
 
@@ -14,11 +14,11 @@ Abstract:<paragraph>
 
 		    FUZZY SETS IN APPROXIMATE REASONING
 
-<paragraph>			  <sentence>Friday, 26 April 1991
+<paragraph>			  Friday, 26 April 1991
 			    <stime>2:00</stime>-<etime>3:30</etime> <location>WeH 5409</location>
     This  talk will present  the basic principles  of approximate reasoning
 based on fuzzy sets   and relate  them  to   similar principles that  guide
-probabilistic reasoning</sentence>.  <sentence>Knowledge representation issues will be addressed
+probabilistic reasoning.  <sentence>Knowledge representation issues will be addressed
 concerning the modelling and semantics of fuzzy rules</sentence>.  <sentence>Some limitations of
 the  fuzzy logic control algorithm will   be pointed out   in  the scope of
 knowledge-based   systems</sentence>.    <sentence>In a   second    part,  an   introduction  to
@@ -27,7 +27,7 @@ incomplete evidence that tries to reconcile fuzzy sets and classical logic</sent
 <sentence>It  also  belongs to  the  current   stream  of   research pertaining    to
 non-monotonic reasoning and belief revision</sentence>.</paragraph>
 
-<paragraph>    <sentence>Didier Dubois receives   his PhD degree   in 1977</sentence>.  <sentence>He was a   Visiting
+<paragraph>    Didier Dubois receives   his PhD degree   in 1977.  <sentence>He was a   Visiting
 Scholar at the  School of Electrical  Engineering at  Purdue  University in
 1978</sentence>.  <sentence>From 1980 until 1983, he worked as a Research Engineer at Center for
 Studies and Research in  Toulouse, in the production research  area</sentence>.  <sentence>He is

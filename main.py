@@ -7,6 +7,8 @@ import nltk
 import string
 import http.client, urllib.request, urllib.parse, urllib.error, json
 import gensim
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
 
 from gensim.models import Word2Vec
 from nltk.corpus import stopwords
@@ -34,11 +36,10 @@ training_locations = ['']
 
 # Define categories and sub-categories
 categoryMap = {}
-categoryMap['computer science'] = ['artificial intelligence', 'human computer interaction', 'cyber security', 'software engineering', 'teaching', 'welfare']
+categoryMap['computer science'] = ['artificial intelligence', 'human computer interaction', 'cyber security', 'teaching', 'robotics']
 categoryMap['engineering'] = ['mechanical', 'electrical', 'chemical', 'mechatronics']
 categoryMap['chemistry'] = ['computational', 'organic', 'physical']
 categoryMap['physics'] = ['nuclear', 'atomic', 'electronics', 'particle', "thermodynamics", "relativity", "quantum"]
-# categoryMap['psychology'] = ['therapy', 'developmental', 'general']
 categoryMap['mathematics'] = ['algebra', 'geometry', 'calculus', 'data science', 'logic']
 
 
@@ -144,7 +145,7 @@ def tag(position, word, fileName, tagName):
     finalTag = "</" + tagName + ">"
 
     # Tag sentence before the dot
-    if tagName is 'sentence' and len(word) > 0 and word[len(word)-1] is '.':
+    if tagName is 'sentence' and len(word) > 0 and word[len(word)-1] in string.punctuation:
         word = word[:-1]
 
     # Tag paragraph before a '\n' character
@@ -256,14 +257,21 @@ def tagParagraphsAndSentences(fileName):
             if word is ":":
                 break
 
+        # Check if first letter is alpha or not
+        if len(words) > 0 and words[0][0].isalpha() is False:
+            isParagraph = False
+
         # Tag paragraph if it is true
         if isParagraph == True:
             position = mapFiles[fileName].find(paragraph)
             tag(position, paragraph, fileName, "paragraph")
 
-            # Now tag sentences from each paragraph
-            sentences = nltk.sent_tokenize(paragraph)
-            for sent in sentences:
+        # Now tag sentences from each paragraph
+        sentences = nltk.sent_tokenize(paragraph)
+        for sent in sentences:
+            if len(sent) > 0 and sent[0].isalpha() is False:
+                pass
+            else:
                 sent = sent.strip()
                 position = mapFiles[fileName].lower().find(sent.lower())
                 tag(position, sent, fileName, "sentence")
@@ -295,9 +303,10 @@ def tagSpeaker(fileName):
     # If speaker was not found in the header, check for speakers from training files
     if 'speaker' not in mapTags[fileName]:
         for speaker in training_speakers:
-            if mapFiles[fileName].find(speaker) != -1 and len(speaker) > 0 and mapFiles[fileName][mapFiles[fileName].find(speaker)-1] is " ": 
-                mapTags[fileName]['speaker'] = speaker
-                break
+            if 'speaker' not in mapTags[fileName]:
+                if mapFiles[fileName].find(speaker) != -1 and len(speaker) > 0 and mapFiles[fileName][mapFiles[fileName].find(speaker)-1] is " ":
+                    mapTags[fileName]['speaker'] = speaker
+                    break
 
     # If still not found, try to find names in the content by its own starting with a capital letter
     if 'speaker' not in mapTags[fileName]:
@@ -640,24 +649,26 @@ if __name__ == '__main__':
         file = open("tagged/" + fileName, "w")
         file.write(mapFiles[fileName])
 
-    print("Finished tagging files..\n")
+    # Print end message for part 1
+    print("Finished tagging files!\n")
 
 
     # Part II: Ontology creation
 
+    # Beginning message
     print("Creating ontologies..")
 
     # Load Word2Vec model
     print("  Loading Word2Vec... (this might take a while)")
     model = gensim.models.KeyedVectors.load_word2vec_format('../word2vec/GoogleNews-vectors-negative300.bin', binary=True)
-    print("  Word2Vec has been successfully loaded!")
+    print("  Word2Vec has been successfully loaded!\n")
 
-    # print(wn.synset("artificial_intelligence.n.1").wup_similarity(wn.synset("dog.n.1")))
-
-    print("{f:10s}           {c:20s}            {s}".format(f="FILE NAME", c="CATEGORY", s="SUB-CATEGORY"))
+    # Print header for table
+    print("{f:6s}           {c:16s}            {s}".format(f="FILE NAME", c="CATEGORY", s="SUB-CATEGORY"))
 
     # For each file, use a NER tagger to extract entities
     for fileName in mapFiles:
+        # NER tag each file content
         nerList = NERtag(fileName)
 
         # Define array of all words to be searched by
@@ -667,20 +678,28 @@ if __name__ == '__main__':
         for nerElement in nerList:
             # Take data about that NER element from Wikipedia
             relevantWords += get_url_data(nerElement[1])
-
-        # Add the topic words to relevant
-        for word in mapTags[fileName]['topic'].split(" "):
-            word = ''.join(ch for ch in word if ch not in set(string.punctuation))
-            relevantWords.append(word.lower())
+            pass
 
         # Clean array to have a relevant word list set up correctly
         relevantWords = list(set(relevantWords))
+
+        # Add the topic words to relevant
+        if 'topic' in mapTags[fileName]:
+            for word in mapTags[fileName]['topic'].split(" "):
+                word = ''.join(ch for ch in word if ch not in set(string.punctuation))
+                # Weigh topic words to be 3 times as important as NER tagger words
+                for i in range(3):
+                    relevantWords.append(word.lower())
 
         # Now for each word, check the similarity to each category
         mapTags[fileName]['category'], mapTags[fileName]['subcategory'] = calculateCategory(model, relevantWords)
 
         # Print filename, category and subcategory
-        print("{f:10s}           {c:20s}            {s}".format(f=fileName, c=mapTags[fileName]['category'], s=mapTags[fileName]['subcategory']))
+        print("{f:6s}           {c:16s}            {s}".format(f=fileName, c=mapTags[fileName]['category'], s=mapTags[fileName]['subcategory']))
+
+    # End message for part 2
+    print("Ontology creation has been finished!")
+
 
     # End program
     exit(0)

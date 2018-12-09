@@ -14,8 +14,8 @@ Abstract:
  Title:    An Autonomous Walking Robot for Planetary Exploration
  Date:     Friday, February 8, 1991
  Time:     <stime>3:30 p.m</stime>. until 4:30 p.m.
- Location: <location>Baker Hall, Adamson Wing</location>
- Host:     Michael Erdmann, x7883
+ <sentence>Location: <location>Baker Hall, Adamson Wing</location>
+ Host:     Michael Erdmann, x7883</sentence>
 
 <paragraph><sentence>In the coming decades, man will probably send robots to explore the solar
 system</sentence>.  <sentence>In particular, we envision the need for mobile robots that can
@@ -35,9 +35,9 @@ concurrent planning, execution, monitoring, and error recovery</sentence>.  <sen
 will describe our integration efforts and the strategies employed for
 ensuring reliable and competent performance of the Ambler</sentence>.</paragraph>
 
-<paragraph><sentence><sentence>----------</sentence>
-Refreshments will be served from 3:15-<stime>3:30</stime></sentence>.  
+----------
+Refreshments will be served from 3:15-<stime>3:30</stime>.  
 <sentence>Discussion and questions:  4:30-5:00</sentence>.
 <sentence>Everyone in the CMU community is invited to attend</sentence>.
-----------</paragraph>
+----------
 

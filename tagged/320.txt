@@ -45,7 +45,7 @@ will discuss NSF programs to increase cooperation and cross
 fertilization of ideas between control systems engineering and
 advanced manufacturing technology</sentence>.</paragraph>
 
-SPEAKER BIO: 
+<sentence>SPEAKER BIO</sentence>: 
 
 <paragraph><sentence><speaker>Dr. Kishan Baheti</speaker> is a Program Director for Engineering Systems
 Program in the Division of Electrical and Communications Systems at

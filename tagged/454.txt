@@ -13,27 +13,27 @@ Abstract:
 
                              Brown University
 
-<paragraph>                         <sentence>Friday, December 2, 1994</sentence></paragraph>
+<paragraph>                         Friday, December 2, 1994</paragraph>
 
-<paragraph>                    <sentence>WeH <location>8220</location>      <stime>3:00 p.m</stime>. - <etime>4:30 p.m.</etime>
+<paragraph>                    <location>WeH 8220</location>      <stime>3:00 p.m</stime>. - <etime>4:30 p.m.</etime>
      Modern shared-memory multiprocessors are inherently asynchronous:
      processes can be halted or delayed without warning by interrupts,
-     pre-emption,  or  cache  misses</sentence>.    <sentence>In  such  environments, it is
+     pre-emption,  or  cache  misses.    <sentence>In  such  environments, it is
      desirable to design protocols that  are  wait-free:  any  process
      that continues to run will complete its work in a fixed number of
      steps, regardless of delays or failures by other processes</sentence>.</paragraph>
 
-<paragraph>     <sentence>In the past  few  years,  considerable  progress  has  been  made
+<paragraph>     In the past  few  years,  considerable  progress  has  been  made
      understanding   wait-free   protocols   for   systems   in  which
      asynchronous processes communicate by reading and writing  shared
-     variables</sentence>.    <sentence>Nevertheless, relatively little is known about such
+     variables.    <sentence>Nevertheless, relatively little is known about such
      protocols in systems in which processes communicate with  certain
      more powerful synchronization primitives such as test-and-set, or
      fetch-and-add</sentence>.  <sentence>This question has some practical interest,  since
      many  modern  multiprocessor architectures provide these kinds of
      built-in primitives</sentence>.</paragraph>
 
-<paragraph>     <sentence>Some recent partial progress on this question is reviewed</sentence>.    <sentence>Set
+<paragraph>     Some recent partial progress on this question is reviewed.    <sentence>Set
      consensus,  a  simple  generalization of the well-known consensus
      problem  is  considered</sentence>.    <sentence>Any  synchronization  problem  has  a
      characteristic  geometric structure, called a simplicial complex,
@@ -49,5 +49,5 @@ Abstract:
 
       Note: Joint work with Sergio Rajsbaum, MIT.
 
-<paragraph>     <sentence>If you would like to talk with Professor Herlihy, please  contact
-     Marge at 85025 or mp3r@cs for available times</sentence>.</paragraph>
+<paragraph>     If you would like to talk with Professor Herlihy, please  contact
+     Marge at 85025 or mp3r@cs for available times.</paragraph>

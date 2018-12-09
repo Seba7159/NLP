@@ -13,11 +13,11 @@ Abstract:
  When: Tuesday February 12, 1991, <stime>1:30</stime>-<etime>2:30pm</etime>,  <location>Doherty Hall</location> 3313
 The autonomous learning problem (ALP) is defined as: A series of training
 examples is provided, characterized by a conjunction of specific values of a
-set of common attributes, and a class to which it belongs.  The goal is to
-construct an effective classifier for categorizing these examples.  The ALP
+set of common attributes, and a class to which it belongs.  <sentence>The goal is to
+construct an effective classifier for categorizing these examples</sentence>.  <sentence>The ALP
 is formulated as a set-covering problem, a set-partitioning problem, and as
-a general 0-1 problem.  This enables an extnesive investigation to be
+a general 0-1 problem</sentence>.  <sentence>This enables an extnesive investigation to be
 carried out as to the relationships between rules and examples; "data" and
 "knowledge"; and attitudes regarding the "best" set of rules forming a rule
-base".
+base"</sentence>.
 

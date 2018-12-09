@@ -6,6 +6,6 @@ Time:     <stime>1:30</stime> - <etime>3:00 PM</etime>
 PostedBy: jean+ on 09-Oct-91 at 10:02 from A.GP.CS.CMU.EDU (Jean Harpley)
 Abstract: 
 
-The time and place for the <speaker>Max Donath</speaker> talk, "Scarecrow: Behavioral Control of
+<sentence>The time and place for the <speaker>Max Donath</speaker> talk, "Scarecrow: Behavioral Control of
 Mobile Robots Based on Reflexive Models", has been moved to <stime>1:30</stime> to <etime>3:00 PM</etime>
-in <location>Wean 4623</location>.  The date is unchanged, tomorrow, 10/10/91.
+in <location>Wean 4623</location></sentence>.  <sentence>The date is unchanged, tomorrow, 10/10/91</sentence>.

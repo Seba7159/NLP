@@ -14,9 +14,9 @@ interesting work that was not covered in his interview talk
 last spring</sentence>.</paragraph>
 
 <paragraph><sentence>He speaks promptly at <stime>11:50</stime> until 12:00 in <location>Wean 5409</location></sentence>.
-<sentence>---------------</sentence></paragraph>
+---------------</paragraph>
 
-Practical Data breakpoints: Design and Implementation
+<sentence>Practical Data breakpoints: Design and Implementation</sentence>
 
 <paragraph><sentence>A data breakpoint associates debugging actions with
 programmer-specified conditions on the memory state of an executing

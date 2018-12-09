@@ -26,9 +26,9 @@ Abstract:
 
  Title:		Neural net models of lightness and color constancy.
 
-<paragraph>	<sentence>One of the key problems in vision is segmentation of images into 
+<paragraph>	One of the key problems in vision is segmentation of images into 
 	labeled patches that represent features, surfaces and objects in the
-	scene</sentence>.  <sentence>Analytical models for delineating and labeling surfaces as
+	scene.  <sentence>Analytical models for delineating and labeling surfaces as
 	white, black, grey or color regardless of variation in intensity or
 	hue of the illuminant remain a matter of controversy</sentence>.  <sentence>Computational
 	neuroscience allows test of the compatibility between physiological

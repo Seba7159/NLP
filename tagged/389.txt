@@ -12,10 +12,10 @@ Abstract:
                         Psychology and Computer Science
                           Carnegie Mellon University
 
-<paragraph>                          <sentence>Wednesday, December 2, 1992
+<paragraph>                          Wednesday, December 2, 1992
                                     <stime>3:30 PM</stime>
                                 <location><speaker>Wean Hall</speaker> 7500</location>
-                              WHAT IS REASONING?</sentence>
+                              WHAT IS REASONING?
                           <sentence>HEURISTIC SEARCH REVISITED</sentence></paragraph>
 
 <paragraph><sentence>In  the  history of research on thinking two (or more) distinct traditions have

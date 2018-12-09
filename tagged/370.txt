@@ -5,8 +5,8 @@ Dates:    14-Jun-95
 Time:     <stime>2:00</stime> - <etime>3:30 PM</etime>
 PostedBy: Marcella Zaragoza on 28-Apr-95 at 10:47 from andrew.cmu.edu
 Abstract:<paragraph> 
-<sentence>University Teaching Center 
-Support for Graduate Students -- Summer 1995</sentence></paragraph>
+University Teaching Center 
+Support for Graduate Students -- Summer 1995</paragraph>
 
 <paragraph><sentence>The combination of activities below is designed to assist current TAs
 and graduate students who are preparing for future academic positions
@@ -22,8 +22,8 @@ conduct in addition to the seminars</sentence>. </paragraph>
 - Ongoing Reading/Discussion Group
 - Documentation of Teaching Development</sentence> </paragraph>
 
-<paragraph><sentence><sentence>***</sentence>Pre-registration is required; please see the end of this post for
-instructions</sentence>. *** </paragraph>
+***Pre-registration is required; please see the end of this post for
+instructions. *** 
 
 <paragraph><sentence>SEMINARS ON TEACHING
 The six seminars below count toward the Documentation of Teaching

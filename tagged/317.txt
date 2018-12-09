@@ -5,11 +5,11 @@ Dates:    7-Apr-95
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 PostedBy: me on 7-Apr-95 at 15:54 from H.GP.CS.CMU.EDU (Michael Erdmann)
 Abstract:<paragraph> 
-<sentence>Friends, 
+Friends, 
 the illusions of Carnival have forced us to move the RI Faculty Candidate
-seminar to <speaker>Smith Hall</speaker> 125</sentence>.  <sentence>See you there</sentence>.  <sentence>A million thanks to Cleah and a
+seminar to <speaker>Smith Hall</speaker> 125.  <sentence>See you there</sentence>.  <sentence>A million thanks to Cleah and a
 number of other folks for helping out with the sudden switch</sentence>.  <sentence>Best, Mike
-<sentence>------------------------------------------------------------------------------</sentence>
+------------------------------------------------------------------------------
        Robotics Seminar     FACULTY CANDIDATE    Robotics Seminar</sentence></paragraph>
 
 <paragraph><sentence>Friday April 7, <stime>3:30</stime>-<etime>5:00</etime>
@@ -20,9 +20,9 @@ Refreshments 3:15
                           Anita M. Flynn
                            MIT AI Lab
 
-<paragraph>    <sentence>Utilizing the large piezoelectric coefficients and high dielectric
+<paragraph>    Utilizing the large piezoelectric coefficients and high dielectric
 constants of ferroelectric thin films, it is possible to
-microfabricate ultrasonic motors on silicon substrates</sentence>.  <sentence>This talk
+microfabricate ultrasonic motors on silicon substrates.  <sentence>This talk
 will describe our efforts in this area</sentence>.  <sentence>By using ferroelectric thin
 films of lead zirconate titanate (PZT), a two-order of magnitude
 improvement over bulk ceramic materials is obtained in breakdown
@@ -30,24 +30,24 @@ strength</sentence>.  <sentence>This characteristic, in combination with high di
 permittivities, leads to a three-order of magnitude improvement over
 electrostatic micromotors in terms of energy densities</sentence>.</paragraph>
 
-<paragraph>    <sentence>We have fabricated resonant structures on one micron thick silicon
+<paragraph>    We have fabricated resonant structures on one micron thick silicon
 nitride membranes which are able to spin two-millimeter diameter
-rotors which are placed down on top</sentence>.  <sentence>Stator-rotor interaction is
+rotors which are placed down on top.  <sentence>Stator-rotor interaction is
 achieved through frictional coupling and an inherent geardown creates
 motors which run at low speeds with high torques</sentence>.</paragraph>
 
-<paragraph>    <sentence>I will also discuss experiments with 8 mm diameter ultrasonic
+<paragraph>    I will also discuss experiments with 8 mm diameter ultrasonic
 motors fabricated from bulk ceramic PZT and an analysis of the contact
 mechanics at the rotor-stator interface where the overall efficiency
-of the motor is critically determined</sentence>.  <sentence>Models of line contact,
+of the motor is critically determined.  <sentence>Models of line contact,
 Hertzian contact and linear spring contact for Coulomb and viscous
 friction have been derived and simulations will be presented which
 predict speed-torque curves, efficiencies and overall output power for
 various conditions of operating voltage and normal force</sentence>.</paragraph>
 
-<paragraph>   <sentence>Work in progress on a new laser-etching technique for piezoelectric
+<paragraph>   Work in progress on a new laser-etching technique for piezoelectric
 ultrasonic micromotors offers promise for simplifying the fabrication
-steps and developing more practical motors</sentence>. <sentence>We plan to incorporate
+steps and developing more practical motors. <sentence>We plan to incorporate
 these actuators into small robots and create truly integrated
 intelligent machines</sentence>.  <sentence>Presently, we are developing small palm-sized
 autonomous robots, using conventional electromagnetic motors, with

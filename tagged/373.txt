@@ -10,7 +10,7 @@ Place:    <location>BAKER HALL ADAMSON WING</location>
 PostedBy: tmeadows on 8-Sep-92 at 12:13 from resumix.portal.com (Tim Meadows)
 Abstract: 
 
-RI SEMINAR
+<sentence>RI SEMINAR</sentence>
 
  WHEN:	Friday, Sept. 11, 1992; <stime>3:30</stime> - <etime>5:00 PM</etime>
 	Refreshments will be served by 3:15 PM

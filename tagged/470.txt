@@ -7,7 +7,7 @@ Host:     Stephen D. Brookes
 PostedBy: marian+ on 30-Jan-92 at 13:39 from MARIAN.ADM.CS.CMU.EDU (Marian D'Amico)
 Abstract: 
 
-<paragraph><sentence>*************************************************************************
+*************************************************************************
 			  Logic Colloquium
 		        Thursday February 6
 			   <stime>3:30</stime> <location>Wean 5409</location>
@@ -15,7 +15,7 @@ Abstract:
        	   On The Mathematics of Non-monotonic Reasoning
 			  Menachem Magidor
 		   Hebrew University of Jerusalem
-	          (Joint work with Daniel Lehman)</sentence></paragraph>
+	          (Joint work with <speaker>Daniel Lehman</speaker>)
 
 <paragraph><sentence>Non-monotonic reasoning is an attempt to develop reasoning systems
 where an inference means that the conclusion holds in the "normal case",

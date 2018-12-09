@@ -13,7 +13,7 @@ PostedBy: bag+ on 20-Apr-94 at 15:46 from BARBARA.ADM.CS.CMU.EDU (Barbara Grandi
 Abstract: 
 
 <paragraph>
-              <sentence>SPECIAL COMPUTER SYSTEMS SEMINAR</sentence></paragraph>
+              SPECIAL COMPUTER SYSTEMS SEMINAR</paragraph>
 
          Speaker:  <speaker>Karsten M. Decker</speaker>, 
                    Director of Research and Development

@@ -13,9 +13,9 @@ WeH 5409
 HOW TO FIX COMPUTERS
 Usefulness, usability and productivity</sentence>.</paragraph>
 
-Tom Landauer
+<sentence>Tom Landauer
 Director, Cognitive Science Research
-Bellcore
+Bellcore</sentence>
 
 <paragraph><sentence>In the last five years or so, many economists and associated pundits
 have born much bad news about the effect of computers on productivity</sentence>.
@@ -29,7 +29,7 @@ slowly</sentence>. <sentence>The good news is that simple, cheap, empirical usab
 evaluation and redesign can turn the situation around</sentence>. <sentence>Fairly compelling
 evidence will be displayed</sentence>. </paragraph>
 
-Further Details:
+<sentence>Further Details</sentence>:
 
 <paragraph><sentence>Please <speaker>see</speaker> /afs/cs/user/dandb/hciseminar.txt for a list of upcoming HCI
 seminar speakers</sentence>.</paragraph>
