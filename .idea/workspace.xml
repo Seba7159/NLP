@@ -3,161 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8384d578-51a9-4981-80b3-64e2eda65dca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluator.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/301.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/301.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/307.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/307.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/308.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/308.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/309.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/309.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/310.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/310.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/311.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/311.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/314.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/314.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/315.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/315.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/316.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/316.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/317.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/317.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/318.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/318.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/319.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/319.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/320.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/320.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/321.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/321.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/322.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/322.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/323.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/323.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/324.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/324.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/325.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/325.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/326.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/326.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/327.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/327.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/331.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/331.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/332.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/332.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/333.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/333.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/334.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/334.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/335.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/335.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/336.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/336.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/337.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/337.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/338.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/338.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/339.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/339.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/340.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/340.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/341.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/341.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/342.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/342.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/343.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/343.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/344.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/344.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/346.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/346.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/347.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/347.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/348.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/348.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/349.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/349.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/350.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/350.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/351.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/351.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/352.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/352.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/353.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/353.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/355.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/355.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/357.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/357.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/358.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/358.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/359.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/359.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/361.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/361.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/362.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/362.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/363.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/363.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/364.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/364.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/365.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/365.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/366.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/366.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/367.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/367.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/368.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/368.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/369.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/369.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/370.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/370.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/371.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/371.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/372.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/372.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/373.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/373.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/374.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/374.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/375.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/375.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/376.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/376.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/377.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/377.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/378.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/378.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/379.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/379.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/380.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/380.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/381.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/381.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/382.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/382.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/383.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/383.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/384.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/384.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/387.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/387.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/388.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/388.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/389.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/389.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/391.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/391.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/392.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/392.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/393.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/393.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/394.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/394.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/395.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/395.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/396.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/396.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/399.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/399.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/400.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/400.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/402.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/402.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/404.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/404.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/405.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/405.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/406.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/406.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/407.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/407.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/408.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/408.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/409.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/409.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/410.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/410.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/411.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/411.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/412.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/412.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/413.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/413.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/414.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/414.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/415.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/415.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/416.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/416.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/417.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/417.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/418.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/418.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/419.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/419.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/420.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/420.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/421.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/421.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/422.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/422.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/423.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/423.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/424.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/424.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/425.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/425.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/426.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/426.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/427.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/427.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/428.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/428.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/429.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/429.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/430.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/430.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/431.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/431.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/432.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/432.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/433.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/433.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/434.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/434.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/436.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/436.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/437.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/437.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/438.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/438.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/439.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/439.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/440.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/440.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/441.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/441.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/442.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/442.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/443.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/443.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/444.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/444.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/445.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/445.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/446.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/446.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/447.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/447.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/448.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/448.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/449.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/449.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/450.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/450.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/451.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/451.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/452.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/452.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/453.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/453.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/454.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/454.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/457.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/457.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/458.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/458.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/459.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/459.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/460.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/460.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/461.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/461.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/462.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/462.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/463.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/463.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/465.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/465.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/466.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/466.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/467.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/467.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/470.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/470.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/471.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/471.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/473.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/473.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/474.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/474.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/475.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/475.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/476.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/476.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/477.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/477.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/481.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/481.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/482.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/482.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/483.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/483.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tagged/484.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tagged/484.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -171,37 +17,37 @@
         <counts>
           <entry key="project.closed" value="13" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="7" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="py" value="12" />
-          <entry key="txt" value="155" />
+          <entry key="txt" value="158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="155" />
+          <entry key="PLAIN_TEXT" value="158" />
           <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="32444" />
+          <entry key="py" value="32581" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="32444" />
+          <entry key="Python" value="32581" />
         </counts>
       </usages-collector>
     </session>
@@ -211,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="651" column="34" selection-start-line="651" selection-start-column="34" selection-end-line="651" selection-end-column="34" />
+            <state relative-caret-position="85">
+              <caret line="670" column="27" selection-start-line="670" selection-start-column="27" selection-end-line="670" selection-end-column="27" />
               <folding>
                 <element signature="e#78#87#0" expanded="true" />
               </folding>
@@ -221,14 +67,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/untagged/433.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/evaluator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="153" column="86" lean-forward="true" selection-start-line="153" selection-start-column="86" selection-end-line="153" selection-end-column="86" />
+            <state relative-caret-position="374">
+              <caret line="153" column="86" selection-start-line="153" selection-start-column="86" selection-end-line="153" selection-end-column="86" />
               <folding>
                 <element signature="e#37#46#0" expanded="true" />
-                <marker date="1544325969702" expanded="true" signature="203:453" ph="..." />
-                <marker date="1544325969702" expanded="true" signature="358:453" ph="..." />
               </folding>
             </state>
           </provider>
@@ -286,8 +139,8 @@
         <option value="$PROJECT_DIR$/untagged/303.txt" />
         <option value="$PROJECT_DIR$/untagged/301.txt" />
         <option value="$PROJECT_DIR$/untagged/419.txt" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/evaluator.py" />
+        <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
   </component>
@@ -305,6 +158,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NLP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NLP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NLP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NLP" type="462c0819:PsiDirectoryNode" />
+              <item name="untagged" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -316,17 +185,6 @@
               <item name="NLP" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="test_tagged" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="NLP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NLP" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -355,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.evaluator">
+  <component name="RunManager" selected="Python.main">
     <configuration name="evaluator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NLP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -425,12 +283,12 @@
     <frame x="3200" y="-16" width="1920" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11275026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11275026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32934782" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8213909" visible="true" weight="0.24456522" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8213909" visible="true" weight="0.24456522" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39891306" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,23 +306,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tagged/426.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-490">
-          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tagged/411.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_tagged/411.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/untagged/311.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -659,25 +500,36 @@
     <entry file="file://$PROJECT_DIR$/untagged/328.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/evaluator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="153" column="86" selection-start-line="153" selection-start-column="86" selection-end-line="153" selection-end-column="86" />
+          <folding>
+            <element signature="e#37#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untagged/425.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/untagged/424.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="651" column="34" selection-start-line="651" selection-start-column="34" selection-end-line="651" selection-end-column="34" />
+        <state relative-caret-position="85">
+          <caret line="670" column="27" selection-start-line="670" selection-start-column="27" selection-end-line="670" selection-end-column="27" />
           <folding>
             <element signature="e#78#87#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/evaluator.py">
+    <entry file="file://$PROJECT_DIR$/untagged/433.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="153" column="86" lean-forward="true" selection-start-line="153" selection-start-column="86" selection-end-line="153" selection-end-column="86" />
-          <folding>
-            <element signature="e#37#46#0" expanded="true" />
-            <marker date="1544325969702" expanded="true" signature="203:453" ph="..." />
-            <marker date="1544325969702" expanded="true" signature="358:453" ph="..." />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

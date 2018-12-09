@@ -663,8 +663,13 @@ if __name__ == '__main__':
     model = gensim.models.KeyedVectors.load_word2vec_format('../word2vec/GoogleNews-vectors-negative300.bin', binary=True)
     print("  Word2Vec has been successfully loaded!\n")
 
+    # Print all categories to file
+    file = open("ontology.txt", "w")
+
     # Print header for table
-    print("{f:6s}           {c:16s}            {s}".format(f="FILE NAME", c="CATEGORY", s="SUB-CATEGORY"))
+    headerPrint = "{f:6s}           {c:16s}            {s}".format(f="FILE NAME", c="CATEGORY", s="SUB-CATEGORY")
+    file.write(headerPrint)
+    print(headerPrint)
 
     # For each file, use a NER tagger to extract entities
     for fileName in mapFiles:
@@ -695,7 +700,9 @@ if __name__ == '__main__':
         mapTags[fileName]['category'], mapTags[fileName]['subcategory'] = calculateCategory(model, relevantWords)
 
         # Print filename, category and subcategory
-        print("{f:6s}           {c:16s}            {s}".format(f=fileName, c=mapTags[fileName]['category'], s=mapTags[fileName]['subcategory']))
+        printString = "{f:6s}           {c:16s}            {s}".format(f=fileName, c=mapTags[fileName]['category'], s=mapTags[fileName]['subcategory'])
+        file.write(printString)
+        print(printString)
 
     # End message for part 2
     print("Ontology creation has been finished!")
