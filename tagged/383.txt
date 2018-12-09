@@ -11,7 +11,7 @@ Abstract:
 
 			    Wednesday November 11
  		      Reception: <stime>2:40</stime>, Talk: 3:00-4:00
- 			  Baker Hall, Adamson Wing
+ 			  Baker Hall, <location>Adamson Wing</location>
 
 			  Computer Graphics Snacks
 

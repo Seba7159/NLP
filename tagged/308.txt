@@ -15,7 +15,7 @@ Abstract:<paragraph>
 <paragraph>	  <sentence>INTEGRATING KNOWLEDGE SOURCES IN LANGUAGE COMPREHENSION</sentence></paragraph>
 
 <paragraph>			 <sentence>Tuesday, 12 February 1991
-			    <stime>3:30</stime>-<etime>5:00</etime> WeH 5409
+			    <stime>3:30</stime>-<etime>5:00</etime> <location>WeH 5409</location>
     Multiple types   of  knowledge (syntax,  semantics,   pragmatics, etc.)</sentence>
 <sentence>contribute to establishing the meaning of  an  utterance</sentence>.  <sentence>Delaying the use
 of   a knowledge   source    during   language   comprehension   introduces

@@ -16,7 +16,7 @@ Abstract:
 		    Center for Machine Translation
 
 <paragraph>			 <sentence>Tuesday, November 24
-			   <stime>4:00 pm</stime> UCC 279
+			   <stime>4:00 pm</stime> <location>UCC 279</location>
 Large-scale knowledge-based machine translation requires significant
 amounts of lexical knowledge in order to map syntactic structures to
 conceptual structures</sentence>. <sentence>In my talk I will present a framework in which

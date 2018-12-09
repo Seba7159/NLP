@@ -8,7 +8,7 @@ Abstract:
 
             West Coast Colloquium Video-Conference Seminar
 
-<paragraph>            <sentence>Wed Feb 10, 4623 Wean Hall, 7:15 pm - 8:15 pm
+<paragraph>            <sentence>Wed Feb 10, <location>4623 Wean Hall</location>, 7:15 pm - 8:15 pm
                 moderated locally by Garth Gibson</sentence></paragraph>
 
 	  Observations on Massively Parallel Processors and

@@ -13,7 +13,7 @@ Abstract:
 
 <paragraph>                           <sentence>Thursday, October 7, 1993
                                     <stime>4:00 PM</stime>
-                                <speaker>Wean Hall</speaker> 7500
+                                <location><speaker>Wean Hall</speaker> 7500</location>
 			      UBIQUITOUS COMPUTING</sentence></paragraph>
 
 <paragraph><sentence>Inspired  by  the social scientists, philosophers, and anthropologists at PARC,

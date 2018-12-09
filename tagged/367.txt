@@ -1,9 +1,9 @@
-<0.10.1.95.16.54.14.mz01+@andrew.cmu.edu.1>
-Type:     cmu.cs.robotics.students
+<0.10.1.95.16.54.14.mz01+@andrew.<location>cmu</location>.edu.1>
+Type:     <location>cmu</location>.cs.robotics.students
 Topic:    S95 Graduate Seminar Schedule
 Dates:    1-Feb-95
 Time:     <stime>4:15</stime> - <etime>6:15 PM</etime>
-PostedBy: Marcella Zaragoza on 10-Jan-95 at 16:54 from andrew.cmu.edu
+PostedBy: Marcella Zaragoza on 10-Jan-95 at 16:54 from andrew.<location>cmu</location>.edu
 Abstract:<paragraph> 
 <sentence>University Teaching Center Support for Graduate Students
 Spring 1995</sentence></paragraph>
@@ -29,6 +29,6 @@ the process of preparing an effective lecture is anything but
 transparent</sentence>.  <sentence>How much material should be presented?</sentence>  <sentence>How can an
 instructor keep students' attention?</sentence>  <sentence>How can instructors tell if
 students understand the material?</sentence>  <sentence>By examining brief videotape excerpts
-of successful CMU faculty, participants in this seminar will examine the
+of successful <location>CMU</location> faculty, participants in this seminar will examine the
 numerous factors bearing on how lectures can be most effective</sentence>.  <sentence>This
 seminar counts toward the Documentation of Teaching Development program</sentence>.</paragraph>

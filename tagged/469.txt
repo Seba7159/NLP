@@ -9,7 +9,7 @@ Abstract:
                                  PS SEMINAR
                              Monday, February 3, 1992
                                  <stime>3:30pm</stime>-<etime>5:00pm</etime>
-                                Wean Hall 5409
+                                <location>Wean Hall 5409</location>
                                   <speaker>Garth Gibson</speaker>
                            Carnegie Mellon University
                           School of Computer Science

@@ -15,7 +15,7 @@ Abstract:<paragraph>
 		    FUZZY SETS IN APPROXIMATE REASONING
 
 <paragraph>			  <sentence>Friday, 26 April 1991
-			    <stime>2:00</stime>-<etime>3:30</etime> WeH 5409
+			    <stime>2:00</stime>-<etime>3:30</etime> <location>WeH 5409</location>
     This  talk will present  the basic principles  of approximate reasoning
 based on fuzzy sets   and relate  them  to   similar principles that  guide
 probabilistic reasoning</sentence>.  <sentence>Knowledge representation issues will be addressed
@@ -48,4 +48,4 @@ International Journal of General Systems and the ORSA Journal on Computing</sent
 Association</sentence>.</paragraph>
 
 ---------------------------------------------------------------------------
- Hosts: Mark Fox/Jeanluc Koning       Appointments: Jeanluc.Koning@ri, x7598
+ Hosts: <speaker>Mark Fox</speaker>/Jeanluc Koning       Appointments: Jeanluc.Koning@ri, x7598

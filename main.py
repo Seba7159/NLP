@@ -27,13 +27,20 @@ nameData    = []
 famData     = ["Mr.", "Mr", "Ms.", "Ms", "Mrs.", "Mrs", "Dr.", "Dr", "Prof.", "Prof"]
 
 
+# Define speakers and locations to get from training data
+training_speakers = ['']
+training_locations = ['']
+
+
 # Define categories and sub-categories
 categoryMap = {}
-categoryMap['computer science'] = ['artificial intelligence', 'human computer interaction', 'computer security', 'software engineering']
-categoryMap['engineering'] = ['mechanical engineering', 'electrical engineering', 'chemical engineering', 'mechatronics']
-categoryMap['chemistry'] = []
-categoryMap['physics'] = []
-categoryMap['sports science'] = []
+categoryMap['computer science'] = ['artificial intelligence', 'human computer interaction', 'cyber security', 'software engineering', 'teaching', 'welfare']
+categoryMap['engineering'] = ['mechanical', 'electrical', 'chemical', 'mechatronics']
+categoryMap['chemistry'] = ['computational', 'organic', 'physical']
+categoryMap['physics'] = ['nuclear', 'atomic', 'electronics', 'particle', "thermodynamics", "relativity", "quantum"]
+# categoryMap['psychology'] = ['therapy', 'developmental', 'general']
+categoryMap['mathematics'] = ['algebra', 'geometry', 'calculus', 'data science', 'logic']
+
 
 
 # Reading the corpora
@@ -41,6 +48,7 @@ def readContents():
     # Get name of untagged emails
     myPath = "untagged/"
     onlyfiles = [f for f in listdir(myPath) if isfile(join(myPath, f))]
+    onlyfiles = sorted(onlyfiles)
 
     # Read each file
     for fileName in onlyfiles:
@@ -78,6 +86,55 @@ def readContents():
         famData.append(name)
     for c in string.ascii_lowercase:
         famData.append(c + ".")
+
+
+# Method to clean tags from string
+def clean_tags(s):
+    cleanr = re.compile('<.*?>')
+    cleantext = re.sub(cleanr, '', s)
+    return cleantext
+
+
+# Method to obtain speakers and locations from training data
+def obtainTrainingData(training_speakers, training_locations):
+    # Get name of untagged emails
+    myPath = "training/"
+    training_files = [f for f in listdir(myPath) if isfile(join(myPath, f))]
+    training_files = sorted(training_files)
+
+    # Read each file
+    for fileName in training_files :
+        # Construct file name and read the file
+        filePath = myPath + fileName
+        file = open(filePath, "r")
+        fileContent = file.read()
+
+        # Get speaker and location from there
+        get_speaker_regex = re.compile('<speaker>(.*?)</speaker>|$')
+        speaker = re.findall(get_speaker_regex, fileContent)[0].split(",")[0]
+        training_speakers.append(clean_tags(speaker))
+
+        # Get location and location from there
+        get_location_regex = re.compile('<location>(.*?)</location>|$')
+        location = re.findall(get_location_regex, fileContent)[0].split(",")[0]
+        training_locations.append(clean_tags(location))
+
+    # Remove empty strings
+    if ' ' in training_speakers:
+        training_speakers.remove(' ')
+    if ' ' in training_locations:
+        training_locations.remove(' ')
+    if '' in training_speakers:
+        training_speakers.remove('')
+    if '' in training_locations:
+        training_locations.remove('')
+
+    # Setify lists
+    training_speakers = list(set(training_speakers))
+    training_locations = list(set(training_locations))
+
+    # End method
+    return
 
 
 # Method for tagging words
@@ -235,7 +292,14 @@ def tagSpeaker(fileName):
             mapTags[fileName]['speaker'] = headerSpeaker
             break
 
-    # If not found, try to find names in the content
+    # If speaker was not found in the header, check for speakers from training files
+    if 'speaker' not in mapTags[fileName]:
+        for speaker in training_speakers:
+            if mapFiles[fileName].find(speaker) != -1 and len(speaker) > 0 and mapFiles[fileName][mapFiles[fileName].find(speaker)-1] is " ": 
+                mapTags[fileName]['speaker'] = speaker
+                break
+
+    # If still not found, try to find names in the content by its own starting with a capital letter
     if 'speaker' not in mapTags[fileName]:
         nameFound = ""
         for name in nameData:
@@ -355,22 +419,24 @@ def tagLocation(fileName):
     if headerLocationTemp is not None:
         # If place is found in header, check for words containing it
         headerLocation = headerLocationTemp.group(1).strip()
-        mapTags[fileName]['location'] = headerLocation.strip()
+        if headerLocation is '' or headerLocation is " ":
+            pass
+        else:
+            mapTags[fileName]['location'] = headerLocation
 
     # If location was not found in the header, check for locations from previous text files
-    if headerLocationTemp is None:
-        for key in mapTags:
-            if 'location' in mapTags[key]:
-                if mapFiles[fileName].find(mapTags[key]['location']) != -1:
-                    mapTags[fileName]['location'] = mapTags[key]['location']
-                    break
+    if 'location' not in mapTags[fileName]:
+        for location in training_locations:
+            if mapFiles[fileName].find(location) != -1 and len(location) > 0 and mapFiles[fileName][mapFiles[fileName].find(location)-1] is " ":
+                mapTags[fileName]['location'] = location
+                break
 
     # If header location is found
-    if headerLocationTemp is not None:
+    if 'location' in mapTags[fileName]:
         # Define temporary variables for advanced positions so far
         counter = 0
         LOCATION_TAG_LEN = len("<location></location>")
-        topicRegEx = re.compile(re.escape(headerLocation.lower()))
+        topicRegEx = re.compile(re.escape(mapTags[fileName]['location'].lower()))
 
         # Add tags for the found location
         for m in topicRegEx.finditer(mapFiles[fileName].lower()):
@@ -407,13 +473,13 @@ def NERtag(fileName):
                         splitString = entString.split("', [('")
                         typeEnt = splitString[0]
                         nameEnt = ""
-                        for word in splitString[1].split("', 'NNP'), ('"):
-                            nameEnt += word + " "
-                        nameEnt = nameEnt[:-1]
+                        if len(splitString) > 1:
+                            for word in splitString[1].split("', 'NNP'), ('"):
+                                nameEnt += word + " "
+                            nameEnt = nameEnt[:-1]
                         entities.append((typeEnt, nameEnt))
 
     entities = list(set(entities))
-    print(entities)
     # Return the entities tuple array
     return entities
 
@@ -465,15 +531,72 @@ def get_url_data(query):
     returnArray = []
 
     # Find all title searches
-    for i in url_data['query']['search']:
-        if 'title' in i:
-            word = i['title']
-            word = ''.join(ch for ch in word if ch not in set(string.punctuation))
-            for a in word.split(" "):
-                returnArray.append(a.lower())
+    if 'query' in url_data:
+        for i in url_data['query']['search']:
+            if 'title' in i:
+                word = i['title']
+                word = ''.join(ch for ch in word if ch not in set(string.punctuation))
+                for a in word.split(" "):
+                    returnArray.append(a.lower())
 
     # Return the array with titles
     return returnArray
+
+
+# Method to calculate the category by relevant words and file name
+def calculateCategory(model, relevantWords):
+    sumCategories = {}
+
+    # Initialise every tag with 0
+    for ontology in categoryMap:
+        sumCategories[ontology] = 0
+
+        # Calculate for each word in the relevant words array
+        for word in relevantWords:
+            try:
+                # sumCategories[ontology] += (wn.synset(ontology.split(" ")[0] + ".n.1").path_similiarity(wn.synset(word.replace(" ", "_") + ".n.1")))
+                sumCategories[ontology] += model.similarity(ontology.split(" ")[0], word)
+            except KeyError as e:
+                # print(ontology, word, e)
+                relevantWords.remove(word)
+
+    # See maximum for each ontology
+    maximumOntology = ""
+    maxNumber = -1
+    for ontology in categoryMap:
+        if sumCategories[ontology] > maxNumber:
+            maxNumber = sumCategories[ontology]
+            maximumOntology = ontology
+
+    # Now check the sub-categories of the maximum ontology and see if there is any well suited up
+    sumCategories = {}
+    for subcategory in categoryMap[maximumOntology]:
+        sumCategories[subcategory] = 0
+
+        # Calculate for each word in the relevant words array
+        for word in relevantWords:
+            try:
+                sumCategories[subcategory] += model.similarity(subcategory.split(" ")[0], word)
+            except KeyError as e:
+                print(subcategory, word, e)
+                pass
+
+    # See maximum for each ontology again
+    maximumOntologySub = ""
+    maxNumberSub = -1
+    for ontology in categoryMap[maximumOntology]:
+        if sumCategories[ontology] > maxNumberSub:
+            maxNumberSub = sumCategories[ontology]
+            maximumOntologySub = ontology
+
+    # If no match was found
+    if maxNumber is 0:
+        return ("", "")
+    elif maxNumberSub is 0:
+        return (maximumOntology, "")
+
+    # Return the maximum number category
+    return (maximumOntology, maximumOntologySub)
 
 
 # Main code
@@ -481,19 +604,19 @@ if __name__ == '__main__':
     # Download nltk data
     # nltk.download()
 
-    # Read the file contents from the 'untagged' folder
+    # Read the file contents from the 'untagged' folder and get training data entities
     readContents()
-
+    obtainTrainingData(training_speakers, training_locations)
 
     # Part I: Tagging information
 
     # TODO: delete this after you finished tagging only for one file
     mapTemp = {}
-    mapTemp['301.txt'] = ""
+    mapTemp['453.txt'] = ""
 
     # Go through all files
     print("Tagging started.. ")
-    for fileName in mapTemp: #actually mapFiles
+    for fileName in mapFiles: #actually mapFiles
         # Initialise key for hash map tags
         mapTags[fileName] = {}
         # Tag in order
@@ -504,35 +627,37 @@ if __name__ == '__main__':
         tagTimes(fileName)
 
     # Tag locations only and the items from the database
-    for fileName in mapTemp:
-        if 'location' not in mapTags[fileName]:
-            tagLocation(fileName)
+    # for fileName in mapFiles:
+    #     if 'location' not in mapTags[fileName]:
+    #         tagLocation(fileName)
 
     # Print files
-    for fileName in mapTemp:
+    for fileName in mapFiles:
         # Print content in program
         #print(fileName + "\n" + str(mapFiles[fileName]) + "\n\n")
 
         # Print content to the tagged/ directory
         file = open("tagged/" + fileName, "w")
         file.write(mapFiles[fileName])
+
     print("Finished tagging files..\n")
 
 
     # Part II: Ontology creation
 
-    # TODO: Use WordNet
     print("Creating ontologies..")
 
     # Load Word2Vec model
-    # print("Loading Word2Vec... (this might take a while)")
-    # model = gensim.models.KeyedVectors.load_word2vec_format('../word2vec/GoogleNews-vectors-negative300.bin', binary=True)
-    # print("Word2Vec has been successfully loaded!")
+    print("  Loading Word2Vec... (this might take a while)")
+    model = gensim.models.KeyedVectors.load_word2vec_format('../word2vec/GoogleNews-vectors-negative300.bin', binary=True)
+    print("  Word2Vec has been successfully loaded!")
 
-    print(wn.synset("artificial_intelligence.n.1").wup_similarity(wn.synset("dog.n.1")))
+    # print(wn.synset("artificial_intelligence.n.1").wup_similarity(wn.synset("dog.n.1")))
+
+    print("{f:10s}           {c:20s}            {s}".format(f="FILE NAME", c="CATEGORY", s="SUB-CATEGORY"))
 
     # For each file, use a NER tagger to extract entities
-    for fileName in mapTemp:
+    for fileName in mapFiles:
         nerList = NERtag(fileName)
 
         # Define array of all words to be searched by
@@ -543,7 +668,7 @@ if __name__ == '__main__':
             # Take data about that NER element from Wikipedia
             relevantWords += get_url_data(nerElement[1])
 
-        # Add the topic words to relevant words
+        # Add the topic words to relevant
         for word in mapTags[fileName]['topic'].split(" "):
             word = ''.join(ch for ch in word if ch not in set(string.punctuation))
             relevantWords.append(word.lower())
@@ -551,9 +676,11 @@ if __name__ == '__main__':
         # Clean array to have a relevant word list set up correctly
         relevantWords = list(set(relevantWords))
 
-        # Now for each word, check the similarity to each category 
+        # Now for each word, check the similarity to each category
+        mapTags[fileName]['category'], mapTags[fileName]['subcategory'] = calculateCategory(model, relevantWords)
 
-
+        # Print filename, category and subcategory
+        print("{f:10s}           {c:20s}            {s}".format(f=fileName, c=mapTags[fileName]['category'], s=mapTags[fileName]['subcategory']))
 
     # End program
     exit(0)

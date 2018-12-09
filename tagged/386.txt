@@ -12,7 +12,7 @@ Abstract:
 			   GRAPHICS SEMINAR
 			 Thursday, 12 Nov 92
 		    <stime>3:00</stime> reception, 3:30-4:30 talk
-			      Wean 4623
+			      <location>Wean 4623</location>
 	     Model-Based Kinematic Analysis of Mechanisms
 
 			     Elisha Sacks

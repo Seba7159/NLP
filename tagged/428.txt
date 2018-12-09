@@ -1,6 +1,6 @@
 <0.28.10.91.23.00.10.trg+@IUS3.IUS.CS.CMU.EDU (Thomas Gross).0>
 Type:     cmu.cs.scs
-Topic:    PSC/CS Seminar 11/1 <stime>4:00</stime> WeH 5403: J. Smith of Cray Research
+Topic:    PSC/CS Seminar 11/1 <stime>4:00</stime> <location>WeH 5403</location>: J. Smith of Cray Research
 Dates:    1-Nov-91
 Time:     <stime>4:00</stime>
 PostedBy: trg+ on 28-Oct-91 at 23:00 from IUS3.IUS.CS.CMU.EDU (Thomas Gross)
@@ -8,7 +8,7 @@ Abstract:
 
 
 		    PSC/Computer Systems Seminar  
-		Friday Nov 1, 1991  <stime>4:00 p.m</stime>.  WeH 5403
+		Friday Nov 1, 1991  <stime>4:00 p.m</stime>.  <location>WeH 5403</location>
 
                Supercomputer  Interconnection Networks
 

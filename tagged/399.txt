@@ -16,7 +16,7 @@ jas
 <sentence>>
 ></sentence>Date:    Feb 12,93
 >Time:    <stime>9.00 A.M</stime>.
->Place:   WeH 5409
+>Place:   <location>WeH 5409</location>
 >Topic:   Program Dependence Graph and Static Single Assignment forms
 >
 >Rajiv Gupta from University of Pittsburgh will deliver a guest

@@ -11,7 +11,7 @@ Wednesday, January 26
 WeH 5409
           The Role of Visual Fidelity in Instructional Simulations
 
-                               Michael Christel
+                               <speaker>Michael Christel</speaker>
                                mac@sei.cmu.edu
 
 <paragraph><sentence>The Software Engineering Institute made use of digital video in developing an
@@ -45,7 +45,7 @@ the results of the formal experiment concerning visual fidelity in interfaces</s
 which digital video offers, and a set of guidelines will be proposed based
 upon this research</sentence>.</paragraph>
 
-                          Michael Christel
+                          <speaker>Michael Christel</speaker>
 
                          Member of the Technical Staff
                          Software Engineering Institute
@@ -55,7 +55,7 @@ upon this research</sentence>.</paragraph>
                                 FAX: 412-268-5758
                                  mac@sei.cmu.edu
 
-<paragraph><sentence>Michael Christel has been a member of the technical staff at the Software
+<paragraph><sentence><speaker>Michael Christel</speaker> has been a member of the technical staff at the Software
 Engineering Institute for the past six years</sentence>.  <sentence>From 1987 to 1990 he worked on
 the Advanced Learning Technologies (ALT) Project at the SEI, creating a
 digital video code inspection course</sentence>.  <sentence>He has since worked on projects

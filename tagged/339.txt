@@ -3,7 +3,7 @@ Type:     cmu.cs.robotics
 Topic:    Goldfarb Seminar
 Dates:    18-Nov-91
 Time:     <stime>4:00 PM</stime>
-Host:     Tom Mitchell                 Appointments: Jean Harpley, x3802, Jean@cs
+Host:     <speaker>Tom Mitchell</speaker>                 Appointments: Jean Harpley, x3802, Jean@cs
 PostedBy: jean+ on 05-Nov-91 at 12:34 from A.GP.CS.CMU.EDU (Jean Harpley)
 Abstract: 
                                                               Special Seminar
@@ -46,4 +46,4 @@ of the current set of productions in the TS during learning, thus generating
 an evolving sequence of TS, each providing more accurate means for both the
 learning class recognition and description</sentence>.</paragraph>
 
- Host: Tom Mitchell                 Appointments: Jean Harpley, x3802, Jean@cs
+ Host: <speaker>Tom Mitchell</speaker>                 Appointments: Jean Harpley, x3802, Jean@cs

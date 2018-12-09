@@ -13,7 +13,7 @@ recent faculty hire due to arrive full time next spring</sentence>.
 interesting work that was not covered in his interview talk
 last spring</sentence>.</paragraph>
 
-<paragraph><sentence>He speaks promptly at <stime>11:50</stime> until 12:00 in Wean 5409</sentence>.
+<paragraph><sentence>He speaks promptly at <stime>11:50</stime> until 12:00 in <location>Wean 5409</location></sentence>.
 <sentence>---------------</sentence></paragraph>
 
 Practical Data breakpoints: Design and Implementation

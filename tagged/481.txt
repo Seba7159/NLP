@@ -10,7 +10,7 @@ Abstract:
                      Dr. Hajime Nonogaki
                        Fujitsu Limited
                  Monday May 11, <<stime>10:30 am</stime> - <etime>11:00 am</etime>>
-                          <Wean <speaker>Hall</speaker> 8220>
+                          <Wean <speaker>Hall</speaker> <location>8220</location>>
        The Friend21 Project is a MITI sponsored effort to
        develop a comfortable personal information system
        for the 21st century</sentence>.  <sentence>A major concern is the user

@@ -23,7 +23,7 @@ would like a reprise, come tomorrow evening</sentence>.    <sentence>----  garth
 	  EECS Department, University of California, Berkeley
 
 <paragraph>                        <sentence><stime>7:15</stime> - <etime>8:15 pm</etime>
-                        4623 Wean Hall
+                        <location>4623 Wean Hall</location>
                 (via Picturetel from Berkeley)
                 moderated locally by <speaker>Garth Gibson</speaker>
 [[[[[[  This is likely to be similar to the distinguished lecture given by

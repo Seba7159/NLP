@@ -15,7 +15,7 @@ Abstract:
 
 <paragraph>                           <sentence>Wednesday, April 8, 1992
                                   Time <stime>3:30pm</stime>
-                                Wean Hall 7500
+                                <location>Wean Hall 7500</location>
    It  has been five years since I stopped working on <speaker>Andrew</speaker>, so the freedom
    of information act -- along with the passing from power of several people
    --  allows  me  to  tell  some  candid stories about it</sentence>. <sentence>In 1983, the ITC

@@ -10,4 +10,4 @@ Abstract:
 sponsoring a lecture by Antal Bejczy of JPL under the IEEE
 distinguished lecture program</sentence>. <sentence>Antal will speak on the topic:
 Calibrated <speaker>Virtual Reality</speaker> in Telerobotics</sentence>. <sentence>The lecture will
-be in Wean 4623 at <stime>1:30</stime> on Friday November 11</sentence>. <sentence>All are invited</sentence>.</paragraph>
+be in <location>Wean 4623</location> at <stime>1:30</stime> on Friday November 11</sentence>. <sentence>All are invited</sentence>.</paragraph>

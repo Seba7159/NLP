@@ -20,4 +20,4 @@ Peter
 Sep 23	
 "Tempest: User-Level Shared Memory"
 David Wood, University of Wisconsin-Madison
-CMU, Wean Hall 5409, <stime>4:00 p.m</stime>.
+CMU, <location><speaker>Wean Hall</speaker> 5409</location>, <stime>4:00 p.m</stime>.

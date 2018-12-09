@@ -7,7 +7,7 @@ PostedBy: tmeadows on 11-Feb-92 at 16:00 from frc2.frc.ri.cmu.edu (Tim Meadows)
 Abstract: 
 
 <paragraph>                      <sentence>February 14, 1992
-                     <stime>3:30pm</stime>  -- WeH 5409
+                     <stime>3:30pm</stime>  -- <location>WeH 5409</location>
 In many applications such as geometric modeling and data compression, 
 there arises the need to construct sparse approximations to discrete 
 or piecewise linear curves and functions</sentence>.

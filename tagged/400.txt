@@ -16,7 +16,7 @@ Abstract:
 	      University of California, San Diego</sentence></paragraph>
 
 <paragraph>                        <sentence><stime>7:15</stime> - <etime>8:15 pm</etime>
-                        4623 Wean Hall
+                        <location>4623 Wean Hall</location>
                   (via Picturetel from UCSD)
                 moderated locally by Garth Gibson</sentence></paragraph>
 

@@ -30,7 +30,7 @@ The six seminars below count toward the Documentation of Teaching
 Development Program</sentence>.  </paragraph>
 
 <paragraph><sentence>Creating Clear and Engaging Assignments 
-        Wednesday, June 21, <stime>2:00</stime> - <etime>3:30 PM</etime>, Carnegie Conference Room,
+        Wednesday, June 21, <stime>2:00</stime> - <etime>3:30 PM</etime>, <location>Carnegie Conference Room</location>,
 Warner Hal
 l 
 Instructors create assignments for many different purposes including,

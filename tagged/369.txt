@@ -1,9 +1,9 @@
-<0.28.4.95.10.47.08.mz01+@andrew.cmu.edu.2>
-Type:     cmu.cs.robotics.students
+<0.28.4.95.10.47.08.mz01+@andrew.<location>cmu</location>.edu.2>
+Type:     <location>cmu</location>.cs.robotics.students
 Topic:    Univ. Teaching Ctr. summer seminars
 Dates:    7-Jun-95
 Time:     <stime>2:00</stime> - <etime>3:30 PM</etime>
-PostedBy: Marcella Zaragoza on 28-Apr-95 at 10:47 from andrew.cmu.edu
+PostedBy: Marcella Zaragoza on 28-Apr-95 at 10:47 from andrew.<location>cmu</location>.edu
 Abstract:<paragraph> 
 <sentence>University Teaching Center 
 Support for Graduate Students -- Summer 1995</sentence></paragraph>
@@ -38,4 +38,4 @@ the process of preparing an effective lecture raises many new questions</sentenc
 students' attention?</sentence>  <sentence>How can we tell if students understand the
 material?</sentence>  <sentence>Participants in this seminar will examine the numerous
 factors bearing on how lectures can be most effective by analyzing
-videotapes of successful CMU lecturers</sentence>.  </paragraph>
+videotapes of successful <location>CMU</location> lecturers</sentence>.  </paragraph>

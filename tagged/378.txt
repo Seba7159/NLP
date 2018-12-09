@@ -7,7 +7,7 @@ PostedBy: garlan+ on 29-Aug-91 at 22:10 from RILA.ABLE.CS.CMU.EDU (David Garlan)
 Abstract: 
 
 <paragraph><sentence>As has been the <speaker>case</speaker> for many years, the Programming Systems Seminar will
-take place Mondays from <stime>3:30</stime> to <etime>5:00</etime> in WeH 5409, starting September 30</sentence>.
+take place Mondays from <stime>3:30</stime> to <etime>5:00</etime> in <location>WeH 5409</location>, starting September 30</sentence>.
 <sentence>For those new to CMU, the seminar features research presentations in the
 general area of programming systems</sentence>.  <sentence>Speakers include both invited guests
 from outside CMU as well as faculty and students within CMU</sentence>. <sentence>It is an

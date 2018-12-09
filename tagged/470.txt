@@ -10,7 +10,7 @@ Abstract:
 <paragraph><sentence>*************************************************************************
 			  Logic Colloquium
 		        Thursday February 6
-			   <stime>3:30</stime> Wean 5409
+			   <stime>3:30</stime> <location>Wean 5409</location>
 *************************************************************************
        	   On The Mathematics of Non-monotonic Reasoning
 			  Menachem Magidor

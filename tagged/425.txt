@@ -11,7 +11,7 @@ Abstract:
 
                           Monday, November 4, 1991
                                <stime>3:30PM</stime>-<etime>5:00PM</etime>
-                                  WeH 5409
+                                  <location>WeH 5409</location>
                         Nathaniel S. Borenstein
                                 Bellcore
 

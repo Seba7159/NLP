@@ -16,7 +16,7 @@ Abstract:
                   Foundations of Nonholonomic Motion Planning
 
 <paragraph>                            <sentence>Monday, 21 October 1991
-                           <stime>1:30</stime> - <etime>3:00 PM</etime>,  8220 WeH
+                           <stime>1:30</stime> - <etime>3:00 PM</etime>,  <lo<speaker>cat</speaker>ion>8220</lo<speaker>cat</speaker>ion> WeH
     In this talk, I will first summarize appli<speaker>cat</speaker>ions of Nonholonomic
     Motion Planning (NMP) to dextrous manipulation or assembly with a
     robotic hand, parking a vehicle with/without trailers, attitude

@@ -6,7 +6,7 @@ Time:     <stime>12:00</stime> - <etime>1:00</etime>
 PostedBy: feline+ on 22-Mar-93 at 11:51 from ISL1.RI.CMU.EDU (Carol S Boshears)
 Abstract: 
 
-<paragraph><sentence>CIMDS Seminar - Steve Chien, JPL, 3/30</sentence>. <sentence><stime>12:00</stime>-<etime>1:00</etime>, Doherty Hall ??</sentence>
+<paragraph><sentence>CIMDS Seminar - Steve Chien, JPL, 3/30</sentence>. <sentence><stime>12:00</stime>-<etime>1:00</etime>, <location>Doherty Hall</location> ??</sentence>
 	<sentence>Learning Control Knowledge for Scheduling</sentence></paragraph>
 
 			Steve Chien

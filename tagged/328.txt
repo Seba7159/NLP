@@ -8,7 +8,7 @@ Abstract:
 
 <paragraph><sentence>On Tuesday Sept. 10, Michelle Messenger, the project coordinator for the
 visualization software apE, will give a short slide presentation (~20 min)
-in WeH 4623 at <stime>3:30PM</stime></sentence>. <sentence>All is invited to attend</sentence>.
+in <location>WeH 4623</location> at <stime>3:30PM</stime></sentence>. <sentence>All is invited to attend</sentence>.
 <sentence>Briefly, apE is one of the dominating packages in scientific visualization</sentence>.
 <sentence>It is developed at the Ohio Supercomputer Center and distributed as public
 domain software at the source code level</sentence>. <sentence>In recent years, both apE and AVS

@@ -14,7 +14,7 @@ Abstract:
 
 <paragraph>                          <sentence>Wednesday, December 2, 1992
                                     <stime>3:30 PM</stime>
-                                <speaker>Wean Hall</speaker> 7500
+                                <location><speaker>Wean Hall</speaker> 7500</location>
                               WHAT IS REASONING?</sentence>
                           <sentence>HEURISTIC SEARCH REVISITED</sentence></paragraph>
 

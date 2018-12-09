@@ -16,7 +16,7 @@ Abstract:<paragraph>
    TABLETOP: A COMPUTER MODEL OF HIGH-LEVEL PERCEPTION AND ANALOGY-MAKING
 
 <paragraph>			  <sentence>Tuesday, 19 March 1991
-			    <stime>3:30</stime>-<etime>5:00</etime> WeH 5409
+			    <stime>3:30</stime>-<etime>5:00</etime> <location>WeH 5409</location>
     Tabletop applies a probabilistic, emergent architecture to a relatively
 simple domain that nonetheless has a "real world" feel to it</sentence>.  <sentence>The Tabletop
 domain consists of a table on which there are a number of ordinary table

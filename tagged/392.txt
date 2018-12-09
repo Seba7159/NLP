@@ -11,7 +11,7 @@ Abstract:
                                    POP SEMINAR
                               Friday, Dec 15, 1992
                                 <stime>3:00</stime> - <etime>4:00 p.m.</etime>
-                                    WeH 8220
+                                    <location>WeH 8220</location>
               Similix --- A Partial Evaluator for a Scheme Subset:
                             Overview and Applications
 

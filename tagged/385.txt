@@ -9,5 +9,5 @@ Abstract:
 <paragraph><sentence>Last week it was announced that the Anderson, Berliner and Valdes-Perez talks
 scheduled for Thursday, 9/5 were cancelled and would be rescheduled for this
 week</sentence>.  <sentence>Anderson and Berliner will not be giving talks, but Valdes-Perez will
-be speaking after <speaker>Dave McKeown</speaker> and Steve Cochran tomorrow (9/10) from <stime>9:00</stime> to
+be speaking after Dave McKeown and <speaker>Steve Cochran</speaker> tomorrow (9/10) from <stime>9:00</stime> to
 <etime>10:20</etime> in Wean 4605</sentence>.</paragraph>

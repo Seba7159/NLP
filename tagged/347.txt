@@ -14,7 +14,7 @@ Abstract:
 
  Date:			Friday, March 20th
 
-Seminar time:		<stime>3:30</stime>-<etime>4:30</etime>, Adamson Wing, Baker Hall
+Seminar time:		<stime>3:30</stime>-<etime>4:30</etime>, <location>Adamson Wing</location>, Baker Hall
 			(Refreshments served at 3:15)
 Some of the fundamental problems associated with the use of computer vision
 systems for fully automated geometric measurements will be discussed,
