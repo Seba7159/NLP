@@ -71,7 +71,7 @@ def get_measures(tagged, test):
 
 
 # Main code
-if __name__ == '__main__':
+def main():
     # Read the file names
     filenames = readFileNames()
 
@@ -150,8 +150,8 @@ if __name__ == '__main__':
         f1 = 2 * (precision * recall) / (precision + recall)
 
     # Print header for displaying
-    print("   TAG         | PRECISION    |  RECALL   |  F1 MEASURE")
-    print("  total" + (10 - len("total")) * ' ' + "   |   {p:.2f}%     |   {r:.2f}%  |   {f:.2f}%".format(p=precision, r=recall, f=f1))
+    print("   TAG           PRECISION    |  RECALL   |  F1 MEASURE")
+    print("  total" + (10 - len("total")) * ' ' + "       {p:.2f}%     |   {r:.2f}%  |   {f:.2f}%".format(p=precision, r=recall, f=f1))
 
     # For all tags
     for tag in tags:
@@ -179,4 +179,7 @@ if __name__ == '__main__':
             f1 = 2 * (precision * recall) / (precision + recall)
 
         # Print values for each tag
-        print("  " + tag + (10 - len(tag)) * ' ' + "   |   {p:.2f}%     |   {r:.2f}%  |   {f:.2f}%".format(p=precision, r=recall, f=f1))
+        print("  " + tag + (10 - len(tag)) * ' ' + "       {p:.2f}%     |   {r:.2f}%  |   {f:.2f}%".format(p=precision, r=recall, f=f1))
+
+    # End method
+    return
