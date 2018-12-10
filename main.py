@@ -2,6 +2,7 @@
 ### Student ID: 1769880
 
 # Imports
+import ast
 import re
 import nltk
 import string
@@ -10,7 +11,6 @@ import gensim
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-from gensim.models import Word2Vec
 from nltk.corpus import stopwords
 from os import listdir
 from os.path import isfile, join
@@ -87,6 +87,14 @@ def readContents():
         famData.append(name)
     for c in string.ascii_lowercase:
         famData.append(c + ".")
+
+
+# Method to read the categories for ontology creation
+def getCategories():
+    # Open the file containing categories
+    with open('categories.txt', 'r') as categoriesFile:
+        # Return fil content to program's category map
+        return ast.literal_eval(categoriesFile.read())
 
 
 # Method to clean tags from string
@@ -657,6 +665,7 @@ if __name__ == '__main__':
 
     # Beginning message
     print("Creating ontologies..")
+    categoryMap = getCategories()
 
     # Load Word2Vec model
     print("  Loading Word2Vec... (this might take a while)")

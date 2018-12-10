@@ -1,0 +1,41 @@
+{
+'computer science':
+    [
+    'artificial intelligence',
+    'human computer interaction',
+    'cyber security',
+    'teaching',
+    'robotics'
+    ],
+'engineering':
+    [
+    'mechanical',
+    'electrical',
+    'chemical',
+    'mechatronics'
+    ],
+'chemistry':
+    [
+    'computational',
+    'organic',
+    'physical'
+    ],
+'physics':
+    [
+    'nuclear',
+    'atomic',
+    'electronics',
+    'particle',
+    'thermodynamics',
+    'relativity',
+    'quantum'
+    ],
+'mathematics':
+    [
+    'algebra',
+    'geometry',
+    'calculus',
+    'data science',
+    'logic'
+    ]
+}
