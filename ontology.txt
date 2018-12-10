@@ -1,1 +1,186 @@
-FILE NAME           CATEGORY                    SUB-CATEGORY301.txt           computer science            cyber security302.txt           physics                     electronics303.txt           computer science            robotics304.txt           computer science            human computer interaction305.txt           mathematics                 logic306.txt           mathematics                 geometry307.txt           physics                     particle308.txt           mathematics                 geometry309.txt           physics                     particle310.txt           computer science            human computer interaction311.txt           mathematics                 geometry312.txt           computer science            robotics313.txt           computer science            robotics314.txt           mathematics                 geometry315.txt           mathematics                 geometry316.txt           mathematics                 geometry317.txt           physics                     thermodynamics318.txt           physics                     quantum319.txt           engineering                 mechatronics320.txt           engineering                 mechatronics321.txt           engineering                 mechatronics322.txt           mathematics                 geometry323.txt           computer science            robotics324.txt           computer science            robotics325.txt           mathematics                 geometry326.txt           mathematics                 geometry
+FILE NAME           CATEGORY                    SUB-CATEGORY
+301.txt           computer science            cyber security
+302.txt           physics                     electronics
+303.txt           computer science            robotics
+304.txt           mathematics                 geometry
+305.txt           mathematics                 logic
+306.txt           mathematics                 logic
+307.txt           physics                     particle
+308.txt           mathematics                 geometry
+309.txt           physics                     particle
+310.txt           computer science            human computer interaction
+311.txt           mathematics                 geometry
+312.txt           computer science            robotics
+313.txt           computer science            robotics
+314.txt           mathematics                 geometry
+315.txt           mathematics                 geometry
+316.txt           mathematics                 logic
+317.txt           physics                     thermodynamics
+318.txt           physics                     quantum
+319.txt           engineering                 mechatronics
+320.txt           mathematics                 data science
+321.txt           engineering                 mechatronics
+322.txt           mathematics                 geometry
+323.txt           computer science            robotics
+324.txt           physics                     particle
+325.txt           mathematics                 geometry
+326.txt           mathematics                 geometry
+327.txt           mathematics                 geometry
+328.txt           computer science            human computer interaction
+329.txt           engineering                 mechanical
+330.txt           engineering                 chemical
+331.txt           mathematics                 algebra
+332.txt           computer science            robotics
+333.txt           physics                     thermodynamics
+334.txt           computer science            robotics
+335.txt           physics                     electronics
+336.txt           physics                     particle
+337.txt           computer science            human computer interaction
+338.txt           mathematics                 logic
+339.txt           mathematics                 data science
+340.txt           engineering                 mechatronics
+341.txt           mathematics                 algebra
+342.txt           mathematics                 geometry
+343.txt           mathematics                 geometry
+344.txt           mathematics                 logic
+345.txt           mathematics                 geometry
+346.txt           chemistry                   computational
+347.txt           mathematics                 geometry
+348.txt           mathematics                 logic
+349.txt           mathematics                 algebra
+350.txt           mathematics                 geometry
+351.txt           mathematics                 geometry
+352.txt           physics                     electronics
+353.txt           computer science            robotics
+354.txt           mathematics                 geometry
+355.txt           physics                     particle
+356.txt           mathematics                 logic
+357.txt           computer science            robotics
+358.txt           computer science            artificial intelligence
+359.txt           mathematics                 geometry
+360.txt           engineering                 mechatronics
+361.txt           physics                     particle
+362.txt           mathematics                 geometry
+363.txt           mathematics                 geometry
+364.txt           computer science            human computer interaction
+365.txt           mathematics                 logic
+366.txt           mathematics                 geometry
+367.txt           mathematics                 algebra
+368.txt           mathematics                 algebra
+369.txt           mathematics                 geometry
+370.txt           mathematics                 algebra
+371.txt           mathematics                 algebra
+372.txt           physics                     particle
+373.txt           engineering                 mechatronics
+374.txt           physics                     thermodynamics
+375.txt           physics                     particle
+376.txt           physics                     particle
+377.txt           engineering                 mechatronics
+378.txt           engineering                 mechatronics
+379.txt           physics                     relativity
+380.txt           mathematics                 algebra
+381.txt           engineering                 mechatronics
+382.txt           mathematics                 geometry
+383.txt           computer science            robotics
+384.txt           physics                     electronics
+385.txt           mathematics                 geometry
+386.txt           mathematics                 logic
+387.txt           mathematics                 logic
+388.txt           mathematics                 geometry
+389.txt           mathematics                 calculus
+390.txt           computer science            artificial intelligence
+391.txt           computer science            robotics
+392.txt           mathematics                 logic
+393.txt           computer science            teaching
+394.txt           mathematics                 logic
+395.txt           physics                     thermodynamics
+396.txt           physics                     relativity
+397.txt           mathematics                 algebra
+398.txt           mathematics                 geometry
+399.txt           mathematics                 logic
+400.txt           mathematics                 algebra
+401.txt           mathematics                 algebra
+402.txt           computer science            artificial intelligence
+403.txt           mathematics                 algebra
+404.txt           computer science            cyber security
+405.txt           mathematics                 geometry
+406.txt           mathematics                 geometry
+407.txt           mathematics                 algebra
+408.txt           mathematics                 geometry
+409.txt           mathematics                 data science
+410.txt           mathematics                 logic
+411.txt           mathematics                 algebra
+412.txt           mathematics                 algebra
+413.txt           computer science            human computer interaction
+414.txt           computer science            cyber security
+415.txt           mathematics                 geometry
+416.txt           mathematics                 geometry
+417.txt           mathematics                 geometry
+418.txt           mathematics                 logic
+419.txt           mathematics                 logic
+420.txt           mathematics                 geometry
+421.txt           mathematics                 geometry
+422.txt           mathematics                 algebra
+423.txt           mathematics                 algebra
+424.txt           computer science            cyber security
+425.txt           computer science            cyber security
+426.txt           mathematics                 data science
+427.txt           engineering                 mechatronics
+428.txt           physics                     relativity
+429.txt           mathematics                 geometry
+430.txt           mathematics                 logic
+431.txt           mathematics                 geometry
+432.txt           computer science            teaching
+433.txt                                       
+434.txt           mathematics                 algebra
+435.txt           mathematics                 logic
+436.txt           mathematics                 algebra
+437.txt           mathematics                 algebra
+438.txt           physics                     thermodynamics
+439.txt           mathematics                 geometry
+440.txt           mathematics                 data science
+441.txt           mathematics                 geometry
+442.txt           physics                     thermodynamics
+443.txt           mathematics                 geometry
+444.txt           mathematics                 geometry
+445.txt           mathematics                 geometry
+446.txt           mathematics                 geometry
+447.txt           mathematics                 geometry
+448.txt           mathematics                 logic
+449.txt           mathematics                 geometry
+450.txt           mathematics                 algebra
+451.txt           mathematics                 algebra
+452.txt           mathematics                 algebra
+453.txt           physics                     thermodynamics
+454.txt           physics                     relativity
+455.txt           physics                     particle
+456.txt           computer science            cyber security
+457.txt           mathematics                 logic
+458.txt           computer science            cyber security
+459.txt           mathematics                 data science
+460.txt           physics                     thermodynamics
+461.txt           mathematics                 data science
+462.txt           mathematics                 logic
+463.txt           mathematics                 logic
+464.txt           mathematics                 logic
+465.txt           mathematics                 geometry
+466.txt           mathematics                 algebra
+467.txt           mathematics                 geometry
+468.txt           mathematics                 data science
+469.txt           mathematics                 geometry
+470.txt           mathematics                 logic
+471.txt           physics                     quantum
+472.txt           computer science            human computer interaction
+473.txt           computer science            cyber security
+474.txt           mathematics                 geometry
+475.txt           mathematics                 geometry
+476.txt           mathematics                 logic
+477.txt           physics                     relativity
+478.txt           mathematics                 logic
+479.txt           mathematics                 logic
+480.txt           physics                     relativity
+481.txt           mathematics                 logic
+482.txt           computer science            cyber security
+483.txt           computer science            teaching
+484.txt           mathematics                 logic
+485.txt                                       

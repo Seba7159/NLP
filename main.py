@@ -3,7 +3,6 @@
 
 ### Imports
 import ast
-import string
 import gensim
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)

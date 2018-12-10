@@ -180,7 +180,7 @@ def main(mdl, mapFl, mapTg, catMap, mapCt):
 
     # Print header for table
     headerPrint = "{f:6s}           {c:16s}            {s}".format(f="FILE NAME", c="CATEGORY", s="SUB-CATEGORY")
-    file.write(headerPrint)
+    file.write(headerPrint + "\n")
     print(headerPrint)
 
     # For each file, use a NER tagger to extract entities
@@ -214,7 +214,7 @@ def main(mdl, mapFl, mapTg, catMap, mapCt):
         # Print filename, category and subcategory
         printString = "{f:6s}           {c:16s}            {s}".format(f=fileName, c=mapTags[fileName]['category'],
                                                                        s=mapTags[fileName]['subcategory'])
-        file.write(printString)
+        file.write(printString + "\n")
         print(printString)
 
     # Return True if it worked

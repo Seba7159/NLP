@@ -313,10 +313,12 @@ def tagSpeaker(fileName, nameData, famData):
             tag(location + counter, mapTags[fileName]['speaker'].lower(), fileName, 'speaker')
             counter += 1 + 2 * len('<speaker>')
         if len(surname) > 0:
-            print(surname, fileName)
             for title in name_titles:
                 for location in find_all(mapFiles[fileName].lower(), (title+" "+surname).lower()):
                     tag(location + counter, (title+" "+surname).lower(), fileName, 'speaker')
+                    counter += 1 + 2 * len('<speaker>')
+                for location in find_all(mapFiles[fileName].lower(), (title+" "+mapTags[fileName]['speaker']).lower()):
+                    tag(location + counter, (title+" "+mapTags[fileName]['speaker']).lower(), fileName, 'speaker')
                     counter += 1 + 2 * len('<speaker>')
 
     # Worst case, speaker can't be found
