@@ -10,7 +10,7 @@ Abstract:
 	Bandwidth Balancing and Priority Mechanism
 	in a DQDB MAN --- Problems and Solutions</sentence>
 
-<paragraph>		       <speaker>Juergen Roethig</speaker>
+<paragraph>		       Juergen Roethig
 	Institute of Telematics, University of Karlsruhe
 	D-7500 Karlsruhe 1, Federal Republic of Germany
  		Email: jroethig@ira.uka.de</paragraph>

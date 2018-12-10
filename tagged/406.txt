@@ -24,7 +24,7 @@ the Space Shuttles' Thermal Protection System</sentence>. </paragraph>
 
 <paragraph><sentence>The team formulated the requirements and drafted designs for
 both the High-Level Controller (HLC) and the End-Effector
-Positioning Software (EEPS)</sentence>. <sentence>These activities <speaker>mark</speaker> the half-way
+Positioning Software (EEPS)</sentence>. <sentence>These activities mark the half-way
 point of the T2 project</sentence>. </paragraph>
 
 <paragraph><sentence>The presentation will include the following topics</sentence>:</paragraph>

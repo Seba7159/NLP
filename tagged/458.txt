@@ -32,7 +32,7 @@ Abstract:
      description of the output</sentence>.</paragraph>
 
 <paragraph>     In  words,  the  context makes certain promises about the form of
-     the input and the output.  <sentence>In the <speaker>case</speaker> of residual programs  from
+     the input and the output.  <sentence>In the case of residual programs  from
      partial evaluation it is trivial to create good contexts</sentence>.</paragraph>
 
 <paragraph>     From  the  context it is possible to identify operations that are
@@ -40,4 +40,4 @@ Abstract:
      with pen-and-paper examples</sentence>.</paragraph>
 
       Note:   We welcome Morten to our department.  <sentence>He will be visiting
-      with Peter Lee for six months</sentence>.
+      with <speaker>Peter Lee</speaker> for six months</sentence>.

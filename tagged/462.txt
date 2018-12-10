@@ -1,6 +1,6 @@
 <0.15.5.95.09.40.16.mc8b+@andrew.cmu.edu.0>
 Type:     cmu.cs.scs
-Topic:    Special ECE Seminar May 19
+Topic:    <speaker>Special ECE Seminar May</speaker> 19
 Dates:    19-May-95
 Time:     <stime>11:00 AM</stime>
 Place:    <location>HH 1112</location>

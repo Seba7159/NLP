@@ -10,7 +10,7 @@ Abstract:
                              Monday, February 3, 1992
                                  <stime>3:30pm</stime>-<etime>5:00pm</etime>
                                 <location>Wean Hall 5409</location>
-                                  <speaker>Garth Gibson</speaker>
+                                  Garth Gibson
                            Carnegie Mellon University
                           School of Computer Science
 
@@ -33,4 +33,4 @@ specific attention to our immediate plans, the most difficult problems
 in front of us, and our long range vision for a hint-based prefetching
 file system interface</sentence>.</paragraph>
 
-<paragraph><sentence>This is joint work with R. Hugo Patterson</sentence>.</paragraph>
+<paragraph><sentence>This is joint work with R. Hugo <speaker>Patterson</speaker></sentence>.</paragraph>

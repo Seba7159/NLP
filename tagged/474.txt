@@ -35,4 +35,4 @@ Hillis, Bradley C. Kuszmaul, Margaret A. St.~Pierre, David S. Wells,
 Monica C. Wong, Shaw-Wen Yang, Robert Zak, and about 500 others</sentence>.</paragraph>
 
 ---
-If you want to talk to Charles Leiserson, please send mail to Marian D'Amico.
+If you want to talk to <speaker>Charles Leiserson</speaker>, please send mail to Marian D'Amico.

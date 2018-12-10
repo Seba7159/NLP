@@ -9,7 +9,7 @@ Abstract:
 
                        THE TOPOLOGY OF SET CONSENSUS
 
-                              <speaker>Maurice Herlihy</speaker>
+                              Maurice Herlihy
 
                              Brown University
 
@@ -49,5 +49,5 @@ Abstract:
 
       Note: Joint work with Sergio Rajsbaum, MIT.
 
-<paragraph>     If you would like to talk with Professor Herlihy, please  contact
+<paragraph>     If you would like to talk with <speaker>Professor Herlihy</speaker>, please  contact
      Marge at 85025 or mp3r@cs for available times.</paragraph>

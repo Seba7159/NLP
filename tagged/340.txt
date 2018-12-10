@@ -13,7 +13,7 @@ SPECIAL COMPUTER VISION SEMINAR           NOT SO FRIENDLY REMINDER :-)
        Wean 4634 
     Symbiosis between photogrammetry and image understanding</sentence>
 
-	Dr. <speaker>Chris McGlone</speaker>
+	Dr. Chris McGlone
 	Fairchild Weston Systems
 
 <paragraph>	Photogrammetry and image understanding are complementary fields; 

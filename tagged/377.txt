@@ -6,7 +6,7 @@ Time:     <stime>4:00 PM</stime>
 PostedBy: trg+ on 20-Sep-92 at 14:34 from N3.SP.CS.CMU.EDU (Thomas Gross)
 Abstract: 
 
-<paragraph><sentence>October 9       How Effective is Automatic Program Parallelization</sentence>?</paragraph>
+<paragraph><sentence>October 9       How Effective is <speaker>Automatic Program Parallelization</speaker></sentence>?</paragraph>
 
 <paragraph>                David A. Padua,   Center for Supercomputing Research and Development
  	        University of Illinois at Urbana-Champaign

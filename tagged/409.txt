@@ -7,9 +7,9 @@ PostedBy: garth+ on 7-Sep-93 at 17:52 from NIAGARA.NECTAR.CS.CMU.EDU (Garth Gibs
 Abstract: 
 
 <paragraph><sentence>At the end of tomorrow morning's SW engineering IC session
-we will have one additional speaker, <speaker>Steve Lucco</speaker>, who is a
+we will have one additional speaker, <speaker>Steve</speaker> Lucco, who is a
 recent faculty hire due to arrive full time next spring</sentence>.
-<sentence>Steve will be presenting a brief sketch of the following
+<sentence><speaker>Steve</speaker> will be presenting a brief sketch of the following
 interesting work that was not covered in his interview talk
 last spring</sentence>.</paragraph>
 

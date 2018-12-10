@@ -11,7 +11,7 @@ Abstract:
 
  		  Tempest: User-Level Shared Memory
 
-<paragraph>			     <speaker>David Wood</speaker>
+<paragraph>			     David Wood
 		     Computer Sciences Department
 		       University of Wisconsin
 		       1210 West Dayton Street
@@ -46,7 +46,7 @@ CM-5)</sentence>.  <sentence>We are currently developing a third Tempest impleme
 porting Blizzard to the Wisconsin COW (Cluster Of Workstations)</sentence>.</paragraph>
 
 <paragraph><sentence>This work is part of the Wisconsin Wind Tunnel project, co-led by
-Mark Hill, James Larus, and <speaker>David Wood</speaker></sentence>.</paragraph>
+Mark Hill, James Larus, and David Wood</sentence>.</paragraph>
 
                          Date:   Friday, September 23, 1994
 
@@ -58,4 +58,4 @@ Mark Hill, James Larus, and <speaker>David Wood</speaker></sentence>.</paragraph
 <paragraph><sentence>Refreshments served at 3:45</sentence></paragraph>
 
 <paragraph><sentence>The speaker will be here all day Friday</sentence>.  <sentence>Please contact 
-Barbara Sandling (sandling@cs) if you want to talk to him</sentence>.</paragraph>
+<speaker>Barbara Sandling</speaker> (sandling@cs) if you want to talk to him</sentence>.</paragraph>

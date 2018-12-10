@@ -15,7 +15,7 @@ Spring 1995</paragraph>
 
 <paragraph><sentence>The combination of activities below is designed to assist both current
 TAs and those preparing for future academic positions involving
-teaching</sentence>.  <sentence>Pre-registration is required; please <speaker>see</speaker> the reverse side for
+teaching</sentence>.  <sentence>Pre-registration is required; please see the reverse side for
 registration instructions</sentence>.  <sentence>Additional copies of this schedule are
 available on org.utc.teaching, assocs.gso, many department bboards, and
 also by calling x8-2896</sentence>.</paragraph>
@@ -23,7 +23,7 @@ also by calling x8-2896</sentence>.</paragraph>
 Seminars on Teaching
 
 <paragraph><sentence>Planning Effective Lectures 
-  Wednesday, February 1, <stime>4:15</stime> - <etime>6:15 PM</etime>, Carnegie Conference Room, Warner Hall
+  Wednesday, February 1, <stime>4:15</stime> - <etime>6:15 PM</etime>, <speaker>Carnegie Conference Room</speaker>, Warner Hall
 Even though all of us have observed hundreds of lectures as students,
 the process of preparing an effective lecture is anything but
 transparent</sentence>.  <sentence>How much material should be presented</sentence>?  <sentence>How can an

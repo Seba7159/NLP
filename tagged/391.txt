@@ -3,7 +3,7 @@ Type:     cmu.cs.scs
 Topic:    Space Robotics Seminar
 Dates:    17-Oct-91
 Time:     <stime>1:30</stime> - <etime>2:30 PM</etime>
-Place:    <location><speaker>Wean Hall</speaker>  5205</location>
+Place:    <location>Wean Hall  5205</location>
 Host:     Yangsheng Xu, x3737
 PostedBy: xu+ on 12-Sep-91 at 21:02 from IUS4.IUS.CS.CMU.EDU (Yangsheng Xu)
 Abstract: 
@@ -20,7 +20,7 @@ Abstract:
 
  Date:        Oct 17, (Thursday)
  Time:        <stime>1:30</stime>-<etime>2:30pm</etime>
- Place:       <location><speaker>Wean Hall</speaker>  5205</location>
+ Place:       <location>Wean Hall  5205</location>
  Host:        Yangsheng Xu, x3737
 
 <paragraph><sentence>Canada is participating in the international Space Station

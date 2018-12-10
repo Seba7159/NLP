@@ -16,7 +16,7 @@ Abstract:
 
 		      David A. Patterson,
 		Computer Science Division/EECS Dept.
-		 <sentence>University of California, <speaker>Berkeley</speaker></sentence>
+		 <sentence>University of California, Berkeley</sentence>
 
 <paragraph><sentence>Just a few years ago I doubted that massively parallel processors (MPP) 
 and software would ever converge on a common foundation, which is 
@@ -28,7 +28,7 @@ science theory in particular) will take advantage of this opportunity
 to contribute to and accelerate the success of massive parallelism</sentence>. </paragraph>
 
 <paragraph><sentence>This talk will first relay my (possibly controversial) observations:
-1: We really can get to 1 TeraFLOPS(Million MFLOPS)</sentence>! <sentence>And Soon</sentence>!
+1: We really can get to 1 TeraFLOPS(Million MFLOPS)</sentence>! <sentence>And <speaker>Soon</speaker></sentence>!
 2: Computer science has an obligation as well as an opportunity in MPP.
 3: MPP hardware organizations are converging, and early guesses at MPP 
 	issues were wrong.
@@ -37,7 +37,7 @@ to contribute to and accelerate the success of massive parallelism</sentence>. <
 	them to lead to important contributions in MPP.</paragraph>
 
 <paragraph><sentence>This is followed by an introduction to a more realistic model, called "LogP,"
-developed by architects and theoreticians at <speaker>Berkeley</speaker></sentence>. <sentence>The name LogP comes
+developed by architects and theoreticians at Berkeley</sentence>. <sentence>The name LogP comes
 from the four parameters of the model</sentence>:</paragraph>
 
  L: Latency of communication in the network.

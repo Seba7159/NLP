@@ -7,14 +7,14 @@ PostedBy: stankus+ on 26-Feb-92 at 10:33 from STANKUS.ADM.CS.CMU.EDU (Terri Stan
 Abstract: 
 
 
-	    GRAND C<speaker>HALL</speaker>ENGES FOR MACHINE LEARNING
+	    GRAND CHALLENGES FOR MACHINE LEARNING
 
 		      Jaime Carbonell
 	         School of Computer Science
 	         Carnegie Mellon University
 
                          <stime>3:30 pm</stime>
-                      <location>7500 Wean <speaker>Hall</speaker></location>
+                      <location>7500 Wean Hall</location>
 
 <paragraph><sentence>Machine learning has evolved from obscurity in the 1970s into a
 vibrant and popular discipline in artificial intelligence during the
@@ -23,16 +23,16 @@ learning is evolving into a collection of related disciplines:
 inductive concept acquisition, analytic learning in problem
 solving (e.g</sentence>. <sentence>analogy, explanation-based learning), learning
 theory (e.g</sentence>. <sentence>PAC learning), genetic algorithms, connectionist learning,
-hybrid systems, and so on</sentence>. <sentence>Standard experimental techniques are
+hybrid systems, and so on</sentence>. <sentence><speaker>Standard</speaker> experimental techniques are
 being developed, and publication is more rigorous</sentence>.  <sentence>The central
 question for many machine learning researches is how can the
 field mature into an accepted scientific discipline and still
 retain the excitement of the pioneer days of exploratory research</sentence>.
 <sentence>One way to address this issue is to create a collection of grand
-c<speaker>hall</speaker>enges for the field of machine learning as a whole, to
+challenges for the field of machine learning as a whole, to
 spur new research, increase cross-discipline collaboration and
 competition (both lead to better communication and learning about
 each other's methods)</sentence>.  <sentence>After reviewing the state of the art
-in machine learning, several c<speaker>hall</speaker>enges will be offered to researchers 
+in machine learning, several challenges will be offered to researchers 
 in the field and newcomers alike</sentence>.</paragraph>
 

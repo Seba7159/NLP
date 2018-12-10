@@ -19,7 +19,7 @@ Abstract:
 			    RISC-Robotics
 
 			      John Canny
-			    U.C. <sentence><speaker>Berkeley</speaker></sentence>
+			    U.C. <sentence>Berkeley</sentence>
 
 <paragraph>   RISC in a robotics context stands for Reduced Intricacy in Sensing and
    Control.  <sentence>But it shares the same philosophy as RISC computer design</sentence>.

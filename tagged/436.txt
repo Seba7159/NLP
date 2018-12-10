@@ -11,12 +11,12 @@ HCI Seminar
 
 <sentence>Programmable Applications for Scientists and Artists</sentence>
 
-<sentence>Mike Eisenberg
+<sentence><speaker>Mike Eisenberg</speaker>
 Department of Computer Science and Institute of Cognitive Science
 University of Colorado, Boulder</sentence>
 
 <paragraph><sentence>Wednesday, March 23
-<speaker>Wean Hall</speaker> 5409
+Wean Hall 5409
 <stime>3:30</stime>-<etime>5pm</etime> 
 Programmable applications are software systems that combine the
 learnability and accessibility of direct manipulation interfaces with
@@ -34,7 +34,7 @@ computational physics</sentence>.</paragraph>
 
  Host:  Phil Miller
 
-<paragraph><sentence>To schedule an appointment with Mike Eisenberg please contact Rebecca
+<paragraph><sentence>To schedule an appointment with <speaker>Mike Eisenberg</speaker> please contact Rebecca
 Clark at x8-6737</sentence>.</paragraph>
 
 <paragraph><sentence>Please see /afs/cs/user/dandb/hciseminar.txt for a list of upcoming HCI

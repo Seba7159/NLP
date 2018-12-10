@@ -11,7 +11,7 @@ PostedBy: baraff on 2-May-95 at 19:21 from TURNOVER.GRAPHICS.CS.CMU.EDU
 Abstract: 
 
 <paragraph><sentence>Folks, if you are interested in meeting with Dr. Baheti,
-please send mail</sentence>.  <sentence>I am adding people to his schedule
+please send mail</sentence>.  <sentence>I am <speaker>adding peo</speaker>ple to his schedule
 on a first-come/first-serve basis</sentence>.</paragraph>
 
 ----------------------------------------------------------
@@ -49,8 +49,8 @@ advanced manufacturing technology</sentence>.</paragraph>
 
 <paragraph><sentence><speaker>Dr. Kishan Baheti</speaker> is a Program Director for Engineering Systems
 Program in the Division of Electrical and Communications Systems at
-NSF</sentence>.  <sentence>Dr. Baheti received his Ph.D. in Electrical Engineering from
-Oregon State University in 1975</sentence>.  <sentence>From 1975 to 1989, he was a research
+NSF</sentence>.  <sentence>Dr. Baheti received his Ph.D. in Electrical Engineering f<speaker>rom
+Oregon</speaker> State University in 1975</sentence>.  <sentence>From 1975 to 1989, he was a research
 scientist with General Electric Corporate Research and Development
 Center in Schenectady, New York</sentence>.  <sentence>His research interests include
 sensor based multivariable control systems for advanced manufacturing

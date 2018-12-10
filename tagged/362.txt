@@ -6,10 +6,10 @@ Time:     <stime>12:00</stime> - <etime>1:00</etime>
 PostedBy: feline+ on 22-Mar-93 at 11:51 from ISL1.RI.CMU.EDU (Carol S Boshears)
 Abstract: 
 
-<paragraph><sentence>CIMDS Seminar - Steve Chien, JPL, 3/30</sentence>. <stime>12:00</stime>-<etime>1:00</etime>, <location>Doherty Hall</location> ??
+<paragraph><sentence>CIMDS Seminar - <speaker>Steve</speaker> Chien, JPL, 3/30</sentence>. <stime>12:00</stime>-<etime>1:00</etime>, <location>Doherty Hall</location> ??
 	<sentence>Learning Control Knowledge for Scheduling</sentence></paragraph>
 
-			Steve Chien
+			<speaker>Steve</speaker> Chien
 		Jet Propulsion Laboratory
 	     California Institute of Technology
 
@@ -37,9 +37,9 @@ produce a schedule by 50% for problems solvable by the scheduler</sentence>.
 <sentence>In addition, the machine learning allowed the scheduler to solve 15% more 
 of the problems within computational resource limitations</sentence>.</paragraph>
 
-(This is joint work with Jonathan Gratch and <speaker>Gerald DeJong</speaker> of the
+(This is joint work with Jonathan Gratch and Gerald DeJong of the
 University of Illinois)
 
-<paragraph><sentence>Steve is interested in meeting with anyone working on projects in planning,
-scheduling and learning</sentence>. <sentence>If you are interested in meeting with Steve, please
+<paragraph><sentence><speaker>Steve</speaker> is interested in meeting with anyone working on projects in planning,
+scheduling and learning</sentence>. <sentence>If you are interested in meeting with <speaker>Steve</speaker>, please
 set up a time with Carol (boshears@isl1.ri.cmu.edu)</sentence>.</paragraph>

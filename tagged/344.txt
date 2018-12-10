@@ -23,5 +23,5 @@ walk along curve A, and your dog walked along curve B, without backing up</sente
 <sentence>We present efficient algorithms for several problems in this context,
 and state some open problems</sentence>.</paragraph>
 
-<sentence>Joint work with J. Ruppert of the University of California, <speaker>Berkeley</speaker></sentence>.
+<sentence>Joint work with J. Ruppert of the University of California, Berkeley</sentence>.
 ***********************************************************************

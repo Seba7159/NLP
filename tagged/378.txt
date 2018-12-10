@@ -1,12 +1,12 @@
 <0.29.8.91.22.10.28.garlan+@RILA.ABLE.CS.CMU.EDU (<sentence>David Garlan</sentence>).0>
 Type:     cmu.cs.scs
-Topic:    Programming Systems Seminar
+Topic:    Programming <speaker>Systems Seminar</speaker>
 Dates:    30-Sep-91
 Time:     <stime>3:30</stime> - <etime>5:00</etime>
 PostedBy: garlan+ on 29-Aug-91 at 22:10 from RILA.ABLE.CS.CMU.EDU (David Garlan)
 Abstract: 
 
-<paragraph><sentence>As has been the <speaker>case</speaker> for many years, the Programming Systems Seminar will
+<paragraph><sentence>As has been the case for many years, the Programming <speaker>Systems Seminar</speaker> will
 take place Mondays from <stime>3:30</stime> to <etime>5:00</etime> in <location>WeH 5409</location>, starting September 30</sentence>.
 <sentence>For those new to CMU, the seminar features research presentations in the
 general area of programming systems</sentence>.  <sentence>Speakers include both invited guests

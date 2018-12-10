@@ -1,18 +1,18 @@
 <0.26.9.94.11.56.23.prs+@N2.SP.CS.CMU.EDU (peter steenkiste).0>
 Type:     cmu.cs.scs
-Topic:    CS/PSC/PS seminar Steve McGeady on 10/17
+Topic:    CS/PSC/PS seminar <speaker>Steve McGeady</speaker> on 10/17
 Dates:    17-Oct-94
 Time:     <stime>3:30 PM</stime>
-Place:    <location><speaker>Wean Hall</speaker> 5409</location>
+Place:    <location>Wean Hall 5409</location>
 PostedBy: prs+ on 26-Sep-94 at 11:56 from N2.SP.CS.CMU.EDU (peter steenkiste)
 Abstract: 
 
 <paragraph>
-Steve McGeady from Intel will be at CMU on Oct 17 and give a CS/PSC/PS
+<speaker>Steve McGeady</speaker> from Intel will be at CMU on Oct 17 and give a CS/PSC/PS
 seminar.  <sentence>Appended is an abstract of his presentation on "The new computer
 and communications industry"</sentence>.</paragraph>
 
-<paragraph><sentence>Steve McGeady is talking to people interested in software as it applies to
+<paragraph><sentence><speaker>Steve McGeady</speaker> is talking to people interested in software as it applies to
 multimedia, speech and handwriting recognition, video compression, databases
 for multimedia including indexing, browsing and retrieval techniques (even
 fuzzy logic scenarios), agent technology, new visualization techniques,
@@ -24,7 +24,7 @@ available for a limited time</sentence>.</paragraph>
 -------------
  The New Computer and Communication Industry</sentence>
 
-<sentence>Steve McGeady
+<sentence><speaker>Steve McGeady</speaker>
 Intel Corporation</sentence>
 
 <paragraph><sentence>We have been bombarded lately with breathless reports about an "Information
@@ -41,4 +41,4 @@ analyze the ongoing and impending shifts in the communications industry, and
 highlight Architecture Labs and Intel's Media Delivery Lab</sentence>.</paragraph>
 
  When:	October 17, <stime>3:30pm</stime>
- Where:	<location><speaker>Wean Hall</speaker> 5409</location>
+ Where:	<location>Wean Hall 5409</location>

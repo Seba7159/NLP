@@ -121,10 +121,10 @@ def main():
             mapTagEval[tag]['fn'] += fn
 
             # Show what are the false values
-            # if tag is "speaker" and fp > 0:
-            #     print(file + "fp" + str(fp))
-            # if tag is "speaker" and fn > 0:
-            #     print(file + "fn" + str(fn))
+            if tag is "speaker" and fp > 0:
+                print(file + "fp" + str(fp))
+            if tag is "speaker" and fn > 0:
+                print(file + "fn" + str(fn))
 
     # Define accuracy, precision, recall and f1 measure
     precision = 0
@@ -183,3 +183,7 @@ def main():
 
     # End method
     return
+
+# Main method again
+if __name__ == '__main__':
+    main()

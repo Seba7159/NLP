@@ -26,7 +26,7 @@ departments, and by calling x8-2896</sentence>.</paragraph>
 Seminars on Teaching
 
 ******************
-Getting Started as a TA:  Increasing Your Confidence, Efficiency and
+Getting Started as a TA:  Increasing Your Confidence, <speaker>Efficiency</speaker> and
 Comfort in the Classroom
 Friday, August 26, <stime>9:00</stime> - <etime>10:15 AM</etime>, Cyert Hall 119
 We will discuss effective ways to fulfill a variety of teaching roles

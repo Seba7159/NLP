@@ -12,7 +12,7 @@ There is no Robotics Seminar this Friday.
 ------------------------------------------------------------------------------
 			   ROBOTICS SEMINAR
 
-<paragraph><sentence><speaker>Friday April</speaker> 21, <stime>3:30</stime>-<etime>5:00</etime>
+<paragraph><sentence>Friday April 21, <stime>3:30</stime>-<etime>5:00</etime>
 Refreshments 3:15
 Adamson Wing, Baker Hall
 	           Real-Time Focus Range Sensor

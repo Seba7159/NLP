@@ -20,7 +20,7 @@ Carnegie Mellon                                              SCS AI Seminar</par
 <sentence>contribute to establishing the meaning of  an  utterance</sentence>.  <sentence>Delaying the use
 of   a knowledge   source    during   language   comprehension   introduces
 computational inefficiency in the  form  of overgeneration</sentence>.   <sentence>On the  other
-hand, ensuring that all relevant knowledge is brought  to <speaker>bear</speaker> as each word
+hand, ensuring that all relevant knowledge is brought  to bear as each word
 in the sentence is understood is a difficult design problem</sentence>.  <sentence>As a solution
 to this problem, we present  NL-Soar, a language comprehension system  that
 integrates  disparate knowledge sources automatically</sentence>.  <sentence>Through experience,

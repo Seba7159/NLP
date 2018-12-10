@@ -29,7 +29,7 @@ RI SEMINAR
 experience performing a specific task, in order to improve their performance 
 in future executions of the task</sentence>. <sentence>Although there are some precursors, the filed 
 started in 1984 with several researchers on different continents (including 
-Professor Longman, then Australia) addressing the problem of improving control 
+Professor Longman, then Australia) add<speaker>ressing the probl</speaker>em of improving control 
 system performance for robots performing repetitive tasks on assembly lines</sentence>. 
 <sentence>The talk will give an overview of learning control strategies that make use of 
 control theory concepts to accomplish their learning</sentence>.</paragraph>

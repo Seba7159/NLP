@@ -48,7 +48,7 @@ the telecommunications and financial industries</sentence>.</paragraph>
  Senior Vice President of Research and Development
  Director, Hewlett-Packard Laboratories
 
-<paragraph><sentence>Dr. Birnbaum's talk will set the stage for the rest of the NTU
+<paragraph><sentence>Dr. Birnbaum's talk will set the stage<speaker> for the res</speaker>t of the NTU
 broadcast</sentence>.  <sentence>He will discuss how the first beneficiaries of
 object technology will be software developers;  objects help
 manage complexity, encourage reuse, and lead to better, more

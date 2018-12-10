@@ -8,10 +8,10 @@ Abstract:
 
 <paragraph>	Pittsburgh Supercomputing Center (PSC)/Computer Systems Seminar</paragraph>
 
-<paragraph>                The S3.mp Scalable Shared Memory Multiprocessor:
+<paragraph>                The S3.mp Scalable <speaker>Shared Memory Multiprocessor</speaker>:
 		      The Network is the Computer, really!</paragraph>
 
-<paragraph>			     <speaker>Andreas</speaker>  Nowatzyk 
+<paragraph>			     Andreas  Nowatzyk 
                   Sun Microsystems Computer Corporation (SMCC)</paragraph>
 
 <paragraph>   	   Friday,  Oct 22, Wean Hall 5409, <stime>4:00 p.m</stime>.</paragraph>

@@ -15,7 +15,7 @@ Abstract:
               Similix --- A Partial Evaluator for a Scheme Subset:
                             Overview and Applications
 
-<paragraph>                                 <speaker>Anders Bondorf</speaker>
+<paragraph>                                 Anders Bondorf
                                 DIKU, Copenhagen</paragraph>
 
 <paragraph>        In   this   talk  we  present  Similix,  a  publically  available
@@ -42,7 +42,7 @@ Abstract:
         language "BAWL" (similar to "Orwell")</sentence>.</paragraph>
 
 <paragraph>        Professor Bondorf will be here Thursday and Friday.  <sentence>If you would
-        like an appointment to speak with him, please call Marge at x5025
+        like an appointment to speak with him, please call <speaker>Marge</speaker> at x5025
         or email profeta@cs</sentence>.</paragraph>
 
         *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -  *  -       

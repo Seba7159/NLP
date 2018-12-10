@@ -14,6 +14,6 @@ Steelcase, Inc., the office equipment manufacturer</sentence>.  <sentence>He wil
 focus on the ways in which poorly designed office furniture
 can contribute to carpal tunnel syndrome and other illnesses</sentence>.</paragraph>
 
-<paragraph>  I have asked Mr. Mateus to keep the discussion as generic as
+<paragraph>  I have asked <speaker>Mr. Mateus</speaker> to keep the discussion as generic as
 possible.  <sentence>However, I do anticipate he will use some illustrations
 of Steelcase products during his presentation</sentence>.</paragraph>

@@ -10,6 +10,7 @@ from os.path import isfile, join
 # Define speakers and locations to get from training data
 training_speakers = ['']
 training_locations = ['']
+name_titles = ["Mr.", "Mr", "Ms.", "Ms", "Mrs.", "Mrs", "Dr.", "Dr", "Prof.", "Prof", "Doctor", "Professor", "Assistant"]
 
 
 ### Methods
@@ -205,7 +206,7 @@ def tagParagraphsAndSentences(fileName):
 
 
 # Method for tagging the speaker of the annoucement
-def tagSpeaker(fileName, nameData):
+def tagSpeaker(fileName, nameData, famData):
     # Tag speaker by given attributes from the whole file
     headerSpeakerRegExs = ["who:(.*)", "speaker:(.*)", "name:(.*)"]
     for regEx in headerSpeakerRegExs:
@@ -237,16 +238,18 @@ def tagSpeaker(fileName, nameData):
         nameFound = ""
         for name in nameData:
             # Check if name exists in text
-            if (" "+name.lower()+" ") in mapFiles[fileName].lower() and name is not "":
+            if 'topic' not in mapTags[fileName]:
+                continue
+            if (" "+name.lower()+" ") in mapTags[fileName]['topic'].lower() and name is not "":
                 nameFound = name
                 break
-            elif (" "+name.lower()+"<") in mapFiles[fileName].lower() and name is not "":
+            elif (" "+name.lower()+"<") in mapTags[fileName]['topic'].lower() and name is not "":
                 nameFound = name
                 break
-            elif (">"+name.lower()+" ") in mapFiles[fileName].lower() and name is not "":
+            elif (">"+name.lower()+" ") in mapTags[fileName]['topic'].lower() and name is not "":
                 nameFound = name
                 break
-            elif (">"+name.lower()+"<") in mapFiles[fileName].lower() and name is not "":
+            elif (">"+name.lower()+"<") in mapTags[fileName]['topic'].lower() and name is not "":
                 nameFound = name
                 break
         # To check if names appear in text and call it the speaker
@@ -299,12 +302,22 @@ def tagSpeaker(fileName, nameData):
 
     # Tag speaker now if found
     if 'speaker' in mapTags[fileName]:
+        # Get surname of speaker
+        names = mapTags[fileName]['speaker'].split(" ")
+        surname = names[len(names)-1].strip()
+
         # Strip speaker
         mapTags[fileName]['speaker'] = mapTags[fileName]['speaker'].strip()
         counter = 0
         for location in find_all(mapFiles[fileName].lower(), mapTags[fileName]['speaker'].lower()):
             tag(location + counter, mapTags[fileName]['speaker'].lower(), fileName, 'speaker')
             counter += 1 + 2 * len('<speaker>')
+        if len(surname) > 0:
+            print(surname, fileName)
+            for title in name_titles:
+                for location in find_all(mapFiles[fileName].lower(), (title+" "+surname).lower()):
+                    tag(location + counter, (title+" "+surname).lower(), fileName, 'speaker')
+                    counter += 1 + 2 * len('<speaker>')
 
     # Worst case, speaker can't be found
     return
@@ -382,7 +395,7 @@ def tagLocation(fileName):
 
 
 ## Main method
-def main(mapFl, mapTg, mapHd, mapCt, nameData):
+def main(mapFl, mapTg, mapHd, mapCt, nameData, famData):
     # Put function data in global data
     global mapFiles
     mapFiles = mapFl
@@ -404,7 +417,7 @@ def main(mapFl, mapTg, mapHd, mapCt, nameData):
         tagTopic(fileName)
         tagParagraphsAndSentences(fileName)
         tagLocation(fileName)
-        tagSpeaker(fileName, nameData)
+        tagSpeaker(fileName, nameData, famData)
         tagTimes(fileName)
 
     # Print files

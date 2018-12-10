@@ -15,7 +15,7 @@ x
 
 <paragraph>                            Thursday, 9 April 1992
                                     <stime>3:30 PM</stime>
-                                <location><speaker>Wean Hall</speaker> 4623</location>
+                                <location>Wean Hall 4623</location>
    Many  problems  in  computer  graphics,  geometric  and  solid  modeling,
    robotics, vision, symbolic and  scientific  computation  are  reduced  to
    manipulating  system  of  polynomial  equations.  <sentence>In  particular, sets of

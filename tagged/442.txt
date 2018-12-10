@@ -17,7 +17,7 @@ Abstract:
         ***Computational Materials Science:  The Dawn of a New Age***
 
 <paragraph>                                presented by
-                             <speaker>Arthur J</speaker>.  Freeman
+                             Arthur J.  Freeman
                      Department of Physics and Astronomy
                            Northwestern University</paragraph>
 

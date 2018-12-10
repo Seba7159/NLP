@@ -32,7 +32,7 @@ on to build such a machine, the ZS-1, for the Astronautics Corp. of America</sen
 <sentence>After Seymour Cray left to form Cray Computer, he joined Cray Research as
 computer architect</sentence>.  <sentence>The abstract may sound a little dry, but I think the
 talk will not disappoint you, especially if you wonder what is happening in
-this part of the supercomputer world [I don't want to <speaker>say</speaker> more; Cray
+this part of the supercomputer world [I don't want to say more; Cray
 Research after all is the company that developed the Cray X-MP and the 
 Cray Y-MP.</sentence>]  --TRG
 

@@ -20,7 +20,7 @@ Bellcore</sentence>
 <paragraph><sentence>In the last five years or so, many economists and associated pundits
 have born much bad news about the effect of computers on productivity</sentence>.
 <sentence>I'll show you the data, and conclude that things probably are just as
-bad as they <speaker>see</speaker>m</sentence>.</paragraph>
+bad as they seem</sentence>.</paragraph>
 
 <paragraph><sentence>Then we'll look for root causes and possible cures</sentence>. <sentence>The main problem is that
 computer applications are of little help for improving the efficiency of the
@@ -31,5 +31,5 @@ evidence will be displayed</sentence>. </paragraph>
 
 <sentence>Further Details</sentence>:
 
-<paragraph><sentence>Please <speaker>see</speaker> /afs/cs/user/dandb/hciseminar.txt for a list of upcoming HCI
+<paragraph><sentence>Please see /afs/cs/user/dandb/hciseminar.txt for a list of upcoming HCI
 seminar speakers</sentence>.</paragraph>

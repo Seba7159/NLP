@@ -61,13 +61,13 @@ Abstract:
 
 About the speaker:
 
-    Mr. Eggleston is currently the Director of Marketing and Sales for
+    Mr. Eggleston is currently the Directo<speaker>r of Marketin</speaker>g and Sales for
     Amerinex Artificial Intelligence, Inc..  Prior to joining Amerinex, Mr.
     Eggleston was the manager of the Advanced Algorithm Prototyping and
     Analysis group at Avco Research Laboratories/Textron were he was
     responsible for the conceptialization and construction of Autonomous
-    Target Recognizers.  Mr. Eggleston has also previously been employed by
-    the Eastman Research Laboratories where he designed and image processing
+    Target Recognizers.  Mr. Eggleston has also previously been<speaker> employed by
+</speaker>    the Eastman Research Laboratories where he designed and image processing
     algorithms and implemented them in A.S.I.C.  (Application Specific I.C.)
     form.  Mr.  Eggleston has also served as a Faculty member for
     Northeastern University and the Rochester Institute of Technology, where

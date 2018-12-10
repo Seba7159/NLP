@@ -13,7 +13,7 @@ Abstract:
 
                            Wednesday, March 17, 1993
                                     <stime>3:30 PM</stime>
-                                <location><speaker>Wean Hall</speaker> 7500</location>
+                                <location>Wean Hall 7500</location>
                    Cooperative Agents:  Machines and Humans*
 
 <paragraph><sentence>Recently  we  have  embarked on an investigation of Cooperative Agents</sentence>.  <sentence>Agents

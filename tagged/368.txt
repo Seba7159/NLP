@@ -1,10 +1,10 @@
-<0.6.4.95.20.03.41.os22+@andrew.cmu.edu (<sentence>Oliver</sentence> Schulte).0>
+<0.6.4.95.20.03.41.os22+@andrew.cmu.edu (<sentence>Oliver</sentence> <speaker>Schulte</speaker>).0>
 Type:     cmu.cs.robotics.students
 Topic:    Financial Aid Seminar this Thursday
 Dates:    6-Apr-95
 Time:     <stime>4:30</stime> - <etime>6:30 PM</etime>
 Place:    <location>Adamson Wing, Baker Hall</location>
-PostedBy: os22+ on 6-Apr-95 at 20:03 from andrew.cmu.edu (Oliver Schulte)
+PostedBy: os22+ on 6-Apr-95 at 20:03 from andrew.cmu.edu (Oliver <speaker>Schulte</speaker>)
 Abstract: 
 
 
@@ -13,7 +13,7 @@ STUDENT AID: WHAT THERE IS AND HOW TO GET IT
 <sentence>As part of National Graduate Awareness Week, GSO presents an information
 seminar on graduate student loans</sentence>.
 
-<paragraph><sentence><speaker>Dave Gould</speaker> from the Financial Aid Office will give an overview of
+<paragraph><sentence>Dave Gould from the Financial Aid Office will give an overview of
 federal loan programs, explain eligibility criteria and application
 procedures, and answer any questions you may have</sentence>.</paragraph>
 
@@ -26,7 +26,7 @@ procedures, and answer any questions you may have</sentence>.</paragraph>
 Oliver
 
 -----------------------------------------------------------------------------
-Oliver Schulte  os22@andrew.cmu.edu          GSO Liasion Officer
+Oliver <speaker>Schulte</speaker>  os22@andrew.cmu.edu          GSO Liasion Officer
 Logic and Computation Program		     "A is better off if B is better 
 Carnegie Mellon University, Pittsburgh, PA   off" - v. Foerster
 

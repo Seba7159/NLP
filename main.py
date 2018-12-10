@@ -27,7 +27,7 @@ mapContent = {}
 mapTags = {}
 # Defining first and surnames to get from 'names' data
 nameData = []
-famData = ["Mr.", "Mr", "Ms.", "Ms", "Mrs.", "Mrs", "Dr.", "Dr", "Prof.", "Prof"]
+famData = []
 # Define categories and sub-categories map
 categoryMap = {}
 
@@ -73,8 +73,6 @@ def readContents():
     content = file.read().split("\n")
     for name in content:
         famData.append(name)
-    for c in string.ascii_lowercase:
-        famData.append(c + ".")
 
 
 # Method to read the categories for ontology creation
@@ -96,14 +94,14 @@ if __name__ == '__main__':
     # Print start message for part 1
     print("Tagging started.. ")
     # Call tagging.py main to do this part
-    tagging.main(mapFiles, mapTags, mapHeaders, mapContent, nameData)
+    tagging.main(mapFiles, mapTags, mapHeaders, mapContent, nameData, famData)
     # Print end message for part 1
     print("Finished tagging files!\n")
 
     # Print evaluator values
     print("Evaluating..")
     evaluator.main()
-    print("Evaluator ended.\n") 
+    print("Evaluator ended.\n")
 
     # Part II: Ontology creation
     # Beginning message
@@ -111,8 +109,7 @@ if __name__ == '__main__':
     categoryMap = getCategories()
     # Load Word2Vec model
     print("  Loading Word2Vec... (this might take a while)")
-    model = gensim.models.KeyedVectors.load_word2vec_format('../word2vec/GoogleNews-vectors-negative300.bin',
-                                                            binary=True)
+    model = gensim.models.KeyedVectors.load_word2vec_format('../word2vec/GoogleNews-vectors-negative300.bin', binary=True)
     print("  Word2Vec has been successfully loaded!\n")
     # Run ontology creation from ontology_creator 'main' method
     ontology_creator.main(model, mapFiles, mapTags, categoryMap, mapContent)
